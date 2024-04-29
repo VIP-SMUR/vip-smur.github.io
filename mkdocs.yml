@@ -1,4 +1,39 @@
 site_name: Surrogate Modeling for Urban Regeneration
 
+url: /wiki/
+repo_url: https://github.com/VIP-SMUR/wiki
+
+
 theme:
   name: material
+  features:
+    - search.highlight
+    - search.suggest
+    - search.share
+    #- header.autohide
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    primary: teal
+
+
+#nav:
+#  - Home: 'index.md'
+#  - About:
+#    - 'Release Notes': 'release-notes.md'
+
+
+plugins:
+  - search
+  - tags
+  #- optimize
+
+extra:
+  tags:
+    Mobility: mobility
+    Microclimate: microclimate
+    Energy: energy
