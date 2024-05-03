@@ -94,7 +94,7 @@ This Python script analyzes a GeoJSON file containing block group data, calculat
 4. **Land Diversity Calculation**: Calculates LDI per block by normalizing the entropies of all the blocks
 5. **return file**: generates a CSV with the data and LDI values required for creating visualizations in LDI_visualization.ipynb.
 
-### get_blockgroup_population Function
+### Population Density Index Generator
 
 #### Description
 
