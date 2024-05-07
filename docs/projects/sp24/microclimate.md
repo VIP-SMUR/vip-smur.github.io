@@ -34,7 +34,7 @@ Run the scripts individually as needed.
 - There are over 60 parameters available for testing, however, the documentation does not provide an accurate measure of the range for input, and so it must be tested out manually. 
 - The outputted EPW file requires a bit of cleaning, as the values of the vectors are shifted one to the left.
 
-## 2. Snsitivty Analysis
+## 2. Sensitivty Analysis
 #### Process
 for the sobol sensitivity analysis, we define an objective function that takes in our parameters to measure the correlation coefficient and covariance. In this case, we went with measuring the RMSE value to simulated dry bulb temperature to the canyon temperature of the Georgia Tech Campus. Due to the design of the function, the more that the values differ from the actual, the more it would penalize the performance, leading to more accurate outputs. Within our final plotting, we see that our data tends to be normally distributed, which further supports the accuracy of the sensitivity analysis.
 #### Issues
