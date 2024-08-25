@@ -12,7 +12,7 @@
 
     Implements the PEI methodology, a composite measure of walkability using four key subindices.
 
-    [:octicons-arrow-right-24: Learn more](/wiki/projects/sp24/mobility-1/)
+    [:octicons-arrow-right-24: Learn more](sp24/mobility-1.md)
 
 -   :material-clock-time-five-outline:{ .lg .middle } __Segregation in the 15-Minute City__
 
@@ -20,7 +20,7 @@
 
     Investigates segregation on a basis of mobility within the context of a 15-minute city.
 
-    [:octicons-arrow-right-24: Learn more](/wiki/projects/sp24/mobility-1/)
+    [:octicons-arrow-right-24: Learn more](sp24/mobility-1.md)
 
 
 
@@ -30,7 +30,7 @@
 
     Models the urban heat island effect using EnergyPlus (.epw) weather files.
 
-    [:octicons-arrow-right-24: Learn more](/wiki/projects/sp24/microclimate/)
+    [:octicons-arrow-right-24: Learn more](sp24/microclimate.md)
 
 
 
@@ -40,7 +40,7 @@
 
     Uses machine learning models to optimize building design parameters for energy consumption.
 
-    [:octicons-arrow-right-24: Learn more](/wiki/projects/sp24/energy/)
+    [:octicons-arrow-right-24: Learn more](sp24/energy.md)
 
 
 
