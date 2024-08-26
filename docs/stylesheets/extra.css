@@ -1,0 +1,18 @@
+/*:root {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+}*/
+[data-md-color-scheme="slate"] {
+    --md-hue: 210; 
+}
+[data-md-color-scheme="custom"] {
+    /*
+    --md-primary-fg-color: #546d78;
+    --md-primary-fg-color--light: #607c8a;
+    --md-primary-fg-color--dark: #455a63;
+*/
+    --md-primary-fg-color: #009485;
+    --md-primary-fg-color--light: #26a699;
+    --md-primary-fg-color--dark: #007a6c;
+}

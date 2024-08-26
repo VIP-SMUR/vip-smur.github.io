@@ -8,6 +8,8 @@ tags:
 
 # Student team members
 
+---
+
 ## Spring 2024
 
 | Name | Year | Major | Department | GitHub | Topic Area |

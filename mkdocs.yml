@@ -11,21 +11,65 @@ theme:
     - search.suggest
     - search.share
     #- header.autohide
+
+    - announce.dismiss
+
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    - content.footnote.tooltips
+    - content.tabs.link
+    - content.tooltips
+
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.instant.preview
+    - navigation.prune
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+
+    - search.highlight
+    - search.share
+    - search.suggest
+
+    - toc.follow
+    # - toc.integrate
+
+
+
   palette:
-    primary: teal
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: custom 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 
-#nav:
-#  - Home: 'index.md'
-#  - About:
-#    - 'Release Notes': 'release-notes.md'
-
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
@@ -78,3 +122,35 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+
+plugins:
+  - search
+  - tags
+  # - optimize # need to be insider (donation-based) to activate
+
+
+
+  - multirepo:
+      # (optional) tells multirepo to cleanup the temporary directory after site is built.
+      cleanup: false
+      #nav_repos:
+        #- name: EnergyInBuildings
+        #  import_url: https://github.com/VIP-SMUR/Sp24-EnergyInBuildings?branch=main
+        #  imports: [/README.md]
+
+nav:
+  - Home:
+      - Getting started: index.md
+      - Get involved: get-involved.md
+  - Projects: 
+    - Project overview: projects/index.md
+    - 24-Sp-Energy: projects/sp24/energy.md
+    - 24-Sp-Microclimate: projects/sp24/microclimate.md
+    - 24-Sp-Mobility-1: projects/sp24/mobility-1.md
+    - 24-Sp-Mobility-2: projects/sp24/mobility-2.md
+
+
+  - Team: 
+    - Student team overview: teams/students.md
+  #- FastAPI: EnergyInBuildings/README.md

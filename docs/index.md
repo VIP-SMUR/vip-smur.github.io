@@ -1,4 +1,4 @@
-# Home
+# Getting started
 
 ---
 
@@ -50,13 +50,6 @@ We seek students with either an experience with Python/C# and machine learning a
     - Rapid prediction of building energy demand
     - Urban building energy modeling (UBEM)
 
----
-
-## 🤝 Get Involved
-
-Join our team and make a lasting impact on urban environments!
- 
-[Learn More (undergraduate)](https://vip.gatech.edu/apply-undergraduate-students) | [Learn More (graduate)](https://vip.gatech.edu/graduate-students) | [Contact Us](mailto:patrick.kastner@gatech.edu)
 
 
 
