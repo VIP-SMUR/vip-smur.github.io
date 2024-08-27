@@ -47,25 +47,23 @@ theme:
 
 
   palette:
-
-    # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-auto
+        icon: material/link
         name: Switch to light mode
-
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: custom 
+      scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to system preference
 
 
@@ -82,6 +80,9 @@ extra:
     Mobility: mobility
     Microclimate: microclimate
     Energy: energy
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/VIP-SMUR
 
 
 markdown_extensions:
@@ -122,13 +123,14 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
 
 
 plugins:
   - search
   - tags
   # - optimize # need to be insider (donation-based) to activate
+  - minify:
+    minify_html: true
 
 
 
