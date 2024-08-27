@@ -1,6 +1,7 @@
 site_name: Surrogate Modeling for Urban Regeneration (SMUR)
 site_url: https://vip-smur.github.io/wiki/
 repo_url: https://github.com/VIP-SMUR/wiki
+edit_uri: ./edit/main
 site_author: Patrick Kastner
 site_description: >-
   This is the project page of the Surrogate Modeling for Urban Regeneration (VIP) at Georgia Tech.
