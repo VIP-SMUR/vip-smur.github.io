@@ -38,7 +38,7 @@ We seek an interdisciplinary team of highly motivated students. We plan to form 
 We seek students with either an experience with Python/C# and machine learning and simulation modeling will be advantageous.
 
 
-## 📊 [Project Overview](projects/index.md)
+## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
 
 - **Mobility**
     - Pedestrian flows
