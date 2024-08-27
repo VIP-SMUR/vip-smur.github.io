@@ -44,7 +44,7 @@ We seek students with either an experience with Python/C# and machine learning a
     - Pedestrian flows
     - Urban accessibility
 - **Microclimate**
-      - Heat island effect
+    - Heat island effect
     - Urban cooling strategies
 - **Energy in Buildings**
     - Rapid prediction of building energy demand
