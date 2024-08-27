@@ -125,14 +125,13 @@ markdown_extensions:
   - pymdownx.snippets
 
 
+# Plugins
 plugins:
-  - search
   - tags
-  # - optimize # need to be insider (donation-based) to activate
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
-    minify_html: true
-
-
+      minify_html: true
 
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
