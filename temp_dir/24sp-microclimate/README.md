@@ -110,3 +110,13 @@ To access:
 2. Harnessing cooling from urban trees: Interconnecting background climates, urban morphology, and tree traits, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-234, 2024.
 
 3. Bhatt MM, Gupta K, Danodia A, Chakroborty SD, Patel NR. Detailed urban roughness parametrization for anthropogenic heat flux estimation using earth observation data. Heliyon. 2023 Jul 17;9(7):e18361. doi: 10.1016/j.heliyon.2023.e18361. Erratum in: Heliyon. 2023 Sep 10;9(9):e19953. PMID: 37519678; PMCID: PMC10375860
+
+---
+
+## GNI Abstract
+
+https://github.com/kastnerp/Abstract-GNI-Symposium-Microclimate
+
+## GNI Data Processing
+
+https://github.com/kastnerp/GNI-Microclimate-Paper

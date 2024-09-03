@@ -42,7 +42,7 @@
 
     Uses machine learning models to optimize building design parameters for energy consumption.
 
-    [:octicons-arrow-right-24: Learn more](sp24/energy.md)
+    [:octicons-arrow-right-24: Learn more](energyinbuildings/README.md)
 
 
 

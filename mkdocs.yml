@@ -136,10 +136,44 @@ plugins:
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
       cleanup: false
-      #nav_repos:
-        #- name: EnergyInBuildings
-        #  import_url: https://github.com/VIP-SMUR/Sp24-EnergyInBuildings?branch=main
-        #  imports: [/README.md]
+      nav_repos:
+      # Fall 2024
+        - name: 24Fa-MPONC
+          import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
+          imports: [/README.md]
+        - name: 24Fa-Neuroarchitecture
+          import_url: https://github.com/VIP-SMUR/24Fa-Neuroarchitecture?branch=main
+          imports: [/README.md]
+        - name: 24Fa-EnergyInBuildings-Res
+          import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Res?branch=main
+          imports: [/README.md]
+        - name: 24Fa-EnergyInBuildings-Com
+          import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com?branch=main
+          imports: [/README.md]
+        - name: 24Fa-Microclimate-UWG
+          import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-UWG?branch=main
+          imports: [/README.md]
+        - name: 24Fa-Microclimate-UMCF
+          import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-UMCF?branch=main
+          imports: [/README.md]
+        - name: 24Fa-Mobility-PEI
+          import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
+          imports: [/README.md]
+
+        # Spring 2024
+        - name: 24Sp-EnergyInBuildings
+          import_url: https://github.com/VIP-SMUR/24Sp-EnergyInBuildings?branch=main
+          imports: [/README.md]
+        - name: 24Sp-Microclimate
+          import_url: https://github.com/VIP-SMUR/24Sp-Microclimate?branch=main
+          imports: [/README.md]
+        - name: 24Sp-Mobility-1
+          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-1?branch=main
+          imports: [/README.md]
+        - name: 24Sp-Mobility-2
+          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-2?branch=main
+          imports: [/README.md]
+ 
 
 nav:
   - Home:
@@ -147,10 +181,20 @@ nav:
       - Get involved: get-involved.md
   - Projects: 
     - Project overview: projects/index.md
-    - 24-Sp-Energy: projects/sp24/energy.md
-    - 24-Sp-Microclimate: projects/sp24/microclimate.md
-    - 24-Sp-Mobility-1: projects/sp24/mobility-1.md
-    - 24-Sp-Mobility-2: projects/sp24/mobility-2.md
+    # Fall 2024
+    - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
+    - 24-Fa-MPONC: 24fa-mponc/README.md
+    - 24-Fa-Energy-Com: 24fa-energyinbuildings-com/README.md
+    - 24-Fa-Energy-Res: 24fa-energyinbuildings-res/README.md
+    - 24-Fa-Microclimate-UWG: 24fa-microclimate-uwg/README.md
+    - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
+    - 24-Fa-Mobility-PEI: 24fa-mobility-PEI/README.md
+
+    # Spring 2024
+    - 24-Sp-Energy: 24sp-energyinbuildings/README.md
+    - 24-Sp-Microclimate: 24sp-microclimate/README.md
+    - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
+    - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
 
 
   - Team: 
