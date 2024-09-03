@@ -9,39 +9,31 @@ site_description: >-
 theme:
   name: material
   features:
-    - search.highlight
-    - search.suggest
-    - search.share
-    #- header.autohide
-
     - announce.dismiss
-
     - content.action.edit
     - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.code.select
-    - content.footnote.tooltips
-    - content.tabs.link
+    # - content.footnote.tooltips
+    # - content.tabs.link
     - content.tooltips
-
+    # - header.autohide
     - navigation.expand
     - navigation.footer
     - navigation.indexes
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.prune
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
     - navigation.sections
     - navigation.tabs
-    - navigation.tabs.sticky
+   # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-
     - search.highlight
     - search.share
     - search.suggest
-
     - toc.follow
     # - toc.integrate
 
@@ -160,6 +152,7 @@ plugins:
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
           imports: [/README.md]
 
+
         # Spring 2024
         - name: 24Sp-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/24Sp-EnergyInBuildings?branch=main
@@ -180,23 +173,24 @@ nav:
       - Getting started: index.md
       - Get involved: get-involved.md
   - Projects: 
-    - Project overview: projects/index.md
-    # Fall 2024
-    - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
-    - 24-Fa-MPONC: 24fa-mponc/README.md
-    - 24-Fa-Energy-Com: 24fa-energyinbuildings-com/README.md
-    - 24-Fa-Energy-Res: 24fa-energyinbuildings-res/README.md
-    - 24-Fa-Microclimate-UWG: 24fa-microclimate-uwg/README.md
-    - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
-    - 24-Fa-Mobility-PEI: 24fa-mobility-PEI/README.md
+      - Overview: projects/index.md
+      - Fall 2024: 
 
-    # Spring 2024
-    - 24-Sp-Energy: 24sp-energyinbuildings/README.md
-    - 24-Sp-Microclimate: 24sp-microclimate/README.md
-    - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
-    - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
-
+        - Projects: projects/24fa/README.md
+        - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
+        - 24-Fa-MPONC: 24fa-mponc/README.md
+        - 24-Fa-Energy-Com: 24fa-energyinbuildings-com/README.md
+        - 24-Fa-Energy-Res: 24fa-energyinbuildings-res/README.md
+        - 24-Fa-Microclimate-UWG: 24fa-microclimate-uwg/README.md
+        - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
+        - 24-Fa-Mobility-PEI: 24fa-mobility-pei/README.md
+      
+      - Spring 2024:
+        - Projects: projects/24sp/README.md
+        - 24-Sp-Energy: 24sp-energyinbuildings/README.md
+        - 24-Sp-Microclimate: 24sp-microclimate/README.md
+        - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
+        - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
 
   - Team: 
     - Student team overview: teams/students.md
-  #- FastAPI: EnergyInBuildings/README.md
