@@ -65,7 +65,17 @@ extra_css:
 
 plugins:
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      type: timeago
+      custom_format: "%d. %B %Y"
+      timezone: US/Eastern
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true
+      exclude:
+          - index.md
+      enabled: true
+      strict: true
   - tags
   - git-authors
   #- optimize
