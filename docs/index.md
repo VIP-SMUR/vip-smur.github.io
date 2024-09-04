@@ -3,7 +3,7 @@
 ---
 
 
-This is the project page of the Surrogate Modeling for Urban Regeneration ([VIP][VIP]).
+This is the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) [VIP][VIP] at Georgia Tech.
 
 
 ## 📝 The Problem
