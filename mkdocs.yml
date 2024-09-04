@@ -88,6 +88,14 @@ extra:
   social:
   - icon: fontawesome/brands/github
     link: https://github.com/VIP-SMUR
+  - icon: fontawesome/brands/researchgate
+    link: https://www.researchgate.net/profile/Patrick-Kastner  
+  - icon: fontawesome/brands/google-scholar
+    link: https://gscholar.patrickkastner.de/
+  - icon: fontawesome/brands/linkedin
+    link: https://www.linkedin.com/in/patrickkastner/
+  - icon: fontawesome/brands/orcid
+    link: https://orcid.org/0000-0003-4940-341X
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
