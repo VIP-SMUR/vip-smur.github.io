@@ -70,10 +70,10 @@ plugins:
       custom_format: "%d. %B %Y"
       timezone: US/Eastern
       locale: en
-      fallback_to_build_date: false
+      fallback_to_build_date: true
       enable_creation_date: true
-      exclude:
-          - index.md
+      #exclude:
+      #    - index.md
       enabled: true
       strict: true
   - tags
