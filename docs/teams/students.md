@@ -22,17 +22,17 @@ tags:
 | Joseph Mathew Aerathu | Masters   | Architecture           | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/wiki/24fa-energyinbuildings-com) |
 | Matthew Lim           | Sophomore | Computer Science       | COC        | [mlim70](https://github.com/mlim70)                           | [MPONC](/wiki/24fa-mponc)                                   |
 | Marcelo Alvarez       | Masters   | Architecture           | ARCH       | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-umcf](/wiki/24fa-microclimate-umcf)           |
-| Changda Ma            | Masters   | Architecture           | ARCH       | [changdama](https://github.com/changdama)                     | [Neuroarchitecture](/wiki/24faneuroarchitecture)            |
+| Changda Ma            | Masters   | Architecture           | ARCH       | [changdama](https://github.com/changdama)                     | [Neuroarchitecture](/wiki/24fa-neuroarchitecture)            |
 | Anubha Mahajan        | Senior    | Computer Science       | COC        | [amahajan68](https://github.com/amahajan68)                   | [Energy-In-Buildings-Com](/wiki/24fa-energyinbuildings-com) |
 | Jessica Hernandez     | Senior    | Computer Science       | COC        | [jhernandez312](https://github.com/jhernandez312)             | [Energy-In-Buildings-Com](/wiki/24fa-energyinbuildings-com) |
 | Congson "Albert" Le   | Sophomore | Computer Engineering   | ECE        | [balbertle](https://github.com/balbertle)                     | [Mobility-PEI](/wiki/24fa-mobility-pei)                     |
-| Misha Lee             | Sophomore | Civil Engineering      | CEE        | [memesha](https://github.com/memesha)                         | [Neuroarchitecture](/wiki/24faneuroarchitecture)            |
+| Misha Lee             | Sophomore | Civil Engineering      | CEE        | [memesha](https://github.com/memesha)                         | [Neuroarchitecture](/wiki/24fa-neuroarchitecture)            |
 | Reyli Olivo           | Junior    | Civil Engineering      | CEE        | [Rolivo05](https://github.com/Rolivo05)                       | [MPONC](/wiki/24fa-mponc)                                   |
 | Sharmista Debnath     | Masters   | Architecture (HBP)     | ARCH       | [Myshx](https://github.com/Myshx)                             | [Energy-In-Buildings-Res](/wiki/24fa-energyinbuildings-res) |
 | Kiana Layam           | Masters   | Architecture (HBP)     | ARCH       | [kkvlayam](https://github.com/kkvlayam)                       | [Energy-In-Buildings-Res](/wiki/24fa-energyinbuildings-res) |
 | Han-Syun Shih         | Masters   | Architecture (HBP)     | ARCH       | [hshih38](https://github.com/hshih38)                         | [Energy-In-Buildings-Com](/wiki/24fa-energyinbuildings-com) |
 | Sofia Mujica          | Junior    | Mechanical Engineering | ME         | [sofia-mujica](https://github.com/sofia-mujica)               | [Microclimate-uwg](/wiki/24fa-microclimate-uwg)             |
-| Le Quynh Nhu Nguyen   | Masters   | Architecture           | ARCH       | [qnguyen322](https://github.com/qnguyen322)                   | [Neuroarchitecture](/wiki/24faneuroarchitecture)            |
+| Le Quynh Nhu Nguyen   | Masters   | Architecture           | ARCH       | [qnguyen322](https://github.com/qnguyen322)                   | [Neuroarchitecture](/wiki/24fa-neuroarchitecture)            |
 | Abigail Herbas        | Junior    | Computer Science       | COC        | [aherbas3](https://github.com/aherbas3)                       | [Microclimate-uwg](/wiki/24fa-microclimate-uwg)             |
 | Chunlan Wang          | Masters   | Architecture (DC)      | ARCH       | [wang-123-xi](https://github.com/wang-123-xi)                 | [Mobility-PEI](/wiki/24fa-mobility-pei)                     |
 | Gonzalo Vegas         | PhD       | Architecture           | ARCH       | [gvegasol](https://github.com/gvegasol)                       | [Microclimate-umcf](/wiki/24fa-microclimate-umcf)           |
