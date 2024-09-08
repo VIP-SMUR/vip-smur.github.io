@@ -3,12 +3,14 @@
 ---
 
 
-This is the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) (VIP) at Georgia Tech. ([What is a VIP][What is a VIP])
+This is the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) (VIP) at Georgia Tech. [[What is a VIP][What is a VIP]]
 
 
 ## 📝 The Problem
 
-Critics of sustainability often point out that the concept does not reach far enough; it focuses on maintaining the status quo rather than regenerating urban systems. We aim to build tools that not only address the environmental and economic aspects of sustainability but also empower to regenerate urban systems with society in mind. This is not merely a technological pursuit; our aim is not to build tech for tech’s sake. Instead, we aim to amplify the societal perspective of sustainability. Our models will redefine urban decision-making by empowering urban decision-makers to test interventions in real time. By letting everyone partake in urban decision-making, we make the concept of regenerative cities tangible, actionable, and inclusive. The models developed will pertain to topics including but not limited to: 
+Critics of sustainability often point out that the concept does not reach far enough; it focuses on maintaining the status quo rather than regenerating urban systems. We aim to build tools that not only address the environmental and economic aspects of sustainability but also empower to regenerate urban systems with society in mind. This is not merely a technological pursuit; our aim is not to build tech for tech’s sake. Instead, we aim to amplify the societal perspective of sustainability. 
+
+Our models will redefine urban decision-making by empowering urban decision-makers to test interventions in real time. By letting all stakeholders partake in urban decision-making, we make the concept of regenerative cities tangible, actionable, and inclusive. The models developed will relate to topics including but not limited to: 
 
 - Air quality / pollution / natural ventilation potential 
 - Microclimate assessment (outdoor thermal comfort, heat islands)
@@ -22,20 +24,20 @@ Critics of sustainability often point out that the concept does not reach far en
 
 ## 🎯 Goals
 
-Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced design processes. This project aims to revolutionize this outdated paradigm by developing surrogate models that accelerate simulations, thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as Rhino and Revit.
+Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced design processes. This project aims to revolutionize this outdated paradigm by developing surrogate models that accelerate simulations, thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. 
+Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as Rhino and Revit.
 
 
 ## 📌 Preferred Interests and Preparation
 
 
-We seek an interdisciplinary team of highly motivated students. We plan to form teams that consist of 
+We seek an interdisciplinary team of highly motivated students. Experience with Python/C#, machine learning and simulation modeling will be advantageous. We plan to form teams that consist of:
 
 - Computer Science / Engineering (Civil, Environmental, Electrical) 
 - Applied Systms Engineering / ISyE
 - Architecture & Urban Design
 
   
-We seek students with either an experience with Python/C# and machine learning and simulation modeling will be advantageous.
 
 
 ## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
