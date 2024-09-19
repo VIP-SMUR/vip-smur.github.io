@@ -6,7 +6,7 @@ tags:
   - Mobility-2
 ---
 
-# Student team members
+# Team members
 
 ---
 
@@ -44,6 +44,7 @@ tags:
 | Thanasarn Changnawa   | PhD       | Architecture           | ARCH       | [Thanasarn-Changnawa](https://github.com/Thanasarn-Changnawa) | [Microclimate-UWG](/wiki/24fa-microclimate-uwg)             |
 | Chinmay Rothe         | Masters   | Architecture (HPB)     | ARCH       | [ChinmayR5](https://github.com/ChinmayR5)                     | [Microclimate-UMCF](/wiki/24fa-microclimate-umcf)           |
 | Hang Xu               | PhD       | Architecture           | ARCH       | [HangXXXu](https://github.com/HangXXXu)                       | [Energy-In-Buildings](/wiki/projects/24fa/)                 |
+| Parya Monjezi         | Masters   | Architecture           | ARCH       | [Pmonjezi3](https://github.com/Pmonjezi3)                     | [Neuroarchitecture](/wiki/24fa-neuroarchitecture)                 |
 
 ## Spring 2024
 
