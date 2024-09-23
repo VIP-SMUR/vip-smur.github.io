@@ -8,7 +8,7 @@ Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](h
 
 ## 📝 The Problem
 
-Critics of sustainability often point out that the concept does not reach far enough; it focuses on maintaining the status quo rather than regenerating urban systems. We aim to build tools that not only address the environmental and economic aspects of sustainability but also empower to regenerate urban systems with society in mind. This is not merely a technological pursuit; our aim is not to build tech for tech’s sake. Instead, we aim to amplify the societal perspective of sustainability. 
+Critics of sustainability often argue that the concept falls short of making a lasting impact, focusing on maintaining the status quo rather than regenerating systems. In this course, we aim to build tools that not only address the environmental and economic aspects of sustainability but also empower to regenerate urban systems with society in mind. This is not only a technological pursuit; our aim is not to build tech for tech’s sake. Instead, we aim to amplify the societal perspective of sustainability. 
 
 Our models will redefine urban decision-making by empowering urban decision-makers to test interventions in real time. By letting all stakeholders partake in urban decision-making, we make the concept of regenerative cities tangible, actionable, and inclusive. The models developed will relate to topics including but not limited to: 
 
@@ -34,7 +34,7 @@ Our goal is to seamlessly integrate sustainability considerations into every ste
 We seek an interdisciplinary team of highly motivated students. Experience with Python/C#, machine learning and simulation modeling will be advantageous. We plan to form teams that consist of:
 
 - Computer Science / Engineering (Civil, Environmental, Electrical) 
-- Applied Systms Engineering / ISyE
+- Applied Systems Engineering / ISyE
 - Architecture & Urban Design
 
   
