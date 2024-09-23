@@ -1,24 +1,16 @@
-
-# Project Repository
-
----
-
-## Fall 2024 Update
-
-
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-brain:{ .lg .middle } __Neuroarchitecture__
 
     ---
 
-    Explores the intersection of neuroscience and architecture.
+    Explores the intersection of neuroscience and architecture to create brain-friendly built environments.
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Neuroarchitecture/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-neuroarchitecture/)
 
--   :material-chart-network:{ .lg .middle } __MPONC__
+-   :material-view-grid-plus:{ .lg .middle } __MPONC__
 
     ---
 
@@ -26,7 +18,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-MPONC/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-mponc/)
 
 -   :material-office-building:{ .lg .middle } __Energy Consumption in Commercial Buildings__
 
@@ -36,7 +28,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Energyinbuildings-Com/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energy-com/)
 
 -   :material-home:{ .lg .middle } __Residential Energy Efficiency__
 
@@ -46,7 +38,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Energyinbuildings-Res/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energy-res/)
 
 -   :material-weather-sunny:{ .lg .middle } __Urban Weather Generator (UWG)__
 
@@ -56,26 +48,26 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Microclimate-UWG/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-microclimate-uwg/)
 
 -   :material-city-variant:{ .lg .middle } __Urban Microclimate Framework (UMCF)__
 
     ---
 
-    Implements a Grasshopper framework for understanding and designing for urban microclimates.
+    Develops a comprehensive framework for understanding and managing urban microclimates.
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Microclimate-UMCF/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-microclimate-umcf/)
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } __Pedestrian Environment Index (PEI)__
 
     ---
 
-    Furthers the development of the PEI methodology, a composite measure of walkability using novel subindices.
+    Furthers the development of the PEI methodology, a composite measure of walkability using key subindices.
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24-Fa-Mobility-PEI/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-mobility-pei/)
 
 </div>
