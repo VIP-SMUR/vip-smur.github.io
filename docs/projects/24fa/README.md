@@ -28,7 +28,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energy-com/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energyinbuildings-com/)
 
 -   :material-home:{ .lg .middle } __Residential Energy Efficiency__
 
@@ -38,7 +38,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energy-res/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energyinbuildings-res/)
 
 -   :material-weather-sunny:{ .lg .middle } __Urban Weather Generator (UWG)__
 
