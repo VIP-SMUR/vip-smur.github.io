@@ -16,7 +16,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](/24sp-mobility-1/)
+    [:octicons-arrow-right-24: Learn more](/wiki/24sp-mobility-1/)
 
 -   :material-clock-time-five-outline:{ .lg .middle } __Segregation in the 15-Minute City__
 
@@ -26,7 +26,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](sp24/mobility-1.md)
+    [:octicons-arrow-right-24: Learn more](/wiki/24sp-mobility-2/)
 
 
 
@@ -38,7 +38,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](sp24/microclimate.md)
+    [:octicons-arrow-right-24: Learn more](/wiki/24sp-microclimate/)
 
 
 
@@ -50,7 +50,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](energyinbuildings/README.md)
+    [:octicons-arrow-right-24: Learn more](/wiki/24sp-energyinbuildings/)
 
 
 
