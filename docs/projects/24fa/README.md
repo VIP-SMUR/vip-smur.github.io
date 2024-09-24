@@ -1,3 +1,11 @@
+
+# Project Repository
+
+---
+
+## Fall 2024
+
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-brain:{ .lg .middle } __Neuroarchitecture__
