@@ -1,9 +1,9 @@
 
-# Project Repository
+# Project Repository 
 
 ---
 
-## Spring 2024 Update
+## Spring 2024
 
 <div class="grid cards" markdown>
 
