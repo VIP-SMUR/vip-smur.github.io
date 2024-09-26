@@ -28,7 +28,7 @@ theme:
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
-   # - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -36,8 +36,6 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-
-
 
   palette:
     - media: "(prefers-color-scheme)"
@@ -59,26 +57,8 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
 
-
 extra_css:
   - stylesheets/extra.css
-
-plugins:
-  - search
-  - git-revision-date-localized:
-      type: timeago
-      custom_format: "%d. %B %Y"
-      timezone: US/Eastern
-      locale: en
-      fallback_to_build_date: true
-      enable_creation_date: true
-      #exclude:
-      #    - index.md
-      enabled: true
-      strict: true
-  - tags
-  - git-authors
-  #- optimize
 
 extra:
   tags:
@@ -86,16 +66,16 @@ extra:
     Microclimate: microclimate
     Energy: energy
   social:
-  - icon: fontawesome/brands/github
-    link: https://github.com/VIP-SMUR
-  - icon: fontawesome/brands/researchgate
-    link: https://www.researchgate.net/profile/Patrick-Kastner  
-  - icon: fontawesome/brands/google-scholar
-    link: https://gscholar.patrickkastner.de/
-  - icon: fontawesome/brands/linkedin
-    link: https://www.linkedin.com/in/patrickkastner/
-  - icon: fontawesome/brands/orcid
-    link: https://orcid.org/0000-0003-4940-341X
+    - icon: fontawesome/brands/github
+      link: https://github.com/VIP-SMUR
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Patrick-Kastner
+    - icon: fontawesome/brands/google-scholar
+      link: https://gscholar.patrickkastner.de/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/patrickkastner/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4940-341X
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
@@ -109,7 +89,7 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
@@ -140,19 +120,58 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
 
-
 # Plugins
 plugins:
+  - search
+  #- title-casing
+  - glightbox
+  - git-revision-date-localized:
+      type: timeago
+      custom_format: "%d. %B %Y"
+      timezone: US/Eastern
+      locale: en
+      fallback_to_build_date: true
+      enable_creation_date: true
+      #exclude:
+      #    - index.md
+      enabled: true
+      strict: true
   - tags
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
+      show_email_address: false
+      count_empty_lines: false
+      fallback_to_empty: false
+      sort_authors_by: name
+      authorship_threshold_percent: 1
+      #ignore_commits: .git-blame-ignore-revs
+      exclude:
+        - projects/**.md
+        - teams/**.md
+        - getting_started.md
+        - index.md
+      enabled: true
+      enabled_on_serve: true
+      strict: true
+  - git-committers:
+      repository: VIP-SMUR/wiki
+      branch: main
+      docs_path: docs/
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-
 
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
       cleanup: false
       nav_repos:
-      # Fall 2024
+        # Fall 2024
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
           imports: [/README.md]
@@ -175,7 +194,6 @@ plugins:
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
           imports: [/README.md]
 
-
         # Spring 2024
         - name: 24Sp-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/24Sp-EnergyInBuildings?branch=main
@@ -189,31 +207,29 @@ plugins:
         - name: 24Sp-Mobility-2
           import_url: https://github.com/VIP-SMUR/24Sp-Mobility-2?branch=main
           imports: [/README.md]
- 
 
 nav:
   - Home:
       - Getting started: index.md
       - Get involved: get-involved.md
-  - Projects: 
+  - Projects:
       - Overview: projects/index.md
-      - Fall 2024: 
+      - Fall 2024:
+          - Projects: projects/24fa/README.md
+          - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
+          - 24-Fa-MPONC: 24fa-mponc/README.md
+          - 24-Fa-Energy-Com: 24fa-energyinbuildings-com/README.md
+          - 24-Fa-Energy-Res: 24fa-energyinbuildings-res/README.md
+          - 24-Fa-Microclimate-UWG: 24fa-microclimate-uwg/README.md
+          - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
+          - 24-Fa-Mobility-PEI: 24fa-mobility-pei/README.md
 
-        - Projects: projects/24fa/README.md
-        - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
-        - 24-Fa-MPONC: 24fa-mponc/README.md
-        - 24-Fa-Energy-Com: 24fa-energyinbuildings-com/README.md
-        - 24-Fa-Energy-Res: 24fa-energyinbuildings-res/README.md
-        - 24-Fa-Microclimate-UWG: 24fa-microclimate-uwg/README.md
-        - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
-        - 24-Fa-Mobility-PEI: 24fa-mobility-pei/README.md
-      
       - Spring 2024:
-        - Projects: projects/24sp/README.md
-        - 24-Sp-Energy: 24sp-energyinbuildings/README.md
-        - 24-Sp-Microclimate: 24sp-microclimate/README.md
-        - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
-        - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
+          - Projects: projects/24sp/README.md
+          - 24-Sp-Energy: 24sp-energyinbuildings/README.md
+          - 24-Sp-Microclimate: 24sp-microclimate/README.md
+          - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
+          - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
 
-  - Team: 
-    - Team overview: teams/students.md
+  - Team:
+      - Team overview: teams/students.md
