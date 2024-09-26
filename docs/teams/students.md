@@ -1,11 +1,3 @@
----
-tags:
-  - Energy-In-Buildings
-  - Microclimate
-  - Mobility-1
-  - Mobility-2
----
-
 # Team members
 
 ---
