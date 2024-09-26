@@ -156,6 +156,7 @@ plugins:
         - projects/**.md
         - teams/**.md
         - getting_started.md
+        - get-involved.md
         - index.md
       enabled: true
       enabled_on_serve: true
