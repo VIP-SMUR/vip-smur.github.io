@@ -1,4 +1,4 @@
-## 🤝 Get Involved
+# 🤝 Get Involved
 
 ---
 
