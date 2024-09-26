@@ -6,6 +6,6 @@ Join our team and make a lasting impact on urban environments!
 
 # 📄 Project Wiki
 
-[Link to current and previous projects](/projects/)
+[Link to current and previous projects](/wiki/projects/)
 
 
