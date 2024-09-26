@@ -33,4 +33,6 @@ jobs:
       - run: pip install mkdocs-minify-plugin
       - run: pip install mkdocs-git-authors-plugin
       - run: pip install mkdocs-git-committers-plugin-2
+      - run: pip install mkdocs-title-casing-plugin
+      - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
