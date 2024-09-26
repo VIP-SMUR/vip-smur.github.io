@@ -8,9 +8,9 @@ Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](h
 
 ## 📝 The Problem
 
-Critics of sustainability often argue that the concept falls short of making a lasting impact, focusing on maintaining the status quo rather than regenerating systems. In this course, we aim to build tools that not only address the environmental and economic aspects of sustainability but also empower to regenerate urban systems with society in mind. This is not only a technological pursuit; our aim is not to build tech for tech’s sake. Instead, we aim to amplify the societal perspective of sustainability. 
+Sustainability critics argue that the concept merely maintains the status quo rather than fostering true regeneration. Our course challenges this view by developing software tools that go beyond environmental and economic concerns to regenerate urban systems with a focus of empowering the community and decision-makers themselves. 
 
-Our models will redefine urban decision-making by empowering urban decision-makers to test interventions in real time. By letting all stakeholders partake in urban decision-making, we make the concept of regenerative cities tangible, actionable, and inclusive. The models developed will relate to topics including but not limited to: 
+Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all stakeholders, we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
 - Air quality / pollution / natural ventilation potential 
 - Microclimate assessment (outdoor thermal comfort, heat islands)
@@ -38,8 +38,6 @@ We seek an interdisciplinary team of highly motivated students. Experience with 
 - Architecture & Urban Design
 
   
-
-
 ## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
 
 - **Mobility**
@@ -51,7 +49,6 @@ We seek an interdisciplinary team of highly motivated students. Experience with 
 - **Energy in Buildings**
     - Rapid prediction of building energy demand
     - Urban building energy modeling (UBEM)
-
 
 
 
