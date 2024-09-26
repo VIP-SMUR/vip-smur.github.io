@@ -8,7 +8,7 @@ Welcome to the project page of the [[VIP][VIP]] team [Surrogate Modeling for Urb
 
 ## 📝 The Problem
 
-Sustainability critics argue that the concept merely maintains the status quo rather than fostering true regeneration. This research course challenges this view by developing software tools that go beyond environmental and economic concerns to regenerate urban systems with a focus of empowering the community and decision-makers themselves. 
+Sustainability critics argue that the concept merely maintains the status quo rather than fostering true regeneration. This research course challenges this view by developing software tools that go beyond environmental and economic concerns to regenerate urban systems with a focus of empowering communities and decision-makers themselves. 
 
 Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all stakeholders, we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
