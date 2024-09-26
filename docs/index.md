@@ -3,7 +3,7 @@
 ---
 
 
-Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) (VIP) at Georgia Tech. [[What is a VIP][What is a VIP]]. This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
+Welcome to the project page of the [[VIP][VIP]] team [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) at Georgia Tech. This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
 
 
 ## 📝 The Problem
@@ -53,4 +53,4 @@ We seek an interdisciplinary team of highly motivated students. Experience with 
 
 
 
-[What is a VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades.<br><br> In VIP, teams of undergraduate students – from various years, disciplines and backgrounds – work with faculty and graduate students in their areas of scholarship and exploration. Undergraduate students earn academic credit for their work and have direct experience with the innovation process, while faculty and graduate students benefit from the extended efforts of their teams."
+[VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades.<br><br> In VIP, teams of undergraduate students – from various years, disciplines and backgrounds – work with faculty and graduate students in their areas of scholarship and exploration. Undergraduate students earn academic credit for their work and have direct experience with the innovation process, while faculty and graduate students benefit from the extended efforts of their teams."
