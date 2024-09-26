@@ -33,11 +33,13 @@ Our goal is to seamlessly integrate sustainability considerations into every ste
 
 We seek an interdisciplinary team of highly motivated students. Experience with `Python/C#`, `machine learning` and `simulation modeling` will be advantageous. We plan to form teams that consist of:
 
-- Computer Science / Engineering (Civil, Environmental, Electrical) 
+- Computer Science / Engineering (Civil, Environmental, Mechanical, etc.) 
 - (Applied) Industrial and Systems Engineering
 - Architecture & Urban Design
 - Public Policy
+- Etc.
 
+If your major is not mentioned above, please contact us to see if your background might be a good fit! We're happy to help.
   
 ## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
 
