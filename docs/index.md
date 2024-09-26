@@ -3,7 +3,7 @@
 ---
 
 
-Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) (VIP) at Georgia Tech. [[What is a VIP][What is a VIP]]
+Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) (VIP) at Georgia Tech. [[What is a VIP][What is a VIP]]. This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
 
 
 ## 📝 The Problem
