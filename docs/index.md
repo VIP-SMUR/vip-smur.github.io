@@ -8,7 +8,7 @@ Welcome to the project page of the [Surrogate Modeling for Urban Regeneration](h
 
 ## 📝 The Problem
 
-Sustainability critics argue that the concept merely maintains the status quo rather than fostering true regeneration. Our course challenges this view by developing software tools that go beyond environmental and economic concerns to regenerate urban systems with a focus of empowering the community and decision-makers themselves. 
+Sustainability critics argue that the concept merely maintains the status quo rather than fostering true regeneration. This research course challenges this view by developing software tools that go beyond environmental and economic concerns to regenerate urban systems with a focus of empowering the community and decision-makers themselves. 
 
 Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all stakeholders, we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
@@ -24,18 +24,19 @@ Our models will help strengthen urban decision-making, enabling real-time testin
 
 ## 🎯 Goals
 
-Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced design processes. This project aims to revolutionize this outdated paradigm by developing surrogate models that accelerate simulations, thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. 
-Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as Rhino and Revit.
+Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced decision-making processes. This project aims to revolutionize this outdated paradigm by developing surrogate models that accelerate simulations (typically via machine learning), thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. 
+Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as `Rhino` and `Revit` and others.
 
 
 ## 📌 Preferred Interests and Preparation
 
 
-We seek an interdisciplinary team of highly motivated students. Experience with Python/C#, machine learning and simulation modeling will be advantageous. We plan to form teams that consist of:
+We seek an interdisciplinary team of highly motivated students. Experience with `Python/C#`, `machine learning` and `simulation modeling` will be advantageous. We plan to form teams that consist of:
 
 - Computer Science / Engineering (Civil, Environmental, Electrical) 
-- Applied Systems Engineering / ISyE
+- (Applied) Industrial and Systems Engineering
 - Architecture & Urban Design
+- Public Policy
 
   
 ## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
