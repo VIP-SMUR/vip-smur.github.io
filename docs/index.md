@@ -36,17 +36,19 @@ We seek an interdisciplinary team of highly motivated students. Experience with 
 
 If your major is not mentioned above, please contact us to see if your background might be a good fit! We're happy to help.
   
-## 📊 [Project Overview](https://vip-smur.github.io/wiki/projects/)
+## 📊 Project Overview
 
-- **Mobility**
-  - Pedestrian flows
-  - Urban accessibility
-- **Microclimate**
-  - Heat island effect
-  - Urban cooling strategies
-- **Energy in Buildings**
-  - Rapid prediction of building energy demand
-  - Urban building energy modeling (UBEM)
+Our [current and previous projects](projects/) include topics on:
+
+1. Energy in Buildings
+
+2. Urban Climate
+
+3. Mobility and Walkability
+
+4. Urban Planning,  Design, and Neighborhood Processes
+
+---
 
 [VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades.<br><br> In VIP, teams of undergraduate students – from various years, disciplines and backgrounds – work with faculty and graduate students in their areas of scholarship and exploration. Undergraduate students earn academic credit for their work and have direct experience with the innovation process, while faculty and graduate students benefit from the extended efforts of their teams."
 

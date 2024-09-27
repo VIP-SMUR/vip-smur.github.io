@@ -1,9 +1,7 @@
 
-# Project Repository 
+## Spring 2024
 
 ---
-
-## Spring 2024
 
 <div class="grid cards" markdown>
 
@@ -34,7 +32,7 @@
 
     ---
 
-    Models the urban heat island effect using EnergyPlus (.epw) weather files.
+    Modeling of the urban heat island effect using EnergyPlus (.epw) weather files.
 	
 	---
 
@@ -46,7 +44,7 @@
 
     ---
 
-    Uses machine learning models to optimize building design parameters for energy consumption.
+    Machine learning approaches to model building energy demand.
 	
 	---
 
@@ -55,3 +53,5 @@
 
 
 </div>
+
+---

@@ -1,10 +1,7 @@
 
-# Project Repository
-
----
-
 ## Fall 2024
 
+---
 
 <div class="grid cards" markdown>
 
@@ -12,7 +9,7 @@
 
     ---
 
-    Explores the intersection of neuroscience and architecture to create brain-friendly built environments.
+    Explores the concept of _neuroarchitecture_, that is the intersection of neuroscience and architecture.
     
     ---
 
@@ -22,7 +19,7 @@
 
     ---
 
-    Multi-Parameter Optimization for Neighborhood Challenges: A comprehensive approach to urban planning.
+    Multi-agent game theoretical approaches to simulating neighbordhood processes.
     
     ---
 
@@ -32,7 +29,7 @@
 
     ---
 
-    Analyzes and optimizes energy usage patterns in commercial structures.
+    Modeling energy demand in commercial buildings.
     
     ---
 
@@ -42,7 +39,7 @@
 
     ---
 
-    Focuses on improving energy efficiency in residential buildings through innovative solutions.
+    Modeling energy demand in residential buildings.
     
     ---
 
@@ -62,7 +59,7 @@
 
     ---
 
-    Develops a comprehensive framework for understanding and managing urban microclimates.
+    Grasshopper workflows for modeling the urban microclimate.
     
     ---
 
@@ -72,10 +69,12 @@
 
     ---
 
-    Furthers the development of the PEI methodology, a composite measure of walkability using key subindices.
+    Improvments on the PEI methodology, a composite metric of walkability using key subindices.
     
     ---
 
     [:octicons-arrow-right-24: Learn more](/wiki/24fa-mobility-pei/)
 
 </div>
+
+---

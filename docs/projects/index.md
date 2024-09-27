@@ -14,6 +14,10 @@
 
     [:octicons-arrow-right-24: Learn more](24fa/README.md)
 
+
+
+
+
 -   :material-folder:{ .lg .middle } __Spring 2024__
 
     ---
@@ -23,3 +27,8 @@
 
 
 </div>
+
+---
+
+<!-- {!projects/24fa/README.md!} -->
+<!-- {!projects/24sp/README.md!} -->

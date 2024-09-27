@@ -120,6 +120,8 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - markdown_include.include:
+      base_path: docs
 
 # Plugins
 plugins:
