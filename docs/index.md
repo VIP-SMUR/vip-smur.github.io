@@ -8,7 +8,7 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 Critics argue that the concept of sustainability merely maintains the status quo rather than fostering true regeneration. This research course challenges this view by developing software tools that go beyond environmental and economic concerns to [regenerate urban systems](https://unhabitat.org/topic/urban-regeneration) with a focus of empowering communities and decision-makers themselves.
 
-Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all [urban stakeholders][urban stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
+Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
 - Air quality / pollution / natural ventilation potential
 - Microclimate assessment (outdoor thermal comfort, heat islands)
@@ -50,15 +50,4 @@ If your major is not mentioned above, please contact us to see if your backgroun
 
 [VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades.<br><br> In VIP, teams of undergraduate students – from various years, disciplines and backgrounds – work with faculty and graduate students in their areas of scholarship and exploration. Undergraduate students earn academic credit for their work and have direct experience with the innovation process, while faculty and graduate students benefit from the extended efforts of their teams."
 
-[urban stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations
-- Community leaders
-- Civil society:
-  - local non-governmental organisations
-  - community-based organisations
-  - non-state armed actors
-- International actors and donors
-- National government, sub-national and local government
-- Urban planning institutions
-- Architects / Urban Designers
-- Private sector
-- Academia"
+[stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations<br>- Community leaders<br>- Civil society:<br>&emsp;- local non-governmental organisations<br>&emsp;- community-based organisations<br>&emsp;- non-state armed actor<br>- International actors and donors<br>- National government, sub-national and local government<br>- Urban planning institutions<br>- Architects / Urban Designers<br>- Private sector<br>- Academia"
