@@ -12,6 +12,7 @@ FROM squidfunk/mkdocs-material
       mkdocs-title-casing-plugin \
       mkdocs-glightbox \
       markdown-include \
+      mkdocs-redirects \
        
 
    # You can add more RUN pip install commands for other packages
