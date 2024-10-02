@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/wiki/) at Georgia Tech. This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
+Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/) at Georgia Tech. This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
 
 ## 📝 The Problem
 
