@@ -38,7 +38,7 @@ If your major is not mentioned above, please contact us to see if your backgroun
   
 ## 📊 Project Overview
 
-Our [current and previous projects](projects/) include topics on:
+Our [current and previous projects](https://vip-smur.github.io/projects/) include topics on:
 
 1. Energy in Buildings
 
