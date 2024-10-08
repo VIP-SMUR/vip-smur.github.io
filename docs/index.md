@@ -8,7 +8,7 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 Critics argue that many current urban sustainability efforts merely maintain the status quo rather than fostering true urban regeneration. This research course challenges this view by developing software tools that go beyond environmental and economic concerns to [regenerate urban systems](https://unhabitat.org/topic/urban-regeneration) with a focus of empowering communities and decision-makers themselves.
 
-Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving all urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
+Our models will help strengthen urban decision-making, enabling real-time testing of interventions. By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
 - Air quality / pollution / natural ventilation potential
 - Microclimate assessment (outdoor thermal comfort, heat islands)
@@ -46,7 +46,7 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 
 3. Mobility and Walkability
 
-4. Urban Planning,  Design, and Neighborhood Processes
+4. Urban Planning, Design, and Neighborhood Processes
 
 ---
 
