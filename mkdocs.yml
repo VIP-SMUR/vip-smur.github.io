@@ -62,6 +62,9 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  analytics:
+    provider: custom
+    property: umami
   tags:
     Mobility: mobility
     Microclimate: microclimate

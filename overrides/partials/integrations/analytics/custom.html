@@ -1,0 +1,21 @@
+<script>
+    /* Add custom analytics integration here, e.g. */
+    var property = "{{ config.extra.analytics.umami }}" 
+  
+    /* Load Umami script */
+    var umamiScript = document.createElement('script');
+    umamiScript.defer = true;
+    umamiScript.src = "https://cloud.umami.is/script.js";
+    umamiScript.setAttribute('data-website-id', "ec8516ed-7cf7-4950-a1c9-555b3fafb1f4");
+    document.head.appendChild(umamiScript);
+  
+    /* Wait for page to load and application to mount */
+    document.addEventListener("DOMContentLoaded", function() {
+      location$.subscribe(function(url) {
+        /* Add custom page event tracking here */ 
+        if (window.umami) {
+          umami.trackView(url);
+        }
+      })
+    })
+  </script>
