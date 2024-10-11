@@ -34,7 +34,7 @@ We seek an interdisciplinary team of highly motivated students. Experience with 
 - Public Policy
 - Etc.
 
-If your major is not mentioned above, please contact us to see if your background might be a good fit! We're happy to help.
+If your major is not mentioned above, please [contact us](mailto:patrick.kastner@gatech.edu) to see if your background might be a good fit! We're happy to help.
   
 ## 📊 Project Overview
 
