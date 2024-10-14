@@ -9,6 +9,8 @@ site_description: >-
 theme:
   name: material
   custom_dir: overrides
+  favicon: images/favicon.svg
+  logo: images/favicon.svg
   features:
     - announce.dismiss
     - content.action.edit
