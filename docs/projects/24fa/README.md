@@ -13,7 +13,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-neuroarchitecture/)
+    [:octicons-arrow-right-24: Learn more](/24fa-neuroarchitecture/)
 
 -   :material-view-grid-plus:{ .lg .middle } __MPONC__
 
@@ -23,7 +23,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-mponc/)
+    [:octicons-arrow-right-24: Learn more](/24fa-mponc/)
 
 -   :material-office-building:{ .lg .middle } __Energy Consumption in Commercial Buildings__
 
@@ -33,7 +33,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energyinbuildings-com/)
+    [:octicons-arrow-right-24: Learn more](/24fa-energyinbuildings-com/)
 
 -   :material-home:{ .lg .middle } __Residential Energy Efficiency__
 
@@ -43,7 +43,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-energyinbuildings-res/)
+    [:octicons-arrow-right-24: Learn more](/24fa-energyinbuildings-res/)
 
 -   :material-weather-sunny:{ .lg .middle } __Urban Weather Generator (UWG)__
 
@@ -53,7 +53,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-microclimate-uwg/)
+    [:octicons-arrow-right-24: Learn more](/24fa-microclimate-uwg/)
 
 -   :material-city-variant:{ .lg .middle } __Urban Microclimate Framework (UMCF)__
 
@@ -63,7 +63,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-microclimate-umcf/)
+    [:octicons-arrow-right-24: Learn more](/24fa-microclimate-umcf/)
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } __Pedestrian Environment Index (PEI)__
 
@@ -73,7 +73,7 @@
     
     ---
 
-    [:octicons-arrow-right-24: Learn more](/wiki/24fa-mobility-pei/)
+    [:octicons-arrow-right-24: Learn more](/24fa-mobility-pei/)
 
 </div>
 
