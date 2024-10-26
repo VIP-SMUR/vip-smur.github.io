@@ -186,6 +186,10 @@ plugins:
       cleanup: false
       nav_repos:
         # Fall 2024
+        - name: get-involved
+          import_url: https://github.com/VIP-SMUR/.github?branch=main
+          imports: [/profile/README.md]
+
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
           imports: [/README.md]
@@ -225,7 +229,7 @@ plugins:
 nav:
   - Home:
       - Getting started: index.md
-      - Get involved: get-involved.md
+      - Get involved: get-involved/profile/README.md
   - Projects:
       - Overview: projects/index.md
       - Fall 2024:
