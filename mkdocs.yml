@@ -249,4 +249,7 @@ nav:
           - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
 
   - Team:
-      - Team overview: teams/students.md
+      - Team overview: team.md
+
+  - Outreach: 
+      - Outreach: outreach.md
