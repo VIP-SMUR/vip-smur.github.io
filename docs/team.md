@@ -7,9 +7,9 @@
 | Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                                  |
 | --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
 | Yilun Zha             | PhD       | Planning/Urban Design  | ARCH       | [elonncha](https://github.com/elonncha)                       | [Mobility-PEI](/24fa-mobility-pei)                     |
-| Joseph M. Aerathu     | Masters   | Architecture           | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
+| Joseph M. Aerathu     | Masters   | Architecture (HPB)     | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
 | Matthew Lim           | Sophomore | Computer Science       | COC        | [mlim70](https://github.com/mlim70)                           | [MPONC](/24fa-mponc)                                   |
-| Marcelo Alvarez       | Masters   | Architecture           | ARCH       | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-UMCF](/24fa-microclimate-umcf)           |
+| Marcelo Alvarez       | Masters   | Architecture (DC)      | ARCH       | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-UMCF](/24fa-microclimate-umcf)           |
 | Changda Ma            | Masters   | Architecture           | ARCH       | [changdama](https://github.com/changdama)                     | [Neuroarchitecture](/24fa-neuroarchitecture)           |
 | Anubha Mahajan        | Senior    | Computer Science       | COC        | [amahajan68](https://github.com/amahajan68)                   | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
 | Jessica Hernandez     | Senior    | Computer Science       | COC        | [jhernandez312](https://github.com/jhernandez312)             | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
