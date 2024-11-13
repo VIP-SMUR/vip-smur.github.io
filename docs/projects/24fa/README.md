@@ -25,7 +25,7 @@
 
     [:octicons-arrow-right-24: Learn more](/24fa-mponc/)
 
--   :material-office-building:{ .lg .middle } __Energy Consumption in Commercial Buildings__
+-   :material-office-building:{ .lg .middle } __Energy in Commercial Buildings__
 
     ---
 
@@ -35,7 +35,7 @@
 
     [:octicons-arrow-right-24: Learn more](/24fa-energyinbuildings-com/)
 
--   :material-home:{ .lg .middle } __Energy Consumption in Residential Buildings__
+-   :material-home:{ .lg .middle } __Energy in Residential Buildings__
 
     ---
 
