@@ -9,7 +9,7 @@
 
     ---
 
-    Explores the concept of _neuroarchitecture_, that is the intersection of neuroscience and architecture.
+    Explores the concept of _neuroarchitecture_, which is the intersection of neuroscience and architecture.
     
     ---
 
@@ -19,7 +19,7 @@
 
     ---
 
-    Multi-agent game theoretical approaches to simulating neighbordhood processes.
+    Multi-agent game theoretical approaches to simulating neighborhood processes.
     
     ---
 
@@ -35,7 +35,7 @@
 
     [:octicons-arrow-right-24: Learn more](/24fa-energyinbuildings-com/)
 
--   :material-home:{ .lg .middle } __Residential Energy Efficiency__
+-   :material-home:{ .lg .middle } __Energy Consumption in Residential Buildings__
 
     ---
 
@@ -69,7 +69,7 @@
 
     ---
 
-    Improvments on the PEI methodology, a composite metric of walkability using key subindices.
+    Improvements on the PEI methodology, a composite metric of walkability using key subindices.
     
     ---
 
