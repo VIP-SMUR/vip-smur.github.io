@@ -1,5 +1,7 @@
 # Outreach
 
+Our outreach activities over the last semesters.
+
 ## Fall 2024
 
 ### Georgia Undergraduate Research Conference (GURC) 2024
