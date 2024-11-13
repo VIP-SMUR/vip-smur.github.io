@@ -13,22 +13,22 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 ## 📝 The Problem
 
-Critics argue that many current urban sustainability efforts merely maintain the status quo rather than fostering true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this view by developing software tools that empower communities and urban decision-makers.
+Some critics argue that many urban sustainability efforts only maintain the status quo rather than fostering true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this view by developing software tools that empower communities and urban decision-makers.
 
 Our models will enable urban decision-making by enabling real-time testing of interventions. By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
-- Air quality / pollution / natural ventilation potential
+- Air quality, pollution, natural ventilation potential
 - Microclimate assessment (outdoor thermal comfort, heat islands)
-- Flood, stormwater / water runoff
-- Mobility / walkability / transportation
-- Global warming / climate change (heat waves)
+- Flood, stormwater, water runoff
+- Mobility, walkability, transportation
+- Global warming, climate change (heat waves)
 - Urban decarbonization
-- Urban building energy / district energy
+- Urban building energy, district energy
 - Environmental justice  
 
 ## 🎯 Goals
 
-Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced decision-making processes. This VIP aims to adress this outdated paradigm by developing surrogate models that accelerate simulations (typically via machine learning), thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers.
+Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with the fast-paced decision-making processes. This VIP aims to address this outdated paradigm by developing surrogate models that accelerate simulations (typically via machine learning), thereby offering real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers.
 Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as `Rhino` and `Revit` and others.
 
 ## ✅ Interests and Prerequisites
