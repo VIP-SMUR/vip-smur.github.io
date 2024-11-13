@@ -4,8 +4,8 @@
 
 ## Fall 2024
 
-| Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                                  |
-| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
+| Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                             |
+| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |
 | Yilun Zha             | PhD       | Planning/Urban Design  | ARCH       | [elonncha](https://github.com/elonncha)                       | [Mobility-PEI](/24fa-mobility-pei)                     |
 | Joseph M. Aerathu     | Masters   | Architecture (HPB)     | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
 | Matthew Lim           | Sophomore | Computer Science       | COC        | [mlim70](https://github.com/mlim70)                           | [MPONC](/24fa-mponc)                                   |
@@ -36,12 +36,12 @@
 | Thanasarn Changnawa   | PhD       | Architecture           | ARCH       | [Thanasarn-Changnawa](https://github.com/Thanasarn-Changnawa) | [Microclimate-UWG](/24fa-microclimate-uwg)             |
 | Chinmay Rothe         | Masters   | Architecture (HPB)     | ARCH       | [ChinmayR5](https://github.com/ChinmayR5)                     | [Microclimate-UMCF](/24fa-microclimate-umcf)           |
 | Hang Xu               | PhD       | Architecture           | ARCH       | [HangXXXu](https://github.com/HangXXXu)                       | [Energy-In-Buildings](/projects/24fa/)                 |
-| Parya Monjezi         | Masters   | Architecture           | ARCH       | [Pmonjezi3](https://github.com/Pmonjezi3)                     | [Neuroarchitecture](/24fa-neuroarchitecture)                 |
+| Parya Monjezi         | Masters   | Architecture  (HBP)    | ARCH       | [Pmonjezi3](https://github.com/Pmonjezi3)                     | [Neuroarchitecture](/24fa-neuroarchitecture)           |
 
 ## Spring 2024
 
-| Name             | Seniority | Major                  | Department | GitHub                                            | Topic Area                                             |
-| ---------------- | --------- | ---------------------- | ---------- | ------------------------------------------------- | ------------------------------------------------------ |
+| Name             | Seniority | Major                  | Department | GitHub                                            | Topic Area                                        |
+| ---------------- | --------- | ---------------------- | ---------- | ------------------------------------------------- | ------------------------------------------------- |
 | Neha Nakirikanti | Sophomore | Computer Science       | COC        | [nehanak](https://github.com/nehanak)             | [Mobility-1](/24sp-mobility-1)                    |
 | Vishal Maradana  | Senior    | Computer Science       | COC        | [vishal-337](https://github.com/vishal-337)       | [Mobility-1](/24sp-mobility-1)                    |
 | Joshua R Cohen   | Junior    | Civil Engineering      | CEE        | [paradoxwalk](https://github.com/paradoxwalk)     | [Mobility-1](/24sp-mobility-1)                    |
