@@ -251,5 +251,6 @@ nav:
   - Team:
       - Team overview: team.md
 
-  - Outreach: 
-      - Outreach: outreach.md
+  - Activities: 
+      - Conferences: activities/conferences.md
+      - Class Dinners: activities/dinners.md

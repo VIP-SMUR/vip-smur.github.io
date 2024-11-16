@@ -1,127 +1,154 @@
-# Pedestrian Environment Index (PEI) Project Overview
+# Pedestrian Environment Index (PEI) Documentation
 
-## Introduction and Overview
+<details>
+<summary>Table of Contents</summary>
 
-This project implements the Pedestrian Environment Index (PEI) methodology, a composite measure of walkability. It uses four key subindices:
+- [Pedestrian Environment Index (PEI) Documentation](#pedestrian-environment-index-pei-documentation)
+  - [Project Overview](#project-overview)
+    - [Core Subindices](#core-subindices)
+  - [Implementation Workflow](#implementation-workflow)
+  - [Detailed Index Methodologies](#detailed-index-methodologies)
+    - [Commercial Density Index (CDI)](#commercial-density-index-cdi)
+    - [Intersection Density Index (IDI)](#intersection-density-index-idi)
+    - [Land Diversity Index (LDI)](#land-diversity-index-ldi)
+    - [Population Density Index (PDI)](#population-density-index-pdi)
+</details>
 
-- **Population Density Index (PDI):** Measures the density of residential population within a given area. Data for this index is derived from Census block groups  (_PDI_generator.ipynb_).
-- **Commercial Density Index (CDI):** Calculates the density of commercial establishments in a Block Group, indicating the availability of destinations and services within walking distance (_CDI_generator.ipynb_).
-- **Intersection Density Index (IDI):**  Measures the density of intersections within an area. Intersections can influence route options and pedestrian safety  (_IDI_generator.ipynb_).
-- **Land-use Diversity Index (LDI):** Assesses the mix of different land-use types (e.g., residential, commercial, industrial) present. Diverse land uses often correspond with more walkable environments (_LDI_generator.ipynb_). 
+## Project Overview
 
-## Workflow
+The Pedestrian Environment Index (PEI) is a composite measure of walkability that combines four key subindices to evaluate pedestrian-friendly environments.
 
-1. **Subindex Calculation:** Each Jupyter Notebook file (`*_generator.ipynb`) processes a Census block group shapefile to compute its respective subindex score. The output is saved as either a CSV or GeoJSON file.
-2. **PEI Compilation:**  The `PEI_generator.ipynb` notebook takes the outputs from the subindex generators and computes the final PEI score for each block group.
-3. **Visualization:**  The results are presented as a map, visualizing the PEI scores across census block groups.
+### Core Subindices
 
-**Note:** To ensure consistency and ease of use, we are in the process of consolidating all output files into the GeoJSON format.
+1. **Population Density Index (PDI)**
+   - Measures residential population density within defined areas
+   - Data sourced from Census block groups
+   - Implementation: `PDI_generator.ipynb`
 
-## Detailed Index Calculations and Methodologies
+2. **Commercial Density Index (CDI)**
+   - Evaluates density of commercial establishments per Block Group
+   - Indicates availability of walkable destinations and services
+   - Implementation: `CDI_generator.ipynb`
+
+3. **Intersection Density Index (IDI)**
+   - Quantifies intersection density within an area
+   - Evaluates route options and pedestrian safety
+   - Implementation: `IDI_generator.ipynb`
+
+4. **Land-use Diversity Index (LDI)**
+   - Analyzes mix of land-use types (residential, commercial, industrial)
+   - Assesses environment walkability through land use diversity
+   - Implementation: `LDI_generator.ipynb`
+
+## Implementation Workflow
+
+1. **Subindex Calculation**
+   - Individual Jupyter notebooks (`*_generator.ipynb`) process Census block group shapefiles
+   - Each generator computes its respective subindex score
+   - Outputs saved as CSV or GeoJSON files
+
+2. **PEI Compilation**
+   - `PEI_generator.ipynb` combines subindex outputs
+   - Computes final PEI score for each block group
+
+3. **Visualization**
+   - Results displayed as geographic maps
+   - PEI scores visualized across census block groups
+
+*Note: Project is transitioning to standardize all output files to GeoJSON format.*
+
+## Detailed Index Methodologies
 
 ### Commercial Density Index (CDI)
 
-#### Description
+#### Overview
+Calculates amenity counts per block group, normalized against the region's maximum commercial density.
 
-For this index, we gather the count of the different types of amenities in each block group. We then normalize the value by dividing each count by the greatest value for commercial density index within the region.
+#### Input Data
+- Source: `atl_bg.geojson`
+- Contains Atlanta neighborhood data
+- Uses OSMNx for amenity quantification
 
-#### Parameters
+#### Amenity Categories
+- **Groceries**: supermarket, convenience, grocery, food, organic
+- **Restaurants**: restaurant, cafe, food_court, bistro, fast_food
+- **Banks**: bank, atm
+- **Schools**: school, college, university, kindergarten, music_school, language_school, driving_school
+- **Entertainment**: cinema, theatre, nightclub, casino, arts_centre, sports_centre, stadium, amusement_arcade, dance, bowling_alley, attraction, theme_park, zoo
+- **Parks**: recreation_ground, grass, greenfield
 
-- **atl_bg.geojson**: The data we are reading. This contains specific information about the neighborhood within Atlanta that we are researching. We will use OSMNx to calculate the quantity of each type of amenity.
+#### Output
+Normalized commercial density values relative to regional maximum
 
-#### Amenities & Tags Used
+### Intersection Density Index (IDI)
 
-- **Groceries**: 'supermarket', 'convenience', 'grocery', 'food', 'organic'
-- **Restaurants**: 'restaurant', 'cafe', 'food_court', 'bistro', 'fast_food'
-- **Banks**: 'bank', 'atm'
-- **Schools**: 'school', 'college', 'university', 'kindergarten', 'music_school', 'language_school', 'driving_school'
-- **Entertainment**: 'cinema', 'theatre', 'nightclub', 'casino', 'arts_centre', 'sports_centre', 'stadium', 'amusement_arcade', 'dance', 'bowling_alley', 'attraction', 'theme_park', 'zoo'
-- **Parks**: 'recreation_ground', 'grass', 'greenfield'
+#### Overview
+Analyzes intersection patterns within block groups to evaluate street connectivity.
 
-#### Returns
+#### Input Requirements
+- GeoJSON file containing:
+  - Block group geometries
+  - State and county FIPS codes
 
-Value for the commercial density Index, normalized by the maximum commercial density within the area.
+#### Output Data (CSV)
+- Polygon: Block group geometry
+- Area: Block group area
+- Intersection: Sum of intersection-connected roads
+- IDI: Normalized intersection density value
 
-### Intersection Density Index Generator
+#### Processing Steps
+1. Read GeoJSON geometry data
+2. Extract intersection data via OSMNx
+3. Calculate equivalency factors
+4. Compute population density
+5. Generate visualization-ready output
 
-#### Description
+### Land Diversity Index (LDI)
 
-This Python script analyzes a GeoJSON file containing block group data, calculating the Intersection Density Index (IDI) for each block group. It outputs a CSV file detailing these IDI values, providing insights into intersection patterns within the analyzed area.
+#### Overview
+Evaluates land use diversity within block groups.
 
-#### Parameters
+#### Input Requirements
+- GeoJSON file containing:
+  - Block group geometries
+  - State and county FIPS codes
 
-- **GeoJSON file**: A GeoJSON file that must contain the block groups' geometries and the FIPS codes for the state and counties.
+#### Output Data (CSV)
+- Polygon: Block group geometry
+- Land_use_dict: Land use type areas
+- Entropy: Block entropy value
+- LDI: Normalized land diversity value
 
-#### Returns
+#### Processing Steps
+1. Extract GeoJSON geometry
+2. Gather land use data via OSMNx
+3. Calculate block entropy
+4. Compute land diversity
+5. Prepare visualization data
 
-- **CSV file**: A new csv file is created, which contains columns from the geojson file as well as additional values collected for each block utilized in the IDI computation.
-  - `Polygon`: the geometry of each block group
-  - `Area`: The area of the block group
-  - `Intersection`: Sum of the roads connected to an intersection in a block group.
-  - `IDI`: The IDI value which is normalized IDI value for all the blocks.
+### Population Density Index (PDI)
 
-#### Workflow
+#### Overview
+Processes Census Bureau population data to calculate density metrics.
 
-1. **Reading GeoJSON data**: Extracts the geometry of polygons from a file.
-2. **Intersection Data Extraction**: OSMNX is used to extract intersection data for a specified block.
-3. **Equivalency Factor Calculation**: The number of roads connecting each intersection in a polygon is determined, as is the total of the Equivalency factors of all intersections in a block.
-4. **Population Density Calculation**: Calculates IDI per block by dividing equivalency factor sums by respective areas. Normalize all IDIs.
-5. **return file**: generates a CSV with the data and IDI values required for creating visualizations in IDI_visualization.ipynb.
+#### Input Requirements
+- GeoDataFrame with:
+  - Block group geometries
+  - State/county FIPS codes
+- Census API key (from parameter or `census_api_key.txt`)
 
-### Land Diversity Index Generator
+#### Output Data (GeoDataFrame)
+- POP: Block group population
+- POPDENSITY: Persons per square kilometer
+- NORMPOPDENSITY: Normalized population density
 
-#### Description
+#### Processing Steps
+1. Validate API credentials
+2. Extract FIPS codes
+3. Retrieve Census data
+4. Integrate population data
+5. Calculate density metrics
+6. Clean and format output
 
-This Python script analyzes a GeoJSON file containing block group data, calculating the Land Diversity Index (LDI) for each block group. It outputs a CSV file detailing these LDI values, providing insights into diversity within the analyzed area.
-
-#### Parameters
-
-- **GeoJSON file**: A GeoJSON file that must contain the block groups' geometries and the FIPS codes for the state and counties.
-
-#### Returns
-
-- **CSV file**: A new csv file is created, which contains columns from the geojson file as well as additional values collected for each block utilized in the IDI computation.
-  - `Polygon`: the geometry of each block group
-  - `Land_use_dict`: A dictionary for each block with key as the land use type and the value being the area occupied by the land type.
-  - `Entropy`: The entropy of a block
-  - `LDI`: The LDI value which is normalized  with the maximum LDI value for all the blocks.
-
-#### Workflow
-
-1. **Reading GeoJSON data**: Extracts the geometry of polygons from a file.
-2. **Land Use Data Extraction**: OSMNX is used to extract Land use data for a specified block.
-3. **Entropy Calculation**: This is the first step of calculating LDI and the entropy is calculated for each block.
-4. **Land Diversity Calculation**: Calculates LDI per block by normalizing the entropies of all the blocks
-5. **return file**: generates a CSV with the data and LDI values required for creating visualizations in LDI_visualization.ipynb.
-
-### Population Density Index Generator
-
-#### Description
-
-This function retrieves the population data for each block group within the given geographic areas from the U.S. Census Bureau's API and merges it with an existing GeoDataFrame containing block group geometries. The result includes added columns for population density and PDI (normalized population density relative to the maximum value in the dataset).
-
-#### Parameters
-
-- **census_gdf** (`GeoDataFrame`): A GeoDataFrame that must contain the block groups' geometries and the FIPS codes for the state and counties.
-- **census_api_key** (`str`, optional): The API key for accessing the U.S. Census Bureau data. If not provided, the function will attempt to read it from a local file named `census_api_key.txt`. Census API keys may be generated at https://api.census.gov/data/key_signup.html.
-
-#### Returns
-
-- **GeoDataFrame**: The original GeoDataFrame is returned with additional columns:
-  - `POP`: Population of the block group.
-  - `POPDENSITY`: Population density of the block group in persons per square kilometer.
-  - `NORMPOPDENSITY`: Normalized population density scaled by the maximum population density across all block groups.
-
-#### Raises
-
-- **ValueError**: If no API key is provided and it is also not found in the file `census_api_key.txt`, a `ValueError` is raised.
-
-#### Workflow
-
-1. **API Key Validation**: Checks for the presence of an API key either directly through the parameter or within a local file.
-2. **FIPS Code Extraction**: Extracts the state and unique county FIPS codes from the GeoDataFrame.
-3. **Census Data Retrieval**: Uses the Census API to fetch population data for each block group in the specified counties and state.
-4. **Data Integration**: The fetched data is integrated into the original GeoDataFrame, converting population data to a usable format and creating new columns for population and population density.
-5. **Population Density Calculation**: Calculates the population density and normalized population density, adding these metrics to the GeoDataFrame.
-6. **Data Cleaning**: Cleans up the GeoDataFrame by removing unnecessary columns and ensuring proper indexing and geometry settings.
-
+#### Error Handling
+Raises ValueError if Census API key is unavailable

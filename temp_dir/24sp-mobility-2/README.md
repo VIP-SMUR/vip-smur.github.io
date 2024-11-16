@@ -5,17 +5,18 @@ This notebook focuses on the concept of the 15-minute city and investigates segr
 
 ## Notebook Summary
 This project includes procedures for loading, analyzing, processing, then modeling mobility and segregation density within a defined 15-minute city. The process includes:
-1. Data loading and initial analyze.
-2. Define 15-minute city parameters for given dataset.
+
+1. Data loading and initial analysis.
+2. Define 15-minute city parameters for the given dataset.
 3. Identifying data file tags to define residents, streets, amenities, and places of work.
-4. Calculate routes between coordinates of residents and amenities through shortest path profile.
+4. Calculate routes between coordinates of residents and amenities through the shortest path profile.
 5. Project a grid of points to routes.
 6. Estimate populations in provided buildings.
 7. Interpret relations between routes and intersection density (segregation) with populations weighted.
 8. Calculate and model final data normalized with heatmap through Grasshopper and Rhino.
 
 ## Usage
-The notebook is structured to be followed sequentially. Detailed comments and markdown notes provide guidance through each step of the analysis and modeling process.
+The notebook is structured to be followed sequentially. Detailed comments and markdown notes guide through each step of the analysis and modeling process.
 
 ![image](https://github.com/VIP-SMUR/wiki/assets/80086242/42125dde-0ed8-4f24-8647-b76ec7fe20c2)
 
