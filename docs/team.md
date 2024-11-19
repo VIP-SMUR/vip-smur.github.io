@@ -1,3 +1,17 @@
+ <!-- Additional styles for landing page -->
+  <style>
+    /* Application header should be static for the landing page */
+    .md-header {
+      position: initial;
+    }
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+</style>
+
 # Team members
 
 ---
@@ -40,7 +54,7 @@
 
 ## Spring 2024
 
-| Name             | Seniority | Major                  | Department | GitHub                                            | Topic Area                                        |
+| Name             | Seniority | Major                  | Department | GitHub handle                                       | Topic Area                                        |
 | ---------------- | --------- | ---------------------- | ---------- | ------------------------------------------------- | ------------------------------------------------- |
 | Neha Nakirikanti | Sophomore | Computer Science       | COC        | [nehanak](https://github.com/nehanak)             | [Mobility-1](/24sp-mobility-1)                    |
 | Vishal Maradana  | Senior    | Computer Science       | COC        | [vishal-337](https://github.com/vishal-337)       | [Mobility-1](/24sp-mobility-1)                    |

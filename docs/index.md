@@ -1,5 +1,16 @@
-<!-- Hide title -->
-<style>
+ <!-- Additional styles for landing page -->
+  <style>
+    /* Application header should be static for the landing page */
+    .md-header {
+      position: initial;
+    }
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+ /* Hide title */
   .md-typeset h1,
   .md-content__button {
     display: none;
@@ -56,8 +67,21 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 
 4. Urban Planning, Design, and Neighborhood Processes
 
+
+## Get involved
+
+<div class="grid cards" markdown>
+
+-   🤝 __Join our team!__
+  
+    ---
+
+    [:octicons-arrow-right-24: Learn more](get-involved/profile/README.md)
+
+</div>
+
 ---
 
-[VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty."
+[VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades."
 
 [stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations<br>- Community leaders<br>- Civil society:<br>&emsp;- local non-governmental organisations<br>&emsp;- community-based organisations<br>&emsp;- non-state armed actor<br>- International actors and donors<br>- National government, sub-national and local government<br>- Urban planning institutions<br>- Architects / Urban Designers<br>- Private sector<br>- Academia"
