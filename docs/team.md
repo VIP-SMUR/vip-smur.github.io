@@ -56,4 +56,4 @@
 | Parker Bredice   | Sophomore | Mechanical Engineering | ME         | [parkerbredice](https://github.com/parkerbredice) | [Mobility-2](/24sp-mobility-2)                    |
 | Thien-An Dang    | Senior    | Industrial Engineering | ISYE       | [tdang66](https://github.com/tdang66)             | [Mobility-2](/24sp-mobility-2)                    |
 | Sahil Handa      | Junior    | Computer Engineering   | ECE        | [handasahil](https://github.com/handasahil)       | [Mobility-2](/24sp-mobility-2)                    |
-| Silvia Vangelova | Masters   | ISYE                   | ISYE       | [xtearas](https://github.com/xtearas)             | [Sp24](https://vip-smur.github.io/projects/24sp/) |
+| Silvia Vangelova | Masters   | Analytics                   | ISYE       | [xtearas](https://github.com/xtearas)          | [Sp24](https://vip-smur.github.io/projects/24sp/) |
