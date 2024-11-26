@@ -201,7 +201,7 @@ plugins:
         - name: 24Fa-EnergyInBuildings-Com
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com?branch=main
           imports: [/README.md]
-        - name: 24Fa-Microclimate-UWG
+        - name: 24Fa-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-LSTM-Kriging?branch=main
           imports: [/README.md]
         - name: 24Fa-Microclimate-UMCF
