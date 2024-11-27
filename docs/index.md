@@ -24,7 +24,7 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 ## 📝 The Problem
 
-Some critics argue that many urban sustainability efforts only maintain the status quo rather than fostering true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this view by developing software tools that empower communities and urban decision-makers.
+Many performance-related decisions in architecture happen [too late](https://www.youtube.com/watch?v=9bUlBYc_Gl4) in the decision-making process to make sure it absolutely suits the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 Our models will enable urban decision-making by enabling real-time testing of interventions. By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
