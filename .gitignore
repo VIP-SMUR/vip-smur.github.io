@@ -162,3 +162,10 @@ cython_debug/
 /temp_dir
 /temp_dir/*
 .conda_path
+temp_dir/24fa-energyinbuildings-com/README.md
+temp_dir/24fa-energyinbuildings-res/README.md
+temp_dir/24fa-microclimate-umcf/README.md
+temp_dir/24fa-mobility-pei/README.md
+temp_dir/24fa-mponc/README.md
+temp_dir/24fa-neuroarchitecture/README.md
+temp_dir/24sp-mobility-1/README.md
