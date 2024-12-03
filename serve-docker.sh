@@ -1,0 +1,1 @@
+docker run --rm -it -p 8080:8000 -v %cd%:/docs custom-mkdocs-material
