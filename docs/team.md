@@ -19,8 +19,7 @@
 ## Fall 2024
 
 | Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                             |
-| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |
-| Yilun Zha             | PhD       | Planning/Urban Design  | ARCH       | [elonncha](https://github.com/elonncha)                       | [Mobility-PEI](/24fa-mobility-pei)                     |
+| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |                  |
 | Joseph M. Aerathu     | Masters   | Architecture (HPB)     | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
 | Matthew Lim           | Sophomore | Computer Science       | COC        | [mlim70](https://github.com/mlim70)                           | [MPONC](/24fa-mponc)                                   |
 | Marcelo Alvarez       | Masters   | Architecture (DC)      | ARCH       | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-UMCF](/24fa-microclimate-umcf)           |
