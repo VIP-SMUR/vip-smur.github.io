@@ -19,7 +19,7 @@
 ## Fall 2024
 
 | Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                             |
-| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |                  |
+| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |
 | Joseph M. Aerathu     | Masters   | Architecture (HPB)     | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings-Com](/24fa-energyinbuildings-com) |
 | Matthew Lim           | Sophomore | Computer Science       | COC        | [mlim70](https://github.com/mlim70)                           | [MPONC](/24fa-mponc)                                   |
 | Marcelo Alvarez       | Masters   | Architecture (DC)      | ARCH       | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-UMCF](/24fa-microclimate-umcf)           |
@@ -53,7 +53,7 @@
 
 ## Spring 2024
 
-| Name             | Seniority | Major                  | Department | GitHub handle                                       | Topic Area                                        |
+| Name             | Seniority | Major                  | Department | GitHub handle                                     | Topic Area                                        |
 | ---------------- | --------- | ---------------------- | ---------- | ------------------------------------------------- | ------------------------------------------------- |
 | Neha Nakirikanti | Sophomore | Computer Science       | COC        | [nehanak](https://github.com/nehanak)             | [Mobility-1](/24sp-mobility-1)                    |
 | Vishal Maradana  | Senior    | Computer Science       | COC        | [vishal-337](https://github.com/vishal-337)       | [Mobility-1](/24sp-mobility-1)                    |
@@ -69,4 +69,4 @@
 | Parker Bredice   | Sophomore | Mechanical Engineering | ME         | [parkerbredice](https://github.com/parkerbredice) | [Mobility-2](/24sp-mobility-2)                    |
 | Thien-An Dang    | Senior    | Industrial Engineering | ISYE       | [tdang66](https://github.com/tdang66)             | [Mobility-2](/24sp-mobility-2)                    |
 | Sahil Handa      | Junior    | Computer Engineering   | ECE        | [handasahil](https://github.com/handasahil)       | [Mobility-2](/24sp-mobility-2)                    |
-| Silvia Vangelova | Masters   | Analytics                   | ISYE       | [xtearas](https://github.com/xtearas)          | [Sp24](https://vip-smur.github.io/projects/24sp/) |
+| Silvia Vangelova | Masters   | Analytics              | ISYE       | [xtearas](https://github.com/xtearas)             | [Sp24](https://vip-smur.github.io/projects/24sp/) |
