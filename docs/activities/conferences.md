@@ -15,3 +15,10 @@
 
   Ze Yu Jiang, Sofia Mujica, Silvia Vangelova, and Patrick Kastner</figcaption>
 </figure>
+
+## Spring 2024
+
+<figure markdown="span">
+  ![Anubha Mahajan representing VIP-SMUR at the BBISS Sustainability Showcase](BBISS24_AnubhaMahajan.jpg)
+  <figcaption>Anubha Mahajan representing VIP-SMUR at the Spring 24 BBISS Sustainability Showcase.</figcaption>
+</figure>
