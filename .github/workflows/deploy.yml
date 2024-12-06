@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-       GithubAccessToken: ${{ secrets.SMUR }}
+        GithubAccessToken: ${{ secrets.SMUR }}
     steps:
       - uses: actions/checkout@v4
         with:
