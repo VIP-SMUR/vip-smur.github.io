@@ -8,8 +8,6 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    env:
-        GithubAccessToken: ${{ secrets.SMUR }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,4 +36,4 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: pip install markdown-include
       - run: mkdocs gh-deploy --force
-          env: GithubAccessToken: ${{ secrets.GITHUB_TOKEN }}
+          env: GithubAccessToken: ${{ secrets.SMUR }}
