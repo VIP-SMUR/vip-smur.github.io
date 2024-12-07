@@ -171,18 +171,19 @@ plugins:
         - get-involved.md
         - index.md
       enabled: true
-      enabled_on_serve: true
+      enabled_on_serve: false
       strict: true
   - git-committers:
       repository: VIP-SMUR/wiki
       branch: main
       docs_path: docs/
-  - search:
-      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
-      cleanup: false
+      cleanup: true
+      # if set the docs directory will not be removed when importing docs. When using this with a nav section in an imported repo
+      # you must keep the docs directory in the path (e.g., docs/path/to/file.md).
+      keep_docs_dir: true
       nav_repos:
         # Fall 2024
         - name: get-involved
@@ -210,6 +211,9 @@ plugins:
         - name: 24Fa-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
           imports: [/README.md]
+        # - name: TEST
+        #  import_url: https://github.com/VIP-SMUR/Test?branch=main
+        #  imports: [/README.md]
 
         # Spring 2024
         - name: 24Sp-EnergyInBuildings
@@ -240,6 +244,8 @@ nav:
           - 24-Fa-Microclimate-LSTM-Kriging: 24fa-microclimate-lstm-kriging/README.md
           - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
           - 24-Fa-Mobility-PEI: 24fa-mobility-pei/README.md
+          # - Test: test/README.md
+
 
       - Spring 2024:
           - Projects: projects/24sp/README.md

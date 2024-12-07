@@ -5,5 +5,5 @@ echo "###############"
 echo.
 
 
-REM mkdocs serve
-mkdocs serve -a 127.0.0.1:8080
+REM mkdocs serve -q
+mkdocs serve -q -a 127.0.0.1:8080
