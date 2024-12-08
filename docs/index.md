@@ -28,9 +28,9 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 Many performance-related decisions in architecture happen too late in the decision-making process to make sure they absolutely suits the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 <figure markdown="span">
-  ![SustainLab Logo](images/SVG/InfluenceCurveWhite.svg#dark-only){ align=left, width="640",  .off-glb}
-  ![SustainLab Logo](images/SVG/InfluenceCurveBlack.svg#light-only){ align=left, width="640", .off-glb }
-  <figcaption><a href="https://www.youtube.com/watch?v=9bUlBYc_Gl4">McLeamy Curve</a>, illustrating the need for rapid performance feedback in architectural decision-making.</figcaption>
+  ![MacLeamy Influence Curve](images/SVG/InfluenceCurveWhite.svg#dark-only){ align=left, width="640",  .off-glb}
+  ![MacLeamy Influence Curve](images/SVG/InfluenceCurveBlack.svg#light-only){ align=left, width="640", .off-glb }
+  <figcaption><a href="https://www.youtube.com/watch?v=9bUlBYc_Gl4">MacLeamy Curve</a>, illustrating the need for rapid performance feedback in architectural decision-making.</figcaption>
 </figure>
 
 Our models will enable urban decision-making by enabling real-time testing of interventions. By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
