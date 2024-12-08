@@ -50,7 +50,7 @@ Conventional environmental simulation approaches in urban design are time-consum
 
 Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as `Rhino` and `Revit` and others.
 
-## ✅ Interests and Prerequisites
+## ✅ Prerequisites
 
 We seek an interdisciplinary team of highly motivated students. Experience with `Python/C#`, `machine learning` and `simulation modeling` will be advantageous. We plan to form teams that consist of:
 
