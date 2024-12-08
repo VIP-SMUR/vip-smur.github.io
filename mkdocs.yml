@@ -170,7 +170,7 @@ plugins:
         - getting_started.md
         - get-involved.md
         - index.md
-        - InfluenceCurve.ai
+        - !**/InfluenceCurve.ai
       enabled: true
       enabled_on_serve: false
       strict: true
