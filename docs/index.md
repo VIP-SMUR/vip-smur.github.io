@@ -89,6 +89,6 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 
 ---
 
-[VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over more than two decades."
+[VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams that are led by faculty. The program has been rigorously evaluated and refined over two decades."
 
 [stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations<br>- Community leaders<br>- Civil society:<br>&emsp;- local non-governmental organisations<br>&emsp;- community-based organisations<br>&emsp;- non-state armed actor<br>- International actors and donors<br>- National government, sub-national and local government<br>- Urban planning institutions<br>- Architects / Urban Designers<br>- Private sector<br>- Academia"
