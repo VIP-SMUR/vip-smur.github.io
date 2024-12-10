@@ -88,10 +88,16 @@ extra:
       link: https://orcid.org/0000-0003-4940-341X
 
 extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    # Display math
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:
+  # Display math
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - pymdownx.caret
   - pymdownx.mark
@@ -182,7 +188,7 @@ plugins:
 
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
-      cleanup: true
+      cleanup: false
       # if set the docs directory will not be removed when importing docs. When using this with a nav section in an imported repo
       # you must keep the docs directory in the path (e.g., docs/path/to/file.md).
       keep_docs_dir: true
