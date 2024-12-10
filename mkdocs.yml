@@ -200,25 +200,25 @@ plugins:
 
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         - name: 24Fa-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/24Fa-Neuroarchitecture?branch=main
-          imports: [/README.md]
+          imports: [/README.md, /selecting_process/*,/Figure/*]
         - name: 24Fa-EnergyInBuildings-Res
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Res?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         - name: 24Fa-EnergyInBuildings-Com
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         - name: 24Fa-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-LSTM-Kriging?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         - name: 24Fa-Microclimate-UMCF
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-UMCF?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         - name: 24Fa-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
-          imports: [/README.md]
+          imports: [/README.md,/Figures/*]
         # - name: TEST
         #  import_url: https://github.com/VIP-SMUR/Test?branch=main
         #  imports: [/README.md]
