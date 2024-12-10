@@ -12,4 +12,5 @@ RUN apk add --no-cache bash && \
     mkdocs-title-casing-plugin \
     mkdocs-glightbox \
     markdown-include \
-    mkdocs-redirects
+    mkdocs-redirects \
+    mkdocs-include-markdown-plugin

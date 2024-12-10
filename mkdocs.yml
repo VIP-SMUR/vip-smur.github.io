@@ -134,6 +134,7 @@ markdown_extensions:
 
 # Plugins
 plugins:
+  - include-markdown
   - search
   #- title-casing
   - glightbox
@@ -246,7 +247,6 @@ nav:
           - 24-Fa-Microclimate-UMCF: 24fa-microclimate-umcf/README.md
           - 24-Fa-Mobility-PEI: 24fa-mobility-pei/README.md
           # - Test: test/README.md
-
 
       - Spring 2024:
           - Projects: projects/24sp/README.md

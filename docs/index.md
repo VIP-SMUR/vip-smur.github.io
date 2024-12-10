@@ -1,5 +1,5 @@
- <!-- Additional styles for landing page -->
-  <style>
+<style>
+/*  Additional styles for landing page */
     /* Application header should be static for the landing page */
     .md-header {
       position: initial;
@@ -17,6 +17,7 @@
   }
 </style>
 
+
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only){ align=left, width="500", .off-glb}
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-black.svg#light-only){ align=left, width="500", .off-glb}
 
@@ -24,14 +25,9 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 ## 📝 The Problem
 
-
 Many performance-related decisions in architecture happen too late in the decision-making process to make sure they absolutely suits the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
-<figure markdown="span">
-  ![MacLeamy Influence Curve](images/SVG/InfluenceCurveWhite.svg#dark-only){ align=left, width="640",  .off-glb}
-  ![MacLeamy Influence Curve](images/SVG/InfluenceCurveBlack.svg#light-only){ align=left, width="640", .off-glb }
-  <figcaption><a href="https://www.youtube.com/watch?v=9bUlBYc_Gl4">MacLeamy Curve</a>, illustrating the need for rapid performance feedback in architectural decision-making.</figcaption>
-</figure>
+{% include 'macleamy.md' %} 
 
 Our models will enable urban decision-making by enabling real-time testing of interventions. By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive. Our work will address:
 
@@ -40,8 +36,7 @@ Our models will enable urban decision-making by enabling real-time testing of in
 - Flood, stormwater, water runoff
 - Mobility, walkability, transportation
 - Global warming, climate change (heat waves)
-- Urban decarbonization
-- Urban building energy, district energy
+- Urban building energy, district energy, decarbonization
 - Environmental justice  
 
 ## 🎯 Goals
@@ -67,25 +62,20 @@ If your major is not mentioned, please [contact us](mailto:patrick.kastner@gatec
 Our [current and previous projects](https://vip-smur.github.io/projects/) include topics on:
 
 1. Energy in Buildings
-
+   
 2. Urban Microclimate
-
+   
 3. Mobility and Walkability
-
+   
 4. Urban Planning, Design, and Neighborhood Processes
 
 
 ## Get involved
 
-<div class="grid cards" markdown>
-
--   🤝 __Join our team!__
-  
-    ---
-
-    [:octicons-arrow-right-24: Learn more](get-involved/profile/README.md)
-
-</div>
+<table>
+<tr><td><strong>🤝 Join our VIP team!</strong></td></tr>
+<tr><td><a href="https://vip-smur.github.io/get-involved/profile/">&nbsp;&nbsp;→&nbsp;&nbsp;Learn more</a></td></tr>
+</table>
 
 ---
 
