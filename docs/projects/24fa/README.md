@@ -15,6 +15,8 @@
 
     [:octicons-arrow-right-24: Learn more](../../24fa-neuroarchitecture/README.md)
 
+
+
 -   :material-view-grid-plus:{ .lg .middle } __MPONC__
 
     ---
@@ -24,6 +26,9 @@
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24fa-mponc/README.md)
+
+
+
 
 -   :material-office-building:{ .lg .middle } __Energy in Commercial Buildings__
 
@@ -35,6 +40,9 @@
 
     [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-com/README.md)
 
+
+
+
 -   :material-home:{ .lg .middle } __Energy in Residential Buildings__
 
     ---
@@ -45,25 +53,34 @@
 
     [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-res/README.md)
 
--   :material-weather-sunny:{ .lg .middle } __Urban Weather Generator (UWG)__
+
+
+
+-   :material-weather-sunny:{ .lg .middle } __Geo-LSTM-Kriging__
 
     ---
 
-    Continues work on modeling the urban heat island effect using EnergyPlus (.epw) weather files.
+    Continues work on surrogate models estimating urban heat island effects.
     
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-lstm-kriging/README.md)
 
--   :material-city-variant:{ .lg .middle } __Urban Microclimate Framework (UMCF)__
+
+
+
+-   :material-city-variant:{ .lg .middle } __Urban Microclimate Modeling (UMCF)__
 
     ---
 
-    Grasshopper workflows for modeling the urban microclimate.
+    Rhino & Grasshopper workflows for urban microclimate modeling.
     
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-umcf/README.md)
+
+
+
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } __Pedestrian Environment Index (PEI)__
 
