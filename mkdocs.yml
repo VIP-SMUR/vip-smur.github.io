@@ -185,6 +185,7 @@ plugins:
       repository: VIP-SMUR/wiki
       branch: main
       docs_path: docs/
+      token: !ENV ["GithubAccessToken"]
 
   - multirepo:
       # (optional) tells multirepo to cleanup the temporary directory after site is built.
