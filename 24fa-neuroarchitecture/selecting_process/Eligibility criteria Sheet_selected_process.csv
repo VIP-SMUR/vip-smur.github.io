@@ -1,0 +1,57 @@
+,Include,why include?,Exclude,why exclude?,,Legend 
+Population,Any Gender,,"60+,16-",children might not have choices for which environment they're in (should be along with parents) Elderly might expose with physical health. ,,misha
+,Adults (16-60),General Population in Urban Areas,"Children, Elderly",Focus on Adult Mental Health ,,changda
+,Residents,Residents of urban neighborhoods/ high-density urban environments ,Animal,Focus on Adult Mental Health ,,Parya
+"Intervention / 
+Exposure",Built / Urban Environment,Main Term (Boolean Formula),Animal Exposure,,,Nhu
+,Building Architecture,How Building Impacts Mental health in urban spaces,Transportation,"Not Directly Related to Mental Health
+Convenient transportation system may have positive mental 
+health effects, such as reducing commuting stress, while 
+others (e.g., high-density road networks) can have negative
+ impacts, like increasing the risk of traffic accidents. Thus, 
+when Transportation are analyzed as a whole, the conflicting
+ effects may obscure the clarity of the conclusions.
+
+",,
+,Architectural Design,Main Term (Boolean Formula),Structural Factors,Not Focused on Structural Factors,,
+,Building Design,Main Term (Boolean Formula),Density,It operates at multiple scales,,
+,Environmental Design,Affects the quality of life and mental health ,Social factors,"Social factors are often related to people¡¯s daily lives
+ in the city and are intangible. However, this study 
+focuses on the urban environment, which is actually 
+objective.",,
+,Sustainable Architecture,Main Term (Boolean Formula),natural environment,not built environment,,
+,Built Form,Urban Public Realm,utility infrastructure,"More functional, less relevant to a person's mental health",,
+,Green Space & Park,"Urban spaces Impacted on mental health, cognitive function and well-being ",architecture (systems),Looking for architecture of built spaces,,
+,Street & Public Space,Urban Public Realm,architecture (computers),Not related to architecture of built spaces,,
+,"Environmental Contaminants 
+(Air Pollution , Noise...) ",,architecture (brain),Not related to architecture of built spaces,,
+,Natural Lighting,,cognitive architecture,Not related to architecture of built spaces,,
+,Built environment's features ,"Specific features including green spaces, housing quality, noise levels, public transportation access, etc that influencing mental health in urban environments.",Furniture layout,Not very directly relate to well-being and urban environment in general,,
+,Rural,,"Individual lifestyle factor (diet, exercise)",Too personal ,,
+"Comparator 
+/ Context",Different Urban Architecture,To compare various urban design impact on health,,Research in urban-Focused,,
+,"Public Spaces, Urban Parks
+",To compare mental health outcomes in different urban environment ,,,,
+,Different levels of built environment factors,To compare the impact of environment features toward individual well-being ,Lack of environemtal features ,Difficult to compare withour specific built environement features,,
+Outcome,Mental Health,Main Term (Boolean Formula),"Violence,Crime and Peer Victimisation",focus on mental health,,
+,Well-being,Main Term (Boolean Formula),physical Health,,,
+,Quality of Life,,Social or Environmental Outcomes,,,
+,Psychological  Factors,,,,,
+,"Mental issues like depression, anxiety
+disorders.stress.etc.","Can be measured in a quantitative way,get data results, more precise, accurate and 
+persuasive",,,,
+,,Direct outcomes that are influenced by the surrounding and built environment,"Physical health outcomes (cardiovascular, obesity, etc)",Focus mainly on mental health ,,
+"Study 
+Characteristics
+",Empirical Studies,contain both  data and analyses.,Case Reports or Case Series,"Lower Level of Evidence,More descriptive, not causal",,
+,Quantitative Studies,,Animal studies,not applicable to human built environments,,
+,"Randomized Controlled Trials, RCTs",,laboratory experiments,,,
+,Cross-sectional Studies,,Opinion paper,"Introduce bias, not focus on quantitative data",,
+,Longitudinal Studies,,,,,
+Other,English,,"letters, editorials, essays or other 
+non-peer-reviewed material, reviews, 
+meta-analysis","Insufficient primary research data or independent empirical
+ evidence could not be provided. The aim of a systematic
+ literature review is to systematically, comprehensively and 
+objectively summarize existing empirical research data and
+ draw scientific conclusions from it.",,
