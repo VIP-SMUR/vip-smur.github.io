@@ -259,8 +259,8 @@ nav:
           - Projects: projects/24sp/README.md
           - 24-Sp-Energy: 24sp-energyinbuildings/README.md
           - 24-Sp-Microclimate: 24sp-microclimate/README.md
-          - 24-Sp-Mobility-1: 24sp-mobility-1/README.md
-          - 24-Sp-Mobility-2: 24sp-mobility-2/README.md
+          - 24-Sp-Mobility-PEI: 24sp-mobility-1/README.md
+          - 24-Sp-Mobility-Seg: 24sp-mobility-2/README.md
 
   - Team:
       - Team overview: team.md
