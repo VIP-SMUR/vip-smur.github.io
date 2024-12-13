@@ -231,11 +231,11 @@ plugins:
         - name: 24Sp-Microclimate
           import_url: https://github.com/VIP-SMUR/24Sp-Microclimate?branch=main
           imports: [/README.md]
-        - name: 24Sp-Mobility-1
-          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-1?branch=main
+        - name: 24Sp-Mobility-PEI
+          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-PEI?branch=main
           imports: [/README.md]
-        - name: 24Sp-Mobility-2
-          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-2?branch=main
+        - name: 24Sp-Mobility-Seg
+          import_url: https://github.com/VIP-SMUR/24Sp-Mobility-Seg?branch=main
           imports: [/README.md]
 
 nav:
@@ -259,8 +259,8 @@ nav:
           - Projects: projects/24sp/README.md
           - 24-Sp-Energy: 24sp-energyinbuildings/README.md
           - 24-Sp-Microclimate: 24sp-microclimate/README.md
-          - 24-Sp-Mobility-PEI: 24sp-mobility-1/README.md
-          - 24-Sp-Mobility-Seg: 24sp-mobility-2/README.md
+          - 24-Sp-Mobility-PEI: 24sp-mobility-pei/README.md
+          - 24-Sp-Mobility-Seg: 24sp-mobility-seg/README.md
 
   - Team:
       - Team overview: team.md
