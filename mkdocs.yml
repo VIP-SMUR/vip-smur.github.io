@@ -7,7 +7,7 @@ site_description: >-
   Project page of the Surrogate Modeling for Urban Regeneration (VIP) at Georgia Tech.
 
 # Copyright
-copyright: Copyright &copy; 2023--24 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a> Rebuild site. <a href="https://siddharthdasari.com/">Design credits.</a><a href="<a href="https://siddharthdasari.com/">Design credits.</a>">Design credits.</a>
+copyright: Copyright &copy; 2023--24 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions/workflows/deploy.yml">Rebuild site.</a>
 
 theme:
   name: material
