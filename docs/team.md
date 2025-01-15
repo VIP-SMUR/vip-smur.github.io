@@ -30,7 +30,7 @@
 | Han-Syun Shih         | Masters   | Architecture (HBP)                   | ARCH        | [Benjaminhansyun](https://github.com/hshih38)                 | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
 | Thanasarn Changnawa   | PhD       | Architecture                         | ARCH        | [Thanasarn-Changnawa](https://github.com/Thanasarn-Changnawa) | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
 | Hang Xu               | PhD       | Architecture (HBP)                   | ARCH        | [HangXXXu](https://github.com/HangXXXu)                       | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
-| Justin Xu             | Sophomore | Computer Science                     | COC         | [JXU037](https://github.com/JXU037)                           | [MPONC](25sp-microclimate-lstm-kriging/README.md)                              |
+| Justin Xu             | Sophomore | Computer Science                     | COC         | [JXU037](https://github.com/JXU037)                           | [MPONC](25sp-mponc/README.md)                                                  |
 | Jiayi Li              | Junior    | Architecture                         | ARCH        | [jli3307](https://github.com/jli3307)                         | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
 | Marcellus English     | Sophomore | Civil Engineering                    | CEE         | [mcenglish](https://github.com/mcenglish)                     | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
 | Kavya Lalith          | Sophomore | Computer Engineering                 | ECE         | [kavya-oop](https://github.com/kavya-oop)                     | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
@@ -44,12 +44,12 @@
 | Mason Dewitt          | Freshman  | Computer Engineering                 | ECE         | [Masonrd](https://github.com/Masonrd)                         | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
 | Johnny Chen           | Freshman  | Computer Science                     | COC         | [jxchen21](https://github.com/jxchen21)                       | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
 | Yupeng Tang           | Masters   | Computer Science                     | COC         | [yupengtang](https://github.com/yupengtang)                   | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
-| Dayeon Song           | Freshman  | Industrial and Systems Engineering   | ISYE        | [daytss](https://github.com/daytss)                           | [Microclimate-LSTM-Kriging](25sp-energy-in-buildings/README.md)                |
-| Junting Chen          | Masters   | Analytics                            | ISYE        | [chen112p](https://github.com/chen112p)                       | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Dayeon Song           | Freshman  | Industrial and Systems Engineering   | ISYE        | [daytss](https://github.com/daytss)                           | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
+| Junting Chen          | Masters   | Online MS Analytics                  | ISYE        | [chen112p](https://github.com/chen112p)                       | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
 | Gonzalo Vegas         | PhD       | Architecture                         | ARCH        | [gvegasol](https://github.com/gvegasol)                       | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
 | Sina Rahimi           | PhD       | Architectural Science                | ARCH        | [sinarahimi](https://github.com/sinarhm)                      | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
 | Ze Yu Jiang           | Junior    | Computer Science                     | COC         | [zeyujiang8800](https://github.com/zeyujiang8800)             | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
-| Nicholas Stone        | Junior    | Civil Engineering                    | CEE         | [nbaron](https://github.com/nbaron)                           | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
+| Nicholas Stone        | Junior    | Computer Science                     | COC         | [nbaron](https://github.com/nbaron)                           | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
 
 ## Fall 2024
 
@@ -104,4 +104,4 @@
 | Parker Bredice   | Sophomore | Mechanical Engineering | ME         | [parkerbredice](https://github.com/parkerbredice) | [Mobility-2](24sp-mobility-2/README.md)                    |
 | Thien-An Dang    | Senior    | Industrial Engineering | ISYE       | [tdang66](https://github.com/tdang66)             | [Mobility-2](24sp-mobility-2/README.md)                    |
 | Sahil Handa      | Junior    | Computer Engineering   | ECE        | [handasahil](https://github.com/handasahil)       | [Mobility-2](24sp-mobility-2/README.md)                    |
-| Silvia Vangelova | Masters   | Analytics              | ISYE       | [xtearas](https://github.com/xtearas)             | [Sp24](https://vip-smur.github.io/projects/24sp/README.md) |
+| Silvia Vangelova | Masters   | Online MS Analytics    | ISYE       | [xtearas](https://github.com/xtearas)             | [Sp24](https://vip-smur.github.io/projects/24sp/README.md) |
