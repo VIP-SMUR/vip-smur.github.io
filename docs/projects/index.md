@@ -25,6 +25,12 @@
 
 
 
+-   :material-folder:{ .lg .middle } __Spring 2025__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](25sp/README.md)
+
 </div>
 
 ---
