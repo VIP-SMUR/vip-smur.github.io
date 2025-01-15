@@ -16,6 +16,41 @@
 
 ---
 
+
+## Spring 2025
+
+| Name                  | Seniority | Major                                | Department  | GitHub Handle                                                 | Topic Area                                                                     |
+|-----------------------|-----------|--------------------------------------|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Joseph M. Aerathu     | Masters   | Architecture (HPB)                   | ARCH        | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Matthew Lim           | Sophomore | Computer Science                     | COC         | [mlim70](https://github.com/mlim70)                           | [MPONC](25sp-mponc/README.md)                                                  |
+| Marcelo Alvarez       | Masters   | Architecture (DC)                    | ARCH        | [alvarezdmarch](https://github.com/alvarezdmarch)             | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Changda Ma            | Masters   | Architecture                         | ARCH        | [changdama](https://github.com/changdama)                     | [Neuroarchitecture](25sp-neuroarchitecture/README.md)                          |
+| Anubha Mahajan        | Senior    | Computer Science                     | COC         | [amahajan68](https://github.com/amahajan68)                   | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Jessica Hernandez     | Senior    | Computer Science                     | COC         | [jhernandez312](https://github.com/jhernandez312)             | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Han-Syun Shih         | Masters   | Architecture (HBP)                   | ARCH        | [Benjaminhansyun](https://github.com/hshih38)                 | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Thanasarn Changnawa   | PhD       | Architecture                         | ARCH        | [Thanasarn-Changnawa](https://github.com/Thanasarn-Changnawa) | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
+| Hang Xu               | PhD       | Architecture (HBP)                   | ARCH        | [HangXXXu](https://github.com/HangXXXu)                       | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Justin Xu             | Sophomore | Computer Science                     | COC         | [JXU037](https://github.com/JXU037)                           | [MPONC](25sp-microclimate-lstm-kriging/README.md)                              |
+| Jiayi Li              | Junior    | Architecture                         | ARCH        | [jli3307](https://github.com/jli3307)                         | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Marcellus English     | Sophomore | Civil Engineering                    | CEE         | [mcenglish](https://github.com/mcenglish)                     | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Kavya Lalith          | Sophomore | Computer Engineering                 | ECE         | [kavya-oop](https://github.com/kavya-oop)                     | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Nithish Sabapathy     | Junior    | Computer Science                     | COC         | [nithish101](https://github.com/nithish101)                   | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
+| Krish Gupta           | Junior    | Civil Engineering                    | CEE         | [krishgupta-CE](https://github.com/krishgupta-CE)             | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
+| Victor Wang           | Freshman  | Industrial and Systems Engineering   | ISYE        | [vdwang](https://github.com/vdwang)                           | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Sharmista Debnath     | Masters   | Architecture (HBP)                   | ARCH        | [Myshx](https://github.com/Myshx)                             | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Catherine Wallis      | Senior    | Architecture                         | ARCH        | [cgwallis](https://github.com/cgwallis)                       | [Neuroarchitecture](25sp-neuroarchitecture/README.md)                          |
+| Atharva Beesen        | Junior    | Computer Science                     | COC         | [AtharvaBeesen](https://github.com/AtharvaBeesen)             | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
+| Joshua Cohen          | Senior    | Civil Engineering                    | CEE         | [paradoxwalk](https://github.com/paradoxwalk)                 | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
+| Mason Dewitt          | Freshman  | Computer Engineering                 | ECE         | [Masonrd](https://github.com/Masonrd)                         | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
+| Johnny Chen           | Freshman  | Computer Science                     | COC         | [jxchen21](https://github.com/jxchen21)                       | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Yupeng Tang           | Masters   | Computer Science                     | COC         | [yupengtang](https://github.com/yupengtang)                   | [Energy-In-Buildings](25sp-energyinbuildings/README.md)                        |
+| Dayeon Song           | Freshman  | Industrial and Systems Engineering   | ISYE        | [daytss](https://github.com/daytss)                           | [Microclimate-LSTM-Kriging](25sp-energy-in-buildings/README.md)                |
+| Junting Chen          | Masters   | Analytics                            | ISYE        | [chen112p](https://github.com/chen112p)                       | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Gonzalo Vegas         | PhD       | Architecture                         | ARCH        | [gvegasol](https://github.com/gvegasol)                       | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Sina Rahimi           | PhD       | Architectural Science                | ARCH        | [sinarahimi](https://github.com/sinarhm)                      | [Microclimate-UMCF](25sp-microclimate-umcf/README.md)                          |
+| Ze Yu Jiang           | Junior    | Computer Science                     | COC         | [zeyujiang8800](https://github.com/zeyujiang8800)             | [Microclimate-LSTM-Kriging](25sp-microclimate-lstm-kriging/README.md)          |
+| Nicholas Stone        | Junior    | Civil Engineering                    | CEE         | [nbaron](https://github.com/nbaron)                           | [Mobility-PEI](25sp-mobility-pei/README.md)                                    |
+
 ## Fall 2024
 
 | Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                                                     |

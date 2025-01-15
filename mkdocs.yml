@@ -199,6 +199,25 @@ plugins:
           import_url: https://github.com/VIP-SMUR/.github?branch=main
           imports: [/profile/README.md]
 
+        - name: 25Sp-MPONC
+          import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
+          imports: [/README.md,/Figures/*]
+        - name: 25Sp-Neuroarchitecture
+          import_url: https://github.com/VIP-SMUR/25Sp-Neuroarchitecture?branch=main
+          imports: [/README.md, /selecting_process/*,/Figure/*]
+        - name: 25Sp-EnergyInBuildings
+          import_url: https://github.com/VIP-SMUR/25Sp-EnergyInBuildings?branch=main
+          imports: [/README.md,/Figures/*]
+        - name: 25Sp-Microclimate-LSTM-Kriging
+          import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-LSTM-Kriging?branch=main
+          imports: [/README.md,/Figures/*]
+        - name: 25Sp-Microclimate-UMCF
+          import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-UMCF?branch=main
+          imports: [/README.md,/Figures/*]
+        - name: 25Sp-Mobility-PEI
+          import_url: https://github.com/VIP-SMUR/25Sp-Mobility-PEI?branch=main
+          imports: [/README.md,/Figures/*]
+
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
           imports: [/README.md,/Figures/*]
@@ -244,6 +263,17 @@ nav:
       - Get involved: get-involved/profile/README.md
   - Projects:
       - Overview: projects/index.md
+
+      - Spring 2025:
+          - Projects: projects/25sp/README.md
+          - 25-Sp-Neuroarchitecture: 25sp-neuroarchitecture/README.md
+          - 25-Sp-MPONC: 25sp-mponc/README.md
+          - 25-Sp-Energy: 25sp-energyinbuildings/README.md
+          - 25-Sp-Microclimate-LSTM-Kriging: 25sp-microclimate-lstm-kriging/README.md
+          - 25-Sp-Microclimate-UMCF: 25sp-microclimate-umcf/README.md
+          - 25-Sp-Mobility-PEI: 25sp-mobility-pei/README.md
+          # - Test: test/README.md
+
       - Fall 2024:
           - Projects: projects/24fa/README.md
           - 24-Fa-Neuroarchitecture: 24fa-neuroarchitecture/README.md
