@@ -194,11 +194,12 @@ plugins:
       # you must keep the docs directory in the path (e.g., docs/path/to/file.md).
       keep_docs_dir: true
       nav_repos:
-        # Fall 2024
+
         - name: get-involved
           import_url: https://github.com/VIP-SMUR/.github?branch=main
           imports: [/profile/README.md]
 
+        # Spring 2025
         - name: 25Sp-MPONC
           import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
           imports: [/README.md,/Figures/*]
@@ -218,6 +219,7 @@ plugins:
           import_url: https://github.com/VIP-SMUR/25Sp-Mobility-PEI?branch=main
           imports: [/README.md,/Figures/*]
 
+        # Fall 2024
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
           imports: [/README.md,/Figures/*]
