@@ -298,5 +298,6 @@ nav:
       - Team overview: team.md
 
   - Activities: 
+      - Team Bonding: activities/teambonding.md
       - Conferences: activities/conferences.md
       - Class Dinners: activities/dinners.md
