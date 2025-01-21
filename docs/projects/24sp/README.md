@@ -14,7 +14,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-1/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-pei/README.md)
 
 -   :material-clock-time-five-outline:{ .lg .middle } __Segregation in the 15-Minute City__
 
@@ -24,7 +24,7 @@
 	
 	---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-2/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-seg/README.md)
 
 
 
