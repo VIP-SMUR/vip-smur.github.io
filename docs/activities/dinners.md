@@ -1,4 +1,4 @@
-# Team Bonding
+# Class Dinner (test test)
 
 ## Fall 2024
 
