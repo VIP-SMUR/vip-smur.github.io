@@ -1,4 +1,4 @@
-# Class Dinners
+# Team Bonding
 
 ## Fall 2024
 
