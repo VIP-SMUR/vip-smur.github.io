@@ -1,4 +1,4 @@
-# Class Dinner (test test)
+# Class Dinner
 
 ## Fall 2024
 

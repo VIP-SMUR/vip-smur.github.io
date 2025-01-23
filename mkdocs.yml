@@ -295,9 +295,10 @@ nav:
           - 24-Sp-Mobility-Seg: 24sp-mobility-seg/README.md
 
   - Team:
-      - Team overview: team.md
+      - Team overview: team/index.md
 
   - Activities: 
-      - Team Bonding: activities/teambonding.md
+
+      - Overview: activities/index.md
       - Conferences: activities/conferences.md
       - Class Dinners: activities/dinners.md

@@ -18,6 +18,14 @@
 
 ## Spring 2025
 
+<figure markdown="span">
+
+  ![Spring 2025 Group Picture at Tech Green](25Sp_ClassPhoto.jpg)
+
+  <figcaption>SMUR 2025 Team Picture</figcaption>
+
+</figure>
+
 | Name                | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                                            |
 | ------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Joseph M. Aerathu   | Masters   | Architecture (HPB)     | ARCH       | [jma1999](https://github.com/jma1999)                         | [Energy-In-Buildings](25sp-energyinbuildings/README.md)               |
@@ -91,9 +99,9 @@
 
 | Name             | Seniority | Major                  | Department | GitHub handle                                     | Topic Area                                                 |
 | ---------------- | --------- | ---------------------- | ---------- | ------------------------------------------------- | ---------------------------------------------------------- |
-| Neha Nakirikanti | Sophomore | Computer Science       | COC        | [nehanak](https://github.com/nehanak)             | [Mobility-PEI](24sp-mobility-pei/README.md)                    |
-| Vishal Maradana  | Senior    | Computer Science       | COC        | [vishal-337](https://github.com/vishal-337)       | [Mobility-PEI](24sp-mobility-pei/README.md)                    |
-| Joshua R Cohen   | Junior    | Civil Engineering      | CEE        | [paradoxwalk](https://github.com/paradoxwalk)     | [Mobility-PEI](24sp-mobility-pei/README.md)                    |
+| Neha Nakirikanti | Sophomore | Computer Science       | COC        | [nehanak](https://github.com/nehanak)             | [Mobility-PEI](24sp-mobility-pei/README.md)                |
+| Vishal Maradana  | Senior    | Computer Science       | COC        | [vishal-337](https://github.com/vishal-337)       | [Mobility-PEI](24sp-mobility-pei/README.md)                |
+| Joshua R Cohen   | Junior    | Civil Engineering      | CEE        | [paradoxwalk](https://github.com/paradoxwalk)     | [Mobility-PEI](24sp-mobility-pei/README.md)                |
 | Abigail Herbas   | Sophomore | Computer Science       | COC        | [aherbas3](https://github.com/aherbas3)           | [Energy-In-Buildings](24sp-energyinbuildings/README.md)    |
 | Anubha Mahajan   | Junior    | Computer Science       | COC        | [amahajan68](https://github.com/amahajan68)       | [Energy-In-Buildings](24sp-energyinbuildings/README.md)    |
 | Aarit Gupta      | Sophomore | Mechanical Engineering | ME         | [aaritg](https://github.com/aaritg)               | [Energy-In-Buildings](24sp-energyinbuildings/README.md)    |
@@ -101,8 +109,8 @@
 | Maryam Almaian   | Masters   | Architecture (HPB)     | ARCH       | [maryamalmaian](https://github.com/maryamalmaian) | [Microclimate](24sp-microclimate/README.md)                |
 | Sofia A Mujica   | Sophomore | Mechanical Engineering | ME         | [sofia-mujica](https://github.com/sofia-mujica)   | [Microclimate](24sp-microclimate/README.md)                |
 | Ze Yu Jiang      | Sophomore | Computer Science       | COC        | [zeyujiang8800](https://github.com/zeyujiang8800) | [Microclimate](24sp-microclimate/README.md)                |
-| Gonzalo Vegas    | Ph.D.     | Architecture           | ARCH       | [gvegasol](https://github.com/gvegasol)           | [Mobility-Seg](24sp-mobility-seg/README.md)                    |
-| Parker Bredice   | Sophomore | Mechanical Engineering | ME         | [parkerbredice](https://github.com/parkerbredice) | [Mobility-Seg](24sp-mobility-seg/README.md)                    |
-| Thien-An Dang    | Senior    | Industrial Engineering | ISYE       | [tdang66](https://github.com/tdang66)             | [Mobility-Seg](24sp-mobility-seg/README.md)                    |
-| Sahil Handa      | Junior    | Computer Engineering   | ECE        | [handasahil](https://github.com/handasahil)       | [Mobility-Seg](24sp-mobility-seg/README.md)                    |
+| Gonzalo Vegas    | Ph.D.     | Architecture           | ARCH       | [gvegasol](https://github.com/gvegasol)           | [Mobility-Seg](24sp-mobility-seg/README.md)                |
+| Parker Bredice   | Sophomore | Mechanical Engineering | ME         | [parkerbredice](https://github.com/parkerbredice) | [Mobility-Seg](24sp-mobility-seg/README.md)                |
+| Thien-An Dang    | Senior    | Industrial Engineering | ISYE       | [tdang66](https://github.com/tdang66)             | [Mobility-Seg](24sp-mobility-seg/README.md)                |
+| Sahil Handa      | Junior    | Computer Engineering   | ECE        | [handasahil](https://github.com/handasahil)       | [Mobility-Seg](24sp-mobility-seg/README.md)                |
 | Silvia Vangelova | Masters   | Online MS Analytics    | ISYE       | [xtearas](https://github.com/xtearas)             | [Sp24](https://vip-smur.github.io/projects/24sp/README.md) |
