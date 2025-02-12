@@ -1,22 +1,15 @@
-<style>
-/*  Additional styles for landing page */
-    /* Application header should be static for the landing page */
-    .md-header {
-      position: initial;
-    }
-    /* Hide navigation */
-    @media screen and (min-width: 76.25em) {
-      .md-sidebar--primary {
-        display: none;
-      }
-    }
- /* Hide title */
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>
+---
+hide:
+  - navigation
+---
 
+<style>
+/* find better solution for this later */
+.md-typeset h1 {
+  position: absolute;
+  left: -999px;
+}
+</style>
 
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only){ align=left, width="500", .off-glb}
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-black.svg#light-only){ align=left, width="500", .off-glb}

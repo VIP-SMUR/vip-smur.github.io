@@ -264,7 +264,7 @@ plugins:
 
 nav:
   - Home:
-      - Getting started: index.md
+      - VIP-SMUR: index.md
       - Get involved: get-involved/profile/README.md
   - Projects:
       - Overview: projects/index.md
