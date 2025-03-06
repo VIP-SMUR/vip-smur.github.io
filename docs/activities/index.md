@@ -1,6 +1,6 @@
 # Activities
 
----
+
 
 <div class="grid cards" markdown>
 
