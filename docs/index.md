@@ -30,7 +30,7 @@ Our models will enable urban decision-making by enabling real-time testing of in
 - Mobility, walkability, transportation
 - Global warming, climate change (heat waves)
 - Urban building energy, district energy, decarbonization
-- Environmental justice  
+- Etc.
 
 ## 🎯 Goals
 
