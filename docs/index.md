@@ -55,20 +55,13 @@ If your major is not mentioned, please [contact us](mailto:patrick.kastner@gatec
 Our [current and previous projects](https://vip-smur.github.io/projects/) include topics on:
 
 1. Energy in Buildings
-   
 2. Urban Microclimate
-   
 3. Mobility and Walkability
-   
 4. Urban Planning, Design, and Neighborhood Processes
 
+## 🤝 Get Involved
 
-## Get involved
-
-<table>
-<tr><td><strong>🤝 Join our VIP team!</strong></td></tr>
-<tr><td><a href="https://vip-smur.github.io/get-involved/profile/">&nbsp;&nbsp;→&nbsp;&nbsp;Learn more</a></td></tr>
-</table>
+[Click here to learn more!](https://vip-smur.github.io/get-involved/profile/)
 
 ---
 

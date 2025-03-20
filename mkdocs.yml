@@ -198,9 +198,10 @@ plugins:
       keep_docs_dir: true
       nav_repos:
 
+        # General
         - name: get-involved
           import_url: https://github.com/VIP-SMUR/.github?branch=main
-          imports: [/profile/README.md]
+          imports: [/*]
 
         # Spring 2025
         - name: 25Sp-MPONC
