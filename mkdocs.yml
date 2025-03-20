@@ -145,7 +145,9 @@ markdown_extensions:
 plugins:
   - include-markdown
   - search
-  #- title-casing
+  #- title-casing:
+  #    capitalization_type: title #first_letter
+  #    default_page_name: Index
   - glightbox
   - git-revision-date-localized:
       type: timeago
@@ -176,7 +178,7 @@ plugins:
       #ignore_commits: .git-blame-ignore-revs
       exclude:
         - projects/**.md
-        - teams/**.md
+        - team/**.md
         - getting_started.md
         - get-involved.md
         - index.md
