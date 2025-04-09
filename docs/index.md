@@ -54,6 +54,7 @@ Our sub-teams typically are interdisciplinary and consist of students from:
 - (Applied) Industrial and Systems Engineering
 - Architecture & Urban Design
 - City & Regional Planning
+- Applied Math & Physics
 - Public Policy
 - Etc.
 
