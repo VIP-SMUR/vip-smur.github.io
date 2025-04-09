@@ -81,7 +81,7 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 
 [stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations<br>- Community leaders<br>- Civil society:<br>&emsp;- local non-governmental organisations<br>&emsp;- community-based organisations<br>&emsp;- non-state armed actor<br>- International actors and donors<br>- National government, sub-national and local government<br>- Urban planning institutions<br>- Architects / Urban Designers<br>- Private sector<br>- Academia"
 
-[urban regeneration]: (https://unhabitat.org/topic/urban-regeneration) "Urban regeneration brings back underutilized assets and redistributes opportunities, increasing urban prosperity and quality of life."
+[urban regeneration]: https://unhabitat.org/topic/urban-regeneration "Urban regeneration brings back underutilized assets and redistributes opportunities, increasing urban prosperity and quality of life."
 
-[surrogate models]: (https://en.wikipedia.org/wiki/Surrogate_model) "A surrogate model is a mathematical approximation or metamodel that mimics the behavior of a computationally expensive or complex system, allowing for faster analysis and optimization."
+[surrogate models]: https://en.wikipedia.org/wiki/Surrogate_model "A surrogate model is a mathematical approximation or metamodel that mimics the behavior of a computationally expensive or complex system, allowing for faster analysis and optimization."
 
