@@ -18,7 +18,7 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 ## 📝 The Problem
 
-Many performance-related decisions in architecture happen too late in the decision-making process to make sure they absolutely suits the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
+Many performance-related decisions in architectural and urban design happen too late in the decision-making process to ensure they suit the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 {% include 'macleamy.md' %} 
 
@@ -36,11 +36,11 @@ Our models will enable urban decision-making by enabling real-time testing of in
 
 Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with fast-paced decision-making processes. This VIP aims to address this outdated paradigm by developing surrogate models that accelerate simulations (typically via machine learning) that offer real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers.
 
-Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as `Rhino` and `Revit` and others.
+Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-standard CAD tools such as `Rhino` and `Revit`, and others.
 
 ## ✅ Prerequisites
 
-We seek an interdisciplinary team of highly motivated students. Experience with `Python/C#`, `machine learning` and `simulation modeling` will be advantageous. We plan to form teams that consist of:
+We seek an interdisciplinary team of highly motivated students. Experience with `Python/C#`, `machine learning`, and `simulation modeling` will be advantageous. We plan to form teams that consist of:
 
 - Computer Science / Engineering (Civil, Environmental, Mechanical, etc.)
 - (Applied) Industrial and Systems Engineering
