@@ -18,7 +18,7 @@ Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban
 
 ## 📝 The Problem
 
-Many performance-related decisions in architectural and urban design happen too late in the decision-making process to ensure they suit the clients' purposes. We believe this hinders true [urban regeneration](https://unhabitat.org/topic/urban-regeneration). This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
+Many performance-related decisions in architectural and urban design happen too late in the decision-making process to ensure they suit the clients' purposes. We believe this hinders true [urban regeneration][urban regeneration]. This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 {% include 'macleamy.md' %} 
 
