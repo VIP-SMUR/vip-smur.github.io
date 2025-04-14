@@ -202,7 +202,7 @@ plugins:
         as_update: "git" # means from git log
         datetime_format: "%Y-%m-%d %H:%M"
         default_time: "09:30"
-        default_timezone: Europe/Paris
+        default_timezone: America/New_York
       enabled: true
       #feed_description: "A Vertically Integrated Project at Georgia Tech"  # MkDocs site_description: will be used if this key is not present
       feeds_filenames:
