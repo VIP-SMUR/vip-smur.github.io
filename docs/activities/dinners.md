@@ -1,5 +1,14 @@
 # Class Dinner
 
+
+## Spring 2025
+
+<figure markdown="span">
+  ![VIP-SMUR Pizza Night 2025 in front of ARCH West](ARCHWest25.jpg)
+  <figcaption>VIP-SMUR Pizza Night 2025 in front of ARCH West</figcaption>
+</figure>
+
+
 ## Fall 2024
 
 <figure markdown="span">
