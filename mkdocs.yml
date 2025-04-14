@@ -181,6 +181,7 @@ plugins:
       ignore_authors:
             - john@doe.com
             - web-flow@github.com
+            - noreply@github.com
       #ignore_commits: .git-blame-ignore-revs
       exclude:
         - projects/**.md
