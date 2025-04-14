@@ -193,7 +193,7 @@ plugins:
       docs_path: docs/
       token: !ENV ["GithubAccessToken"]
   - rss:
-      abstract_chars_count: 160  # -1 for full content
+      abstract_chars_count: -1 # 160  # -1 for full content
       abstract_delimiter: <!-- more -->
       categories:
         - tags
