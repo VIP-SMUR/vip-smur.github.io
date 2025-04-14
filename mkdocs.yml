@@ -205,7 +205,7 @@ plugins:
         default_time: "09:30"
         default_timezone: America/New_York
       enabled: true
-      #feed_description: "A Vertically Integrated Project at Georgia Tech"  # MkDocs site_description: will be used if this key is not present
+      feed_description: "Project page of the Surrogate Modeling for Urban Regeneration (VIP) at Georgia Tech."  # MkDocs site_description: will be used if this key is not present
       feeds_filenames:
         json_created: feed_json_created.json
         json_updated: feed_json_updated.json
