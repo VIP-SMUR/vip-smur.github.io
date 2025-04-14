@@ -36,6 +36,7 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: pip install markdown-include
       - run: pip install mkdocs-include-markdown-plugin
+      - run: pip install mkdocs-rss-plugin
       - run: mkdocs gh-deploy --force
         env:
           GithubAccessToken: ${{ secrets.SMUR }}
