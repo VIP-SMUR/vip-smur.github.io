@@ -177,7 +177,10 @@ plugins:
       count_empty_lines: false
       fallback_to_empty: false
       sort_authors_by: name
-      authorship_threshold_percent: 1
+      authorship_threshold_percent: 10
+      ignore_authors:
+            - john@doe.com
+            - web-flow@github.com
       #ignore_commits: .git-blame-ignore-revs
       exclude:
         - projects/**.md
@@ -188,7 +191,7 @@ plugins:
         - '!**/InfluenceCurve.ai'
       enabled: true
       enabled_on_serve: false
-      strict: true
+      strict: false # logs and warnings will be shown if set to true
   - git-committers:
       repository: VIP-SMUR/wiki
       branch: main
