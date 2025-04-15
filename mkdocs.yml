@@ -195,6 +195,7 @@ plugins:
       repository: VIP-SMUR/wiki
       exclude_committers:
         - "web-flow"  # GitHub web UI edits
+        - web-flow  # GitHub web UI edits
         - "actions-user"  # GitHub Actions
         - "github-actions[bot]"  # GitHub Actions bot
       branch: main
