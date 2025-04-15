@@ -177,7 +177,7 @@ plugins:
       count_empty_lines: false
       fallback_to_empty: false
       sort_authors_by: name
-      authorship_threshold_percent: 10
+      authorship_threshold_percent: 1
       ignore_authors:
             - john@doe.com
             - web-flow@github.com
