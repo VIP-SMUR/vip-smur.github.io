@@ -180,8 +180,6 @@ plugins:
       authorship_threshold_percent: 1
       ignore_authors:
             - john@doe.com
-            - web-flow@github.com
-            - noreply@github.com
       #ignore_commits: .git-blame-ignore-revs
       exclude:
         - projects/**.md
@@ -196,7 +194,9 @@ plugins:
   - git-committers:
       repository: VIP-SMUR/wiki
       exclude_committers:
-        - web-flow
+        - "web-flow"  # GitHub web UI edits
+        - "actions-user"  # GitHub Actions
+        - "github-actions[bot]"  # GitHub Actions bot
       branch: main
       docs_path: docs/
       token: !ENV ["GithubAccessToken"]
