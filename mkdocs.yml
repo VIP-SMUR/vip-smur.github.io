@@ -213,7 +213,7 @@ plugins:
         datetime_format: "%Y-%m-%d %H:%M"
         default_time: "09:30"
         default_timezone: America/New_York
-      enabled: true
+      enabled: !ENV [MKDOCS_ENABLE_RSS_PLUGIN, True]
       feed_description:  # MkDocs site_description: will be used if this key is not present
       feeds_filenames:
         json_created: feed_json_created.json
