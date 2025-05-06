@@ -255,7 +255,7 @@ plugins:
           imports: [/README.md,/Figures/*]
         - name: 25Sp-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/25Sp-Neuroarchitecture?branch=main
-          imports: [/README.md, /selecting_process/*,/Figure/*]
+          imports: [/README.md, /*]
         - name: 25Sp-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/25Sp-EnergyInBuildings?branch=main
           imports: [/README.md,/Figures/*]
@@ -275,7 +275,7 @@ plugins:
           imports: [/README.md,/Figures/*]
         - name: 24Fa-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/24Fa-Neuroarchitecture?branch=main
-          imports: [/README.md, /selecting_process/*,/Figure/*]
+          imports: [/README.md, /*]
         - name: 24Fa-EnergyInBuildings-Res
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Res?branch=main
           imports: [/README.md,/Figures/*]
