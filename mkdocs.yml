@@ -8,9 +8,8 @@ site_description: >-
 
 # Copyright
 copyright: >-
- Copyright &copy; 2023-2025 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1119410802&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
+  Copyright &copy; 2023-2025 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1119410802&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
 
- 
 theme:
   name: material
   custom_dir: overrides
@@ -168,7 +167,7 @@ plugins:
       minify_js: true
       minify_css: true
       htmlmin_opts:
-          remove_comments: true
+        remove_comments: true
       cache_safe: true
   - git-authors:
       show_contribution: true
@@ -179,7 +178,7 @@ plugins:
       sort_authors_by: name
       authorship_threshold_percent: 1
       ignore_authors:
-            - john@doe.com
+        - john@doe.com
       #ignore_commits: .git-blame-ignore-revs
       exclude:
         - projects/**.md
@@ -187,17 +186,17 @@ plugins:
         - getting_started.md
         - get-involved.md
         - index.md
-        - '!**/InfluenceCurve.ai'
+        - "!**/InfluenceCurve.ai"
       enabled: true
       enabled_on_serve: false
       strict: false # logs and warnings will be shown if set to true
   - git-committers:
       repository: VIP-SMUR/wiki
       exclude_committers:
-        - "web-flow"  # GitHub web UI edits
-        - web-flow  # GitHub web UI edits
-        - "actions-user"  # GitHub Actions
-        - "github-actions[bot]"  # GitHub Actions bot
+        - "web-flow" # GitHub web UI edits
+        - web-flow # GitHub web UI edits
+        - "actions-user" # GitHub Actions
+        - "github-actions[bot]" # GitHub Actions bot
       branch: main
       docs_path: docs/
       token: !ENV ["GithubAccessToken"]
@@ -214,7 +213,7 @@ plugins:
         default_time: "09:30"
         default_timezone: America/New_York
       enabled: !ENV [MKDOCS_ENABLE_RSS_PLUGIN, True]
-      feed_description:  # MkDocs site_description: will be used if this key is not present
+      feed_description: # MkDocs site_description: will be used if this key is not present
       feeds_filenames:
         json_created: feed_json_created.json
         json_updated: feed_json_updated.json
@@ -243,7 +242,6 @@ plugins:
       # you must keep the docs directory in the path (e.g., docs/path/to/file.md).
       keep_docs_dir: true
       nav_repos:
-
         # General
         - name: get-involved
           import_url: https://github.com/VIP-SMUR/.github?branch=main
@@ -252,45 +250,45 @@ plugins:
         # Spring 2025
         - name: 25Sp-MPONC
           import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 25Sp-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/25Sp-Neuroarchitecture?branch=main
           imports: [/README.md, /*]
         - name: 25Sp-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/25Sp-EnergyInBuildings?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 25Sp-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-LSTM-Kriging?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 25Sp-Microclimate-UMCF
           import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-UMCF?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 25Sp-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/25Sp-Mobility-PEI?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
 
         # Fall 2024
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 24Fa-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/24Fa-Neuroarchitecture?branch=main
           imports: [/README.md, /*]
         - name: 24Fa-EnergyInBuildings-Res
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Res?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 24Fa-EnergyInBuildings-Com
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 24Fa-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-LSTM-Kriging?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 24Fa-Microclimate-UMCF
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-UMCF?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         - name: 24Fa-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
-          imports: [/README.md,/Figures/*]
+          imports: [/README.md, /Figures/*]
         # - name: TEST
         #  import_url: https://github.com/VIP-SMUR/Test?branch=main
         #  imports: [/README.md]
@@ -350,8 +348,8 @@ nav:
       - 24-Fall: team/24-Fa.md
       - 24-Spring: team/24-Sp.md
 
-  - Activities: 
-
+  - Activities:
       - Overview: activities/index.md
+      - VIP Rush: activities/rush.md
       - Conferences: activities/conferences.md
       - Class Dinners: activities/dinners.md

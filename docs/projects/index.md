@@ -1,7 +1,5 @@
 # Project Repository
 
----
-
 ## Semester Overview
 
 <div class="grid cards" markdown>
@@ -11,8 +9,6 @@
     ---
 
     [:octicons-arrow-right-24: Learn more](25sp/README.md)
-
-
 
 - :material-folder:{ .lg .middle } __Fall 2024__
   

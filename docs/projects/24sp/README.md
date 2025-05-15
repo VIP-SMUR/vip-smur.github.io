@@ -1,5 +1,4 @@
-
-## Spring 2024
+# Spring 2024
 
 ---
 
@@ -10,7 +9,7 @@
     ---
 
     Implements the PEI methodology, a composite measure of walkability using four key subindices.
- 
+
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24sp-mobility-pei/README.md)
@@ -20,7 +19,7 @@
     ---
 
     Investigates segregation on a basis of mobility within the context of a 15-minute city.
- 
+
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24sp-mobility-seg/README.md)
@@ -30,7 +29,7 @@
     ---
 
     Modeling of the urban heat island effect using EnergyPlus (.epw) weather files.
- 
+
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24sp-microclimate/README.md)
@@ -40,7 +39,7 @@
     ---
 
     Machine learning approaches to model building energy demand.
- 
+
     ---
 
     [:octicons-arrow-right-24: Learn more](../../24sp-energyinbuildings/README.md)

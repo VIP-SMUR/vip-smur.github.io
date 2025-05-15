@@ -1,6 +1,6 @@
 # Conference Visits
 
-## Fall 2024
+### Fall 2024
 
 <figure markdown="span">
   ![VIP-SMUR Georgia Undergraduate Research Conference 2024 in Oxford, GA](24-GURC.jpg)
@@ -16,7 +16,7 @@
   Ze Yu Jiang, Sofia Mujica, Silvia Vangelova, and Patrick Kastner</figcaption>
 </figure>
 
-## Spring 2024
+### Spring 2024
 
 <figure markdown="span">
   ![Anubha Mahajan representing VIP-SMUR at the BBISS Sustainability Showcase](24-BBISS-Mahajan.jpg)
