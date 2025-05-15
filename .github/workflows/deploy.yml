@@ -37,6 +37,7 @@ jobs:
       - run: pip install markdown-include
       - run: pip install mkdocs-include-markdown-plugin
       - run: pip install mkdocs-rss-plugin
+      - run: pip install pypandoc
       - run: mkdocs gh-deploy --force
         env:
           GithubAccessToken: ${{ secrets.SMUR }}
