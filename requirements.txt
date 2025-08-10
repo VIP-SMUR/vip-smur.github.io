@@ -1,4 +1,4 @@
-mkdocs>=1.6.0
+mkdocs
 mkdocs-material
 mkdocs-multirepo-plugin
 mkdocs-git-revision-date-localized-plugin
@@ -10,4 +10,7 @@ mkdocs-glightbox
 markdown-include
 mkdocs-include-markdown-plugin
 mkdocs-rss-plugin
-pypandoc
+mkdocs-redirects 
+mkdocs-video 
+mkdocs-awesome-pages-plugin 
+mkdocs-bibtex

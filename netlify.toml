@@ -1,3 +1,16 @@
+# Netlify configuration file
+
 [build]
-  command = "pip install -r requirements.txt && mkdocs build"
-  publish = "site"
+# Directory to publish (make sure this matches the 'site_dir' in your mkdocs.yml)
+publish = "site"
+
+# The command to build your site
+command = """
+pip install --upgrade pip &&
+pip install -r requirements.txt &&
+python -m mkdocs build --clean
+"""
+
+[build.environment]
+# Specify the Python version to use
+PYTHON_VERSION = "3.11"
