@@ -1,4 +1,15 @@
-# Conference Visits
+# Outreach & Conferences
+
+
+### Summer 2025
+
+<figure markdown="span">
+  ![VIP-SMUR ISyE Summer Scholars Program](25-SURS-Justin.jpg)
+  <figcaption>
+    Justin Xu presenting his contributions to the <a href="https://vip-smur.github.io/25sp-mponc/">MPONC</a> project as part of the <a href="https://ugresearch.isye.gatech.edu/research-awards-programs/summer-scholars-program">ISyE Summer Scholars Program</a>.
+  </figcaption>
+</figure>
+
 
 ### Fall 2024
 
