@@ -14,10 +14,10 @@
 
     [:octicons-arrow-right-24: Learn more](dinners.md)
 
-- :material-calendar-clock:{ .lg .middle } __Conferences__
+- :material-presentation-play:{ .lg .middle } __Outreach & Conferences__
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](conferences.md)
+    [:octicons-arrow-right-24: Learn more](outreach.md)
 
 </div>

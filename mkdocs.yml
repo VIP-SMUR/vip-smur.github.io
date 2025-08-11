@@ -192,11 +192,6 @@ plugins:
       strict: false # logs and warnings will be shown if set to true
   - git-committers:
       repository: VIP-SMUR/wiki
-      exclude_committers:
-        - "web-flow" # GitHub web UI edits
-        - web-flow # GitHub web UI edits
-        - "actions-user" # GitHub Actions
-        - "github-actions[bot]" # GitHub Actions bot
       branch: main
       docs_path: docs/
       token: !ENV ["GithubAccessToken"]
@@ -232,7 +227,6 @@ plugins:
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"
       use_git: true
-      use_material_blog: true
       use_material_social_cards: true
 
   - multirepo:
