@@ -192,6 +192,11 @@ plugins:
       strict: false # logs and warnings will be shown if set to true
   - git-committers:
       repository: VIP-SMUR/wiki
+      exclude_committers:
+        - "web-flow" # GitHub web UI edits
+        - web-flow # GitHub web UI edits
+        - "actions-user" # GitHub Actions
+        - "github-actions[bot]" # GitHub Actions bot
       branch: main
       docs_path: docs/
       token: !ENV ["GithubAccessToken"]
@@ -345,5 +350,5 @@ nav:
   - Activities:
       - Overview: activities/index.md
       - VIP Rush: activities/rush.md
-      - Conferences: activities/conferences.md
+      - Outreach: activities/outreach.md
       - Class Dinners: activities/dinners.md
