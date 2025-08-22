@@ -330,6 +330,15 @@ nav:
   - Projects:
       - Overview: projects/index.md
 
+      - Fall 2025:
+          - Projects: projects/25fa/README.md
+          - 25-Fa-MedialAxisTransformation: 25fa-medialaxistransformation/README.md
+          - 25-Fa-MPONC: 25fa-mponc/README.md
+          - 25-Fa-Energy: 25fa-energyinbuildings/README.md
+          - 25-Fa-Microclimate-LSTM-Kriging: 25fa-microclimate-lstm-kriging/README.md
+          - 25-Fa-Microclimate-UMCF: 25fa-microclimate-umcf/README.md
+          - 25-Fa-Mobility-PEI: 25fa-mobility-pei/README.md
+
       - Spring 2025:
           - Projects: projects/25sp/README.md
           - 25-Sp-Neuroarchitecture: 25sp-neuroarchitecture/README.md
