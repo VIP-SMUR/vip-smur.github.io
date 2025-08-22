@@ -247,6 +247,9 @@ plugins:
           imports: [/*]
 
         # Fall 2025
+        - name: 25Fa-MedialAxisTransformation
+          import_url: https://github.com/VIP-SMUR/25Fa-MedialAxisTransformation?branch=main
+          imports: [/README.md, /Figures/*]
         - name: 25Fa-MPONC
           import_url: https://github.com/VIP-SMUR/25Fa-MPONC?branch=main
           imports: [/README.md, /Figures/*]
