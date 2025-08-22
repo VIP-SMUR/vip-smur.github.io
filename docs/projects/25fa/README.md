@@ -8,7 +8,7 @@
 
     ---
 
-    Computational methods for medial axis transformation of urban geometries.
+    Computational methods for medial axis transformation of building geometries.
 
     ---
 
