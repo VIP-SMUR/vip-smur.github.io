@@ -246,6 +246,26 @@ plugins:
           import_url: https://github.com/VIP-SMUR/.github?branch=main
           imports: [/*]
 
+        # Fall 2025
+        - name: 25Fa-MedialAxisTransformation
+          import_url: https://github.com/VIP-SMUR/25Fa-MedialAxisTransformation?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-MPONC
+          import_url: https://github.com/VIP-SMUR/25Fa-MPONC?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-EnergyInBuildings
+          import_url: https://github.com/VIP-SMUR/25Fa-EnergyInBuildings?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Microclimate-ML
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Microclimate-UMCF
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-UMCF?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Mobility
+          import_url: https://github.com/VIP-SMUR/25Fa-Mobility?branch=main
+          imports: [/README.md, /Figures/*]
+
         # Spring 2025
         - name: 25Sp-MPONC
           import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
@@ -312,6 +332,15 @@ nav:
       - Get involved: get-involved/profile/README.md
   - Projects:
       - Overview: projects/index.md
+
+      - Fall 2025:
+          - Projects: projects/25fa/README.md
+          - 25-Fa-MedialAxisTransformation: 25fa-medialaxistransformation/README.md
+          - 25-Fa-MPONC: 25fa-mponc/README.md
+          - 25-Fa-Energy: 25fa-energyinbuildings/README.md
+          - 25-Fa-Microclimate-ML: 25fa-microclimate-ml/README.md
+          - 25-Fa-Microclimate-UMCF: 25fa-microclimate-umcf/README.md
+          - 25-Fa-Mobility: 25fa-mobility/README.md
 
       - Spring 2025:
           - Projects: projects/25sp/README.md
