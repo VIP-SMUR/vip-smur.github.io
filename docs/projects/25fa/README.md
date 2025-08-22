@@ -4,21 +4,11 @@
 
 <div class="grid cards" markdown>
 
-- :material-view-dashboard:{ .lg .middle } __Projects (Overview)__
-
-    ---
-
-    Overview of all Fall 2025 project pages.
-
-    ---
-
-    [:octicons-arrow-right-24: Learn more](../../projects/25fa/README.md)
-
 - :material-call-split:{ .lg .middle } __Medial Axis Transformation__
 
     ---
 
-    Computational methods for medial axis transformation of urban geometries.
+    Computational methods for medial axis transformation of building geometries.
 
     ---
 
