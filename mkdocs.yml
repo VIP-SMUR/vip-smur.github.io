@@ -246,6 +246,23 @@ plugins:
           import_url: https://github.com/VIP-SMUR/.github?branch=main
           imports: [/*]
 
+        # Fall 2025
+        - name: 25Fa-MPONC
+          import_url: https://github.com/VIP-SMUR/25Fa-MPONC?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-EnergyInBuildings
+          import_url: https://github.com/VIP-SMUR/25Fa-EnergyInBuildings?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Microclimate-ML
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Microclimate-UMCF
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-UMCF?branch=main
+          imports: [/README.md, /Figures/*]
+        - name: 25Fa-Mobility
+          import_url: https://github.com/VIP-SMUR/25Fa-Mobility?branch=main
+          imports: [/README.md, /Figures/*]
+
         # Spring 2025
         - name: 25Sp-MPONC
           import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
