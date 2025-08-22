@@ -4,6 +4,12 @@
 
 <div class="grid cards" markdown>
 
+- :material-folder:{ .lg .middle } __Fall 2025__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](25fa/README.md)
+
 - :material-folder:{ .lg .middle } __Spring 2025__
 
     ---
