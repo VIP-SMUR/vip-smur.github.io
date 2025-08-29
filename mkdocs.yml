@@ -372,6 +372,7 @@ nav:
 
   - Team:
       - Team overview: team/index.md
+      - 25-Fall: team/25-Fa.md
       - 25-Spring: team/25-Sp.md
       - 24-Fall: team/24-Fa.md
       - 24-Spring: team/24-Sp.md
