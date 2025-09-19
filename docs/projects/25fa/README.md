@@ -12,7 +12,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../25fa-medialaxistransformation/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-medialaxis/README.md)
 
 - :material-view-grid-plus:{ .lg .middle } __MPONC__
 

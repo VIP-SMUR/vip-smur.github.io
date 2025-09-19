@@ -247,8 +247,8 @@ plugins:
           imports: [/*]
 
         # Fall 2025
-        - name: 25Fa-MedialAxisTransformation
-          import_url: https://github.com/VIP-SMUR/25Fa-MedialAxisTransformation?branch=main
+        - name: 25Fa-MedialAxis
+          import_url: https://github.com/VIP-SMUR/25Fa-MedialAxis?branch=main
           imports: [/README.md, /Figures/*]
         - name: 25Fa-MPONC
           import_url: https://github.com/VIP-SMUR/25Fa-MPONC?branch=main
@@ -335,7 +335,7 @@ nav:
 
       - Fall 2025:
           - Projects: projects/25fa/README.md
-          - 25-Fa-MedialAxisTransformation: 25fa-medialaxistransformation/README.md
+          - 25-Fa-MedialAxis: 25fa-medialaxis/README.md
           - 25-Fa-MPONC: 25fa-mponc/README.md
           - 25-Fa-Energy: 25fa-energyinbuildings/README.md
           - 25-Fa-Microclimate-ML: 25fa-microclimate-ml/README.md
