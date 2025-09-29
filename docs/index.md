@@ -40,7 +40,7 @@ Our work will address:
 ## 🎯 Goals
 
 Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with fast-paced decision-making processes.
-This VIP aims to address this outdated paradigm by developing [surrogate models][surrogate models] that accelerate simulations (typically via machine learning) that offer real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers.
+This VIP aims to address this by developing [surrogate models][surrogate models] that accelerate simulations (typically via machine learning) that offer real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. After the decision-making has been informed, we employ high-fidelity, physics-based simulations to validate our results and to produce final numbers.
 
 Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-leading CAD tools such as `Rhino` and `Revit`, `GIS`, and making them usable even in the browser.
 
