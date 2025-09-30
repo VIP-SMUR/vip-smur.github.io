@@ -1,5 +1,13 @@
 # Outreach & Conferences
 
+### Fall 2025
+
+<figure markdown="span">
+  ![Fall 2025 Sustainability Network Meeting](25-SustainabilityNetworkMeeting.jpeg)
+  <figcaption>
+    Joseph Aerathu and Matthew Lim representing our VIP at the Fall 2025 <a href="https://research.gatech.edu/georgia-tech-sustainability-network">Sustainability Network Meeting</a>.
+  </figcaption>
+</figure>
 
 ### Summer 2025
 
@@ -9,7 +17,6 @@
     Justin Xu presenting his contributions to the <a href="https://vip-smur.github.io/25sp-mponc/">MPONC</a> project as part of the <a href="https://ugresearch.isye.gatech.edu/research-awards-programs/summer-scholars-program">ISyE Summer Scholars Program</a>.
   </figcaption>
 </figure>
-
 
 ### Fall 2024
 
