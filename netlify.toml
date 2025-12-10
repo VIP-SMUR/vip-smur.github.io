@@ -5,12 +5,11 @@
 publish = "site"
 
 # The command to build your site
-# We explicitly add the user bin directory to PATH to ensure uv is found
+# Use standalone installer and absolute path to avoid PATH issues
 command = """
-python -m pip install uv &&
-export PATH=$PATH:$(python -c "import site; print(site.USER_BASE)")/bin &&
-uv sync --frozen &&
-uv run mkdocs build --clean
+curl -LsSf https://astral.sh/uv/install.sh | sh &&
+$HOME/.cargo/bin/uv sync --frozen &&
+$HOME/.cargo/bin/uv run mkdocs build --clean
 """
 
 [build.environment]
