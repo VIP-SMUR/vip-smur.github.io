@@ -243,6 +243,7 @@ plugins:
       # you must keep the docs directory in the path (e.g., docs/path/to/file.md).
       keep_docs_dir: true
       nav_repos:
+
         # Fall 2025
         - name: 25Fa-MedialAxis
           import_url: https://github.com/VIP-SMUR/25Fa-MedialAxis?branch=main
@@ -254,7 +255,7 @@ plugins:
           import_url: https://github.com/VIP-SMUR/25Fa-EnergyInBuildings?branch=main
           imports: [/README.md, /Figures/*, /images/*]
         - name: 25Fa-Microclimate-ML
-          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=main
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=clean
           imports: [/README.md, /Figures/*]
         - name: 25Fa-Microclimate-OutdoorPlus
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-OutdoorPlus?branch=main
