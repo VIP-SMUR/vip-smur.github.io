@@ -71,10 +71,9 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 4. Game Theory and Neighborhood Processes
 5. The Intersection of Neuroscience, Architecture & Urbanism
 
-## 🤝 Get Involved
+🤝 Get Involved
 
-[Click here to learn more!](https://vip-smur.github.io/get-involved/profile/)
-
+{% include-markdown "https://raw.githubusercontent.com/VIP-SMUR/.github/refs/heads/main/profile/README.md" %}
 ---
 
 [VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams led by faculty. The program has been rigorously evaluated and refined over two decades."
