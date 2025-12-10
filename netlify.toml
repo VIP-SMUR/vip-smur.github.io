@@ -5,10 +5,12 @@
 publish = "site"
 
 # The command to build your site
+# Use standalone installer and absolute path to avoid PATH issues
+# Note: Installer defaults to $HOME/.local/bin in this environment
 command = """
-pip install --upgrade pip &&
-pip install -r requirements.txt &&
-python -m mkdocs build --clean
+curl -LsSf https://astral.sh/uv/install.sh | sh &&
+$HOME/.local/bin/uv sync --frozen &&
+$HOME/.local/bin/uv run mkdocs build --clean
 """
 
 [build.environment]

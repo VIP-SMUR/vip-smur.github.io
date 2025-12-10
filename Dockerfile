@@ -1,16 +1,8 @@
 FROM squidfunk/mkdocs-material
 
-# Install additional Python packages
-RUN apk add --no-cache bash && \
-    pip install \
-    mkdocs-material \
-    mkdocs-multirepo-plugin \
-    mkdocs-git-revision-date-localized-plugin \
-    mkdocs-minify-plugin \
-    mkdocs-git-authors-plugin \
-    mkdocs-git-committers-plugin-2 \
-    mkdocs-title-casing-plugin \
-    mkdocs-glightbox \
-    markdown-include \
-    mkdocs-redirects \
-    mkdocs-include-markdown-plugin
+# Install uv
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /bin/uv
+
+# Install dependencies
+COPY pyproject.toml uv.lock ./
+RUN uv sync --frozen --system

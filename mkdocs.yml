@@ -255,12 +255,12 @@ plugins:
           imports: [/README.md, /Figures/*]
         - name: 25Fa-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/25Fa-EnergyInBuildings?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /images/*]
         - name: 25Fa-Microclimate-ML
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=main
           imports: [/README.md, /Figures/*]
-        - name: 25Fa-Microclimate-UMCF
-          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-UMCF?branch=main
+        - name: 25Fa-Microclimate-OutdoorPlus
+          import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-OutdoorPlus?branch=main
           imports: [/README.md, /Figures/*]
         - name: 25Fa-Mobility
           import_url: https://github.com/VIP-SMUR/25Fa-Mobility?branch=main
@@ -339,7 +339,7 @@ nav:
           - 25-Fa-MPONC: 25fa-mponc/README.md
           - 25-Fa-Energy: 25fa-energyinbuildings/README.md
           - 25-Fa-Microclimate-ML: 25fa-microclimate-ml/README.md
-          - 25-Fa-Microclimate-UMCF: 25fa-microclimate-umcf/README.md
+          - 25-Fa-Microclimate-Outdoor+: 25fa-microclimate-outdoorplus/README.md
           - 25-Fa-Mobility: 25fa-mobility/README.md
 
       - Spring 2025:
