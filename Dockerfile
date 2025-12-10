@@ -13,4 +13,5 @@ RUN apk add --no-cache bash && \
     mkdocs-glightbox \
     markdown-include \
     mkdocs-redirects \
-    mkdocs-include-markdown-plugin
+    mkdocs-include-markdown-plugin \
+    tzdata
