@@ -6,9 +6,9 @@ publish = "site"
 
 # The command to build your site
 command = """
-pip install --upgrade pip &&
-pip install -r requirements.txt &&
-python -m mkdocs build --clean
+pip install uv &&
+uv sync --frozen &&
+uv run mkdocs build --clean
 """
 
 [build.environment]
