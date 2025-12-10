@@ -5,8 +5,10 @@
 publish = "site"
 
 # The command to build your site
+# We explicitly add the user bin directory to PATH to ensure uv is found
 command = """
-pip install uv &&
+python -m pip install uv &&
+export PATH=$PATH:$(python -c "import site; print(site.USER_BASE)")/bin &&
 uv sync --frozen &&
 uv run mkdocs build --clean
 """
