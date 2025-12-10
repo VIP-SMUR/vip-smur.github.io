@@ -45,7 +45,7 @@ hide:
   
     Modeling energy demand in buildings.
   
-    **Team:** Joseph M. Aerathu, Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
+    **Team:** Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
   
     ---
   
