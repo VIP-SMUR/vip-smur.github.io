@@ -45,7 +45,7 @@ hide:
   
     Modeling energy demand in buildings.
   
-    **Team:** Joseph M. Aerathu, Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
+    **Team:** Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
   
     ---
   
@@ -87,12 +87,10 @@ hide:
   
     Improvements on the PEI methodology, a composite metric of walkability using key subindices.
   
-    **Team:** Atharva Beesen, Mason Dewitt, Aiko Hayashi, Katherine Davis, Lucy Chai
+    **Team:** Atharva Beesen, Mason Dewitt, Katherine Davis, Lucy Chai
   
     ---
   
     [:octicons-arrow-right-24: Learn more](../../25fa-mobility-pei/README.md)
 
 </div>
-
----

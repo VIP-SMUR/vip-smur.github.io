@@ -146,6 +146,7 @@ markdown_extensions:
 plugins:
   - include-markdown
   - search
+  - social
   #- title-casing:
   #    capitalization_type: title #first_letter
   #    default_page_name: Index
