@@ -158,6 +158,7 @@ plugins:
       locale: en
       fallback_to_build_date: true
       enable_creation_date: false
+      enable_parallel_processing: false
       #exclude:
       #    - index.md
       enabled: true
