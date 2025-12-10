@@ -256,7 +256,7 @@ plugins:
           imports: [/README.md, /Figures/*, /images/*]
         - name: 25Fa-Microclimate-ML
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=clean
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /4_Inference_and_Visualization/figures/*]
         - name: 25Fa-Microclimate-OutdoorPlus
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-OutdoorPlus?branch=main
           imports: [/README.md, /Figures/*]
