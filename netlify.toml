@@ -6,10 +6,11 @@ publish = "site"
 
 # The command to build your site
 # Use standalone installer and absolute path to avoid PATH issues
+# Note: Installer defaults to $HOME/.local/bin in this environment
 command = """
 curl -LsSf https://astral.sh/uv/install.sh | sh &&
-$HOME/.cargo/bin/uv sync --frozen &&
-$HOME/.cargo/bin/uv run mkdocs build --clean
+$HOME/.local/bin/uv sync --frozen &&
+$HOME/.local/bin/uv run mkdocs build --clean
 """
 
 [build.environment]
