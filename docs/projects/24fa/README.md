@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Fall 2024
 
 ---
@@ -9,6 +14,8 @@
     ---
 
     Explores the concept of _neuroarchitecture_, which is the intersection of neuroscience and architecture.
+  
+    **Team:** Changda Ma, Misha Lee, L. Q. Nhu Nguyen, Parya Monjezi
 
     ---
 
@@ -19,6 +26,8 @@
     ---
 
     Multi-agent game theoretical approaches to simulating neighborhood processes.
+  
+    **Team:** Matthew Lim, Reyli Olivo, Devam Mondal
 
     ---
 
@@ -29,6 +38,8 @@
     ---
 
     Modeling energy demand in commercial buildings.
+  
+    **Team:** Joseph M. Aerathu, Anubha Mahajan, Jessica Hernandez, Han-Syun Shih
 
     ---
 
@@ -39,6 +50,8 @@
     ---
 
     Modeling energy demand in residential buildings.
+  
+    **Team:** Sharmista Debnath, Kiana Layam, Jiayi Li, Shivam Patel
 
     ---
 
@@ -49,6 +62,8 @@
     ---
 
     Continues work on surrogate models estimating urban heat island effects.
+  
+    **Team:** Sofia Mujica, Abigail Herbas, Ze Yu Jiang, Krish Gupta, Thanasarn Changnawa
 
     ---
 
@@ -59,6 +74,8 @@
     ---
 
     Rhino & Grasshopper workflows for urban microclimate modeling.
+  
+    **Team:** Marcelo Álvarez, Gonzalo Vegas, Shruti Jadhav, Rui Shen, Chinmay Rothe
 
     ---
 
@@ -69,6 +86,8 @@
     ---
 
     Improvements on the PEI methodology, a composite metric of walkability using key subindices.
+  
+    **Team:** C. “Albert” Le, Chunlan Wang, Yichao Shi, Atharva Beesen
 
     ---
 

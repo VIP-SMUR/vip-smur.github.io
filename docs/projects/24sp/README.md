@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Spring 2024
 
 ---
@@ -9,6 +14,8 @@
     ---
 
     Implements the PEI methodology, a composite measure of walkability using four key subindices.
+  
+    **Team:** Neha Nakirikanti, Vishal Maradana, Joshua R Cohen
 
     ---
 
@@ -19,6 +26,8 @@
     ---
 
     Investigates segregation on a basis of mobility within the context of a 15-minute city.
+  
+    **Team:** Gonzalo Vegas, Parker Bredice, Thien-An Dang, Sahil Handa
 
     ---
 
@@ -29,6 +38,8 @@
     ---
 
     Modeling of the urban heat island effect using EnergyPlus (.epw) weather files.
+  
+    **Team:** Maryam Almaian, Sofia A Mujica, Ze Yu Jiang
 
     ---
 
@@ -39,6 +50,8 @@
     ---
 
     Machine learning approaches to model building energy demand.
+  
+    **Team:** Abigail Herbas, Anubha Mahajan, Aarit Gupta, Shivam Patel
 
     ---
 

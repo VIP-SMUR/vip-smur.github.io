@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Fall 2025
 
 ---
@@ -8,11 +13,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/GZbaGNxTMrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Kavya Lalith, Jessica Hernandez, Gonzalo Vegas
+
   
     Computational methods for medial axis transformation of building geometries.
+  
+    **Team:** Kavya Lalith, Jessica Hernandez, Gonzalo Vegas
   
     ---
   
@@ -22,11 +27,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/V6XC36CP5ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Matthew Lim, Justin Xu, Devam Mondal, Nithish Sabapathy, Ian Baracskay, Jason Tran
+
   
     Multi-agent game theoretical approaches to simulating neighborhood processes.
+  
+    **Team:** Matthew Lim, Justin Xu, Devam Mondal, Nithish Sabapathy, Ian Baracskay, Jason Tran
   
     ---
   
@@ -36,11 +41,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/DCX57r3rBbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Joseph M. Aerathu, Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
+
   
     Modeling energy demand in buildings.
+  
+    **Team:** Joseph M. Aerathu, Hang Xu, Jiayi Li, Aryan Bolakond, Breno Veiga, Nishanth Giridharan, Sameer Jain
   
     ---
   
@@ -50,11 +55,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/oyDra0_vdQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Thanasarn Changnawa, Han-Syun Shih, Edzel Sutanto, Roshan Cerejo, Vikram Renganathan, Yupeng Tang, Ze Yu Jiang
+
   
     Continues work on surrogate models estimating urban heat island effects.
+  
+    **Team:** Thanasarn Changnawa, Han-Syun Shih, Edzel Sutanto, Roshan Cerejo, Vikram Renganathan, Yupeng Tang, Ze Yu Jiang
   
     ---
   
@@ -64,11 +69,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/AnX9a9fqACU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Marcelo Álvarez, Mallika Champaneria, Shaiba Bano, Nitiksha Mota, Sina Rahimi
+
   
     Rhino & Grasshopper workflows for urban microclimate modeling.
+  
+    **Team:** Marcelo Álvarez, Mallika Champaneria, Shaiba Bano, Nitiksha Mota, Sina Rahimi
   
     ---
   
@@ -78,11 +83,11 @@
   
     ---
   
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/II8eYLK199c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-    **Team:** Atharva Beesen, Mason Dewitt, Aiko Hayashi, Katherine Davis, Lucy Chai
+
   
     Improvements on the PEI methodology, a composite metric of walkability using key subindices.
+  
+    **Team:** Atharva Beesen, Mason Dewitt, Aiko Hayashi, Katherine Davis, Lucy Chai
   
     ---
   

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Spring 2025
 
 ---
@@ -9,6 +14,8 @@
     ---
 
     Explores the concept of _neuroarchitecture_, which is the intersection of neuroscience and architecture.
+  
+    **Team:** Changda Ma, Catherine Wallis
 
     ---
 
@@ -19,6 +26,8 @@
     ---
 
     Multi-agent game theoretical approaches to simulating neighborhood processes.
+  
+    **Team:** Matthew Lim, Justin Xu, Devam Mondal, Nithish Sabapathy
 
     ---
 
@@ -29,6 +38,8 @@
     ---
 
     Modeling energy demand in buildings.
+  
+    **Team:** Joseph M. Aerathu, Anubha Mahajan, Jessica Hernandez, Hang Xu, Jiayi Li, Kavya Lalith, Johnny Chen, Shivam Patel, Yichao Shi
 
     ---
 
@@ -39,6 +50,8 @@
     ---
 
     Continues work on surrogate models estimating urban heat island effects.
+  
+    **Team:** Han-Syun Shih, Thanasarn Changnawa, Krish Gupta, Yupeng Tang, Dayeon Song, Ze Yu Jiang
 
     ---
 
@@ -49,6 +62,8 @@
     ---
 
     Rhino & Grasshopper workflows for urban microclimate modeling.
+  
+    **Team:** Marcelo Álvarez, Marcellus English, Victor Wang, Gonzalo Vegas, Sina Rahimi
 
     ---
 
@@ -59,6 +74,8 @@
     ---
 
     Improvements on the PEI methodology, a composite metric of walkability using key subindices.
+  
+    **Team:** Atharva Beesen, Joshua Cohen, Mason Dewitt, Nicholas Stone, Yao Xiao
 
     ---
 

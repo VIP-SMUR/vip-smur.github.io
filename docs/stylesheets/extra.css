@@ -4,8 +4,9 @@
     --md-primary-fg-color--dark:  #90030C;
 }*/
 [data-md-color-scheme="slate"] {
-    --md-hue: 210; 
+    --md-hue: 210;
 }
+
 [data-md-color-scheme="custom"] {
     /*
     --md-primary-fg-color: #546d78;
@@ -17,13 +18,12 @@
     --md-primary-fg-color--dark: #007a6c;
 }
 
-[data-md-color-scheme="default"] img[src$="#dark-only"]
-{
-    display: none; /* Hide dark images in light mode */
+[data-md-color-scheme="default"] img[src$="#dark-only"] {
+    display: none;
+    /* Hide dark images in light mode */
 }
 
-[data-md-color-scheme="slate"] img[src$="#light-only"]
-{
-    display: none; /* Hide dark images in light mode */
+[data-md-color-scheme="slate"] img[src$="#light-only"] {
+    display: none;
+    /* Hide dark images in light mode */
 }
-
