@@ -87,7 +87,7 @@ hide:
   
     Improvements on the PEI methodology, a composite metric of walkability using key subindices.
   
-    **Team:** Atharva Beesen, Mason Dewitt, Aiko Hayashi, Katherine Davis, Lucy Chai
+    **Team:** Atharva Beesen, Mason Dewitt, Katherine Davis, Lucy Chai
   
     ---
   
