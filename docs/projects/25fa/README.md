@@ -94,5 +94,3 @@ hide:
     [:octicons-arrow-right-24: Learn more](../../25fa-mobility-pei/README.md)
 
 </div>
-
----
