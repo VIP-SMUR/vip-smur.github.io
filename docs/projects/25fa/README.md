@@ -51,7 +51,7 @@ hide:
   
     [:octicons-arrow-right-24: Learn more](../../25fa-energyinbuildings/README.md)
 
-- :material-weather-sunny:{ .lg .middle } __Microclimate-ML (Geo-LSTM-Kriging)__
+- :material-weather-sunny:{ .lg .middle } __Microclimate-ML__
   
     ---
   
@@ -63,7 +63,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-lstm-kriging/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-ml/README.md)
 
 - :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
   
