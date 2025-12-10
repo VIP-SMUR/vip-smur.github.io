@@ -65,7 +65,7 @@ hide:
   
     [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-lstm-kriging/README.md)
 
-- :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+ (UMCF)__
+- :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
   
     ---
   
@@ -77,7 +77,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-umcf/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25Fa-Microclimate-OutdoorPlus/README.md)
 
 - :fontawesome-solid-person-walking:{ .lg .middle } __Mobility (PEI)__
   
