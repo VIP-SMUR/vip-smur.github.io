@@ -71,7 +71,9 @@ Our [current and previous projects](https://vip-smur.github.io/projects/) includ
 4. Game Theory and Neighborhood Processes
 5. The Intersection of Neuroscience, Architecture & Urbanism
 
-🤝 Get Involved
+<!---
+Include Markdowm from https://github.com/VIP-SMUR/.github/blob/main/profile/README.md
+-->
 
 {% include-markdown "https://raw.githubusercontent.com/VIP-SMUR/.github/refs/heads/main/profile/README.md" %}
 ---
