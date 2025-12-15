@@ -247,65 +247,65 @@ plugins:
         # Fall 2025
         - name: 25Fa-MedialAxis
           import_url: https://github.com/VIP-SMUR/25Fa-MedialAxis?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Fa-MPONC
           import_url: https://github.com/VIP-SMUR/25Fa-MPONC?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Fa-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/25Fa-EnergyInBuildings?branch=main
-          imports: [/README.md, /Figures/*, /images/*]
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
         - name: 25Fa-Microclimate-ML
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-ML?branch=main
-          imports: [/README.md, /Figures/*, /4_Inference_and_Visualization/figures/*]
+          imports: [/README.md, /Figures/*, /figures/*, /4_Inference_and_Visualization/figures/*]
         - name: 25Fa-Microclimate-OutdoorPlus
           import_url: https://github.com/VIP-SMUR/25Fa-Microclimate-OutdoorPlus?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Fa-Mobility
           import_url: https://github.com/VIP-SMUR/25Fa-Mobility?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
 
         # Spring 2025
         - name: 25Sp-MPONC
           import_url: https://github.com/VIP-SMUR/25Sp-MPONC?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Sp-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/25Sp-Neuroarchitecture?branch=main
           imports: [/README.md, /*]
         - name: 25Sp-EnergyInBuildings
           import_url: https://github.com/VIP-SMUR/25Sp-EnergyInBuildings?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Sp-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-LSTM-Kriging?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Sp-Microclimate-UMCF
           import_url: https://github.com/VIP-SMUR/25Sp-Microclimate-UMCF?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Sp-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/25Sp-Mobility-PEI?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
 
         # Fall 2024
         - name: 24Fa-MPONC
           import_url: https://github.com/VIP-SMUR/24Fa-MPONC?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 24Fa-Neuroarchitecture
           import_url: https://github.com/VIP-SMUR/24Fa-Neuroarchitecture?branch=main
           imports: [/README.md, /*]
         - name: 24Fa-EnergyInBuildings-Res
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Res?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 24Fa-EnergyInBuildings-Com
           import_url: https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 24Fa-Microclimate-LSTM-Kriging
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-LSTM-Kriging?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 24Fa-Microclimate-UMCF
           import_url: https://github.com/VIP-SMUR/24Fa-Microclimate-UMCF?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         - name: 24Fa-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/24Fa-Mobility-PEI?branch=main
-          imports: [/README.md, /Figures/*]
+          imports: [/README.md, /Figures/*, /figures/*]
         # - name: TEST
         #  import_url: https://github.com/VIP-SMUR/Test?branch=main
         #  imports: [/README.md]
