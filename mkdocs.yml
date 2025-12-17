@@ -262,7 +262,15 @@ plugins:
           imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Fa-Mobility
           import_url: https://github.com/VIP-SMUR/25Fa-Mobility?branch=main
-          imports: [/README.md, /Figures/*, /figures/*]
+          imports: [
+            /README.md,
+            /Figures/*, /figures/*,
+            /BikeInfrastructureIndex/*.png,
+            /RoadSafetyIndex/*.png,
+            /SocialGreenspaceIndex/*.png,
+            /NeighborhoodMatcher/*.png,
+            /NeighborhoodMatcher/*.pdf
+          ]
 
         # Spring 2025
         - name: 25Sp-MPONC
