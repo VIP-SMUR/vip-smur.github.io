@@ -290,7 +290,7 @@ plugins:
           imports: [/README.md, /Figures/*, /figures/*]
         - name: 25Sp-Mobility-PEI
           import_url: https://github.com/VIP-SMUR/25Sp-Mobility-PEI?branch=main
-          imports: [/README.md, /Figures/*, /figures/*]
+          imports: [/README.md, /Figures/*, /figures/*, /NationwideImages/*]
 
         # Fall 2024
         - name: 24Fa-MPONC
