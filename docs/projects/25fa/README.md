@@ -73,11 +73,11 @@ hide:
   
     Rhino & Grasshopper workflows for urban microclimate modeling.
   
-    **Team:** Marcelo Álvarez, Mallika Champaneria, Shaiba Bano, Nitiksha Mota, Sina Rahimi
+    **Team:** Marcelo Álvarez, Mallika Champaneria, Sina Rahimi, Aiko Hayashi
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25Fa-Microclimate-OutdoorPlus/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-outdoorplus/README.md)
 
 - :fontawesome-solid-person-walking:{ .lg .middle } __Mobility (PEI)__
   
@@ -91,6 +91,6 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-mobility-pei/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-mobility/README.md)
 
 </div>
