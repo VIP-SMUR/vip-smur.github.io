@@ -268,8 +268,7 @@ plugins:
             /BikeInfrastructureIndex/*.png,
             /RoadSafetyIndex/*.png,
             /SocialGreenspaceIndex/*.png,
-            /NeighborhoodMatcher/*.png,
-            /NeighborhoodMatcher/*.pdf
+            /NeighborhoodMatcher/*.png
           ]
 
         # Spring 2025
