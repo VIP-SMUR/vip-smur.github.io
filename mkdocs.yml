@@ -8,7 +8,7 @@ site_description: >-
 
 # Copyright
 copyright: >-
-  Copyright &copy; 2023-2025 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1119410802&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
+  Copyright &copy; 2023-2025 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
 
 theme:
   name: material
