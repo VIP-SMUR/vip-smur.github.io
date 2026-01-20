@@ -337,6 +337,9 @@ nav:
   - Projects:
       - Overview: projects/index.md
 
+      - Spring 2026:
+          - Projects: projects/26sp/README.md
+
       - Fall 2025:
           - Projects: projects/25fa/README.md
           - 25-Fa-MedialAxis: 25fa-medialaxis/README.md
@@ -376,6 +379,7 @@ nav:
 
   - Team:
       - Team overview: team/index.md
+      - 26-Spring: team/26-Sp.md
       - 25-Fall: team/25-Fa.md
       - 25-Spring: team/25-Sp.md
       - 24-Fall: team/24-Fa.md

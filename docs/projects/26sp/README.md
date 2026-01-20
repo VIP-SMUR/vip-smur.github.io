@@ -15,7 +15,7 @@ hide:
 
     Multi-agent game theoretical approaches to simulating neighborhood processes.
 
-    **Team:** TBD
+    **Team:** Matthew Lim, Ian Baracskay, Justin Xu, Sujai Jitta, Nithish Sabapathy
 
     ---
 
@@ -27,7 +27,7 @@ hide:
 
     Hardware and IoT prototypes for sensing and built-environment research.
 
-    **Team:** TBD
+    **Team:** Tianxiang Sheng, Kavya Lalith, Jason Tran
 
     ---
 
@@ -39,7 +39,7 @@ hide:
 
     Mobility-focused modeling and evaluation for built environments.
 
-    **Team:** TBD
+    **Team:** Mason Dewitt, Lucy Chai, Katherine Davis, Tristin Shestag
 
     ---
 
@@ -51,7 +51,7 @@ hide:
 
     Machine learning approaches to modeling and improving wind comfort.
 
-    **Team:** TBD
+    **Team:** Alec Cheng, Nishanth Giridharan, Kevin Zhang, Ze Yu Jiang
 
     ---
 
@@ -63,7 +63,7 @@ hide:
 
     Computational methods for medial axis transformation of building geometries.
 
-    **Team:** TBD
+    **Team:** Gonzalo Vegas, Jessica Hernandez, Han Syun Shih, Rohak Agarwal
 
     ---
 
@@ -75,7 +75,7 @@ hide:
 
     Rhino & Grasshopper workflows for urban microclimate modeling.
 
-    **Team:** TBD
+    **Team:** Anjali Mathews, Marcelo Alvarez, Aiko Hayashi, Ai Hoang
 
     ---
 
