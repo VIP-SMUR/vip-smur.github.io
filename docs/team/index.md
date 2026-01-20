@@ -1,5 +1,7 @@
 <div class="grid cards" markdown>
 
+- [__Spring 2026__](26-Sp.md)
+
 - [__Fall 2025__](25-Fa.md)
 
 - [__Spring 2025__](25-Sp.md)
