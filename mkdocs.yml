@@ -85,7 +85,7 @@ extra:
     - icon: fontawesome/brands/google-scholar
       link: https://gscholar.patrickkastner.de/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/patrickkastner/
+      link: https://www.linkedin.com/company/106111406
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0003-4940-341X
     - icon: fontawesome/solid/square-rss
@@ -244,6 +244,26 @@ plugins:
       keep_docs_dir: true
       nav_repos:
 
+        # Spring 2026
+        - name: 26Sp-MPONC
+          import_url: https://github.com/VIP-SMUR/26Sp-MPONC?branch=main
+          imports: [/README.md, /Figures/*, /figures/*]
+        - name: 26Sp-Hardware-IoT
+          import_url: https://github.com/VIP-SMUR/26Sp-Hardware-IoT?branch=main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Sp-Mobility
+          import_url: https://github.com/VIP-SMUR/26Sp-Mobility?branch=main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Sp-WindComfort-ML
+          import_url: https://github.com/VIP-SMUR/26Sp-WindComfort-ML?branch=main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Sp-MedialAxis
+          import_url: https://github.com/VIP-SMUR/26Sp-MedialAxis?branch=main
+          imports: [/README.md, /Figures/*, /figures/*]
+        - name: 26Sp-Microclimate-OutdoorPlus
+          import_url: https://github.com/VIP-SMUR/26Sp-Microclimate-OutdoorPlus?branch=main
+          imports: [/README.md, /Figures/*, /figures/*]
+
         # Fall 2025
         - name: 25Fa-MedialAxis
           import_url: https://github.com/VIP-SMUR/25Fa-MedialAxis?branch=main
@@ -337,6 +357,15 @@ nav:
   - Projects:
       - Overview: projects/index.md
 
+      - Spring 2026:
+          - Projects: projects/26sp/README.md
+          - 26-Sp-MPONC: 26sp-mponc/README.md
+          - 26-Sp-Hardware-IoT: 26sp-hardware-iot/README.md
+          - 26-Sp-Mobility: 26sp-mobility/README.md
+          - 26-Sp-WindComfort-ML: 26sp-windcomfort-ml/README.md
+          - 26-Sp-MedialAxis: 26sp-medialaxis/README.md
+          - 26-Sp-Microclimate-Outdoor+: 26sp-microclimate-outdoorplus/README.md
+
       - Fall 2025:
           - Projects: projects/25fa/README.md
           - 25-Fa-MedialAxis: 25fa-medialaxis/README.md
@@ -376,6 +405,7 @@ nav:
 
   - Team:
       - Team overview: team/index.md
+      - 26-Spring: team/26-Sp.md
       - 25-Fall: team/25-Fa.md
       - 25-Spring: team/25-Sp.md
       - 24-Fall: team/24-Fa.md
