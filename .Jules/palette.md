@@ -1,0 +1,3 @@
+## 2024-03-11 - Add ARIA Labels to Repetitive Links
+**Learning:** Repetitive links like "Learn more" (often styled as cards or buttons in mkdocs-material) create a poor screen reader experience because users navigating by links only hear "Learn more" repeatedly without context. Using markdown attribute lists (`{ aria-label="..." }`) allows adding descriptive text for assistive tech while keeping the visual design clean.
+**Action:** Always verify what the screen reader will announce for links that have generic text. When using mkdocs with `attr_list` enabled, use `{ aria-label="..." }` to inject accessible names on links.
