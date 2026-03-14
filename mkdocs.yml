@@ -48,7 +48,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/link
+        icon: material/theme-light-dark
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -80,16 +80,22 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/VIP-SMUR
+      name: GitHub
     - icon: fontawesome/brands/researchgate
       link: https://www.researchgate.net/profile/Patrick-Kastner
+      name: ResearchGate
     - icon: fontawesome/brands/google-scholar
       link: https://gscholar.patrickkastner.de/
+      name: Google Scholar
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/106111406
+      name: LinkedIn
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0003-4940-341X
+      name: ORCID
     - icon: fontawesome/solid/square-rss
       link: https://vip-smur.github.io/feed_rss_created.xml
+      name: RSS Feed
 
 extra_javascript:
   - javascripts/tablesort.js
