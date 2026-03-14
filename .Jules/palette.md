@@ -1,3 +1,7 @@
-## 2024-03-11 - Add ARIA Labels to Repetitive Links
-**Learning:** Repetitive links like "Learn more" (often styled as cards or buttons in mkdocs-material) create a poor screen reader experience because users navigating by links only hear "Learn more" repeatedly without context. Using markdown attribute lists (`{ aria-label="..." }`) allows adding descriptive text for assistive tech while keeping the visual design clean.
-**Action:** Always verify what the screen reader will announce for links that have generic text. When using mkdocs with `attr_list` enabled, use `{ aria-label="..." }` to inject accessible names on links.
+## 2024-05-24 - Social Links ARIA Accessibility in MkDocs Material
+**Learning:** `mkdocs-material` theme's social links (`extra.social`) generate icon-only links. To ensure proper ARIA labels and tooltips are generated for keyboard navigation and screen readers, each link requires an explicitly defined `name` property alongside the `icon` and `link`. Without `name`, the links lack text descriptions.
+**Action:** Always verify `extra.social` links in `mkdocs.yml` have a defined `name` attribute when performing accessibility checks.
+
+## 2024-05-24 - Clarity of System Theme Icon
+**Learning:** The default `material/link` (🔗) icon for the "(prefers-color-scheme)" automatic theme toggle can be confusing to users as it typically implies a URL link rather than a theme setting.
+**Action:** Recommend `material/theme-light-dark` as a more intuitive visual representation for the automatic system theme preference toggle.
