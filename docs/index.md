@@ -4,10 +4,17 @@ hide:
 ---
 
 <style>
-/* find better solution for this later */
+/* Visually hide h1 but keep accessible for screen readers */
 .md-typeset h1 {
   position: absolute;
-  left: -999px;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 </style>
 
