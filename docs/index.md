@@ -18,6 +18,8 @@ hide:
 }
 </style>
 
+# Surrogate Modeling for Urban Regeneration (SMUR)
+
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only){ align=left, width="500", .off-glb}
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-black.svg#light-only){ align=left, width="500", .off-glb}
 
