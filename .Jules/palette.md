@@ -5,3 +5,7 @@
 ## 2024-05-24 - Clarity of System Theme Icon
 **Learning:** The default `material/link` (🔗) icon for the "(prefers-color-scheme)" automatic theme toggle can be confusing to users as it typically implies a URL link rather than a theme setting.
 **Action:** Recommend `material/theme-light-dark` as a more intuitive visual representation for the automatic system theme preference toggle.
+
+## $(date +%Y-%m-%d) - Adding Aria-Labels to Images and Non-Descriptive Links
+**Learning:** Raw HTML in markdown files (`macleamy.md`) and configuration files (`mkdocs.yml`) containing links often lack sufficient context for screen reader users when they navigate by link, particularly when the text is short like "(more info)" or contains only an image.
+**Action:** When finding raw HTML `<a>` tags around images or with non-descriptive link text, always add an explicit `aria-label` describing the destination or action.
