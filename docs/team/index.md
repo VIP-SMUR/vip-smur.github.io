@@ -12,14 +12,34 @@ Semester-specific co-instructor assignments are listed on each term's team page.
 
 <div class="grid cards" markdown>
 
-- [__Spring 2026__](26-Sp.md)
+- :material-account-multiple:{ .lg .middle } __Spring 2026__
 
-- [__Fall 2025__](25-Fa.md)
+    ---
 
-- [__Spring 2025__](25-Sp.md)
+    [:octicons-arrow-right-24: Learn more](26-Sp.md){ aria-label="Learn more about the Spring 2026 Team" }
 
-- [__Fall 2024__](24-Fa.md)
+- :material-account-multiple:{ .lg .middle } __Fall 2025__
 
-- [__Spring 2024__](24-Sp.md)
+    ---
 
-  </div>
+    [:octicons-arrow-right-24: Learn more](25-Fa.md){ aria-label="Learn more about the Fall 2025 Team" }
+
+- :material-account-multiple:{ .lg .middle } __Spring 2025__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](25-Sp.md){ aria-label="Learn more about the Spring 2025 Team" }
+
+- :material-account-multiple:{ .lg .middle } __Fall 2024__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](24-Fa.md){ aria-label="Learn more about the Fall 2024 Team" }
+
+- :material-account-multiple:{ .lg .middle } __Spring 2024__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](24-Sp.md){ aria-label="Learn more about the Spring 2024 Team" }
+
+</div>
