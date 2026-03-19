@@ -23,7 +23,7 @@ hide:
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only){ align=left, width="500", .off-glb}
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-black.svg#light-only){ align=left, width="500", .off-glb}
 
-Welcome to the project page of the [VIP][VIP] team [Surrogate Modeling for Urban Regeneration](https://vip-smur.github.io/) (SMUR) at Georgia Tech.
+Welcome to the project page of the [VIP][VIP] team Surrogate Modeling for Urban Regeneration (SMUR) at Georgia Tech.
 This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban Systems Lab](https://sustain.arch.gatech.edu).
 
 ## 📝 The Problem
@@ -72,7 +72,7 @@ We're happy to help!
   
 ## 📊 Project Overview
 
-Our [current and previous projects](https://vip-smur.github.io/projects/) include topics on:
+Our [current and previous projects](projects/index.md) include topics on:
 
 1. Energy in Buildings
 2. Urban Microclimate

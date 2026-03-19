@@ -9,3 +9,7 @@
 ## $(date +%Y-%m-%d) - Adding Aria-Labels to Images and Non-Descriptive Links
 **Learning:** Raw HTML in markdown files (`macleamy.md`) and configuration files (`mkdocs.yml`) containing links often lack sufficient context for screen reader users when they navigate by link, particularly when the text is short like "(more info)" or contains only an image.
 **Action:** When finding raw HTML `<a>` tags around images or with non-descriptive link text, always add an explicit `aria-label` describing the destination or action.
+
+## 2026-03-19 - Full Context for Social Icons
+**Learning:** Social icon links in MkDocs with generic names like "GitHub" or "LinkedIn" fail to provide sufficient context for screen reader users navigating out of context. They only hear "GitHub, link" instead of knowing whose profile it leads to.
+**Action:** Always prefix or suffix generic social platform names with the account name or organization name (e.g., "VIP-SMUR on GitHub" or "Patrick Kastner on ORCID") to ensure unambiguous navigation.
