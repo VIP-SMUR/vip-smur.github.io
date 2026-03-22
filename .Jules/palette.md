@@ -13,3 +13,6 @@
 ## 2026-03-19 - Full Context for Social Icons
 **Learning:** Social icon links in MkDocs with generic names like "GitHub" or "LinkedIn" fail to provide sufficient context for screen reader users navigating out of context. They only hear "GitHub, link" instead of knowing whose profile it leads to.
 **Action:** Always prefix or suffix generic social platform names with the account name or organization name (e.g., "VIP-SMUR on GitHub" or "Patrick Kastner on ORCID") to ensure unambiguous navigation.
+## 2025-03-22 - [Raw HTML Anchor Tags in MkDocs Captions]
+**Learning:** Raw HTML `<a>` tags embedded in Markdown files (like in `<figcaption>` elements) lack screen-reader context if the text is generic.
+**Action:** Ensure all raw HTML anchor tags include descriptive `aria-label` attributes for accessibility.
