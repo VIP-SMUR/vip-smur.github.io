@@ -16,3 +16,7 @@
 ## 2025-03-22 - [Raw HTML Anchor Tags in MkDocs Captions]
 **Learning:** Raw HTML `<a>` tags embedded in Markdown files (like in `<figcaption>` elements) lack screen-reader context if the text is generic.
 **Action:** Ensure all raw HTML anchor tags include descriptive `aria-label` attributes for accessibility.
+
+## 2026-03-24 - Semantic Structure for Images with Captions
+**Learning:** Using raw markdown images (`![alt](url)`) and separate text for captions is poor for accessibility as screen readers don't semantically associate the text with the image.
+**Action:** Always use `<figure markdown="span">` containing an image and a `<figcaption>` element to provide semantic structure and improve accessibility for images with captions.
