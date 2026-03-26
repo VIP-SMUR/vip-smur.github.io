@@ -6,7 +6,7 @@
 **Learning:** The default `material/link` (🔗) icon for the "(prefers-color-scheme)" automatic theme toggle can be confusing to users as it typically implies a URL link rather than a theme setting.
 **Action:** Recommend `material/theme-light-dark` as a more intuitive visual representation for the automatic system theme preference toggle.
 
-## $(date +%Y-%m-%d) - Adding Aria-Labels to Images and Non-Descriptive Links
+## 2026-03-26 - Adding Aria-Labels to Images and Non-Descriptive Links
 **Learning:** Raw HTML in markdown files (`macleamy.md`) and configuration files (`mkdocs.yml`) containing links often lack sufficient context for screen reader users when they navigate by link, particularly when the text is short like "(more info)" or contains only an image.
 **Action:** When finding raw HTML `<a>` tags around images or with non-descriptive link text, always add an explicit `aria-label` describing the destination or action.
 
@@ -20,3 +20,7 @@
 ## 2026-03-24 - Semantic Structure for Images with Captions
 **Learning:** Using raw markdown images (`![alt](url)`) and separate text for captions is poor for accessibility as screen readers don't semantically associate the text with the image.
 **Action:** Always use `<figure markdown="span">` containing an image and a `<figcaption>` element to provide semantic structure and improve accessibility for images with captions.
+
+## 2026-03-26 - Avoiding Redundant ARIA Labels
+**Learning:** Adding `aria-label` attributes to `<a>` tags where the visible text is already highly descriptive (e.g., "Sustainability Network Meeting") causes unnecessary verbosity for screen readers. ARIA labels should only be applied to generic text like "Learn more" or "(more info)", or icon-only buttons.
+**Action:** When performing accessibility checks or applying UX improvements, avoid adding redundant `aria-label` attributes to links that already have highly descriptive visible text.
