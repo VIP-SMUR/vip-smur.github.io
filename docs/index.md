@@ -29,13 +29,13 @@ This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban System
 ## 📝 The Problem
 
 Many performance-related decisions in architectural and urban design happen too late in the decision-making process to ensure they suit the clients' purposes.
-We believe this hinders true [urban regeneration][urban regeneration].
+We believe this hinders true [urban regeneration][urban regeneration]{ target="_blank" rel="noopener noreferrer" aria-label="Urban regeneration (opens in a new tab)" }.
 This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 {% include 'macleamy.md' %}
 
 Our models will enable urban decision-making by enabling real-time testing of interventions.
-By involving a multitude of urban [stakeholders][stakeholders], we make regenerative cities tangible, actionable, and inclusive.
+By involving a multitude of urban [stakeholders][stakeholders]{ target="_blank" rel="noopener noreferrer" aria-label="Urban stakeholders (opens in a new tab)" }, we make regenerative cities tangible, actionable, and inclusive.
 Our work will address:
 
 - Air quality, pollution, natural ventilation potential
@@ -49,7 +49,7 @@ Our work will address:
 ## 🎯 Goals
 
 Conventional environmental simulation approaches in urban design are time-consuming and often incompatible with fast-paced decision-making processes.
-This VIP aims to address this by developing [surrogate models][surrogate models] that accelerate simulations (typically via machine learning) that offer real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. After the decision-making has been informed, we employ high-fidelity, physics-based simulations to validate our results and to produce final numbers.
+This VIP aims to address this by developing [surrogate models][surrogate models]{ target="_blank" rel="noopener noreferrer" aria-label="Surrogate models (opens in a new tab)" } that accelerate simulations (typically via machine learning) that offer real-time feedback to urban decision-makers, such as architects, urban designers, and policymakers. After the decision-making has been informed, we employ high-fidelity, physics-based simulations to validate our results and to produce final numbers.
 
 Our goal is to seamlessly integrate sustainability considerations into every step of urban decision-making processes by integrating our models with industry-leading CAD tools such as `Rhino` and `Revit`, `GIS`, and making them usable even in the browser.
 
