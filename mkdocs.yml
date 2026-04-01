@@ -8,7 +8,7 @@ site_description: >-
 
 # Copyright
 copyright: >-
-  Copyright &copy; 2023-2026 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/" target="_blank" rel="noopener noreferrer" aria-label="Design credits by Siddharth Dasari (opens in a new tab)">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions" target="_blank" rel="noopener noreferrer" aria-label="View GitHub Actions build status (opens in a new tab)"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
+  Copyright &copy; 2023-2026 Sustainable Urban Systems Lab. <a href="https://siddharthdasari.com/" aria-label="Design credits by Siddharth Dasari">Design credits.</a><p><a href="https://github.com/VIP-SMUR/vip-smur.github.io/actions" aria-label="View GitHub Actions build status"><img alt="Last Built" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FVIP-SMUR%2Fvip-smur.github.io%2Factions%2Fworkflows%2F119410802%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Last%20Built&cacheSeconds=720"></a>
 
 theme:
   name: material
@@ -46,23 +46,24 @@ theme:
     # - toc.integrate
 
   palette:
+    # Do not change the semantics of these symbols (icons) for the theme toggle.
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/weather-sunny
+        icon: material/theme-light-dark
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
       accent: black
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: indigo
       toggle:
-        icon: material/theme-light-dark
+        icon: material/toggle-switch-off
         name: Switch to system preference
 
 extra_css:

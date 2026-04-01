@@ -24,3 +24,6 @@
 ## 2026-03-26 - Avoiding Redundant ARIA Labels
 **Learning:** Adding `aria-label` attributes to `<a>` tags where the visible text is already highly descriptive (e.g., "Sustainability Network Meeting") causes unnecessary verbosity for screen readers. ARIA labels should only be applied to generic text like "Learn more" or "(more info)", or icon-only buttons.
 **Action:** When performing accessibility checks or applying UX improvements, avoid adding redundant `aria-label` attributes to links that already have highly descriptive visible text.
+## 2026-04-01 - [Theme Toggle Icons]
+**Learning:** The user explicitly requested that the semantics of the symbols (icons) for the color palette theme toggle should not be changed.
+**Action:** When updating the MkDocs Material palette settings in `mkdocs.yml`, always keep the default icons (`material/theme-light-dark`, `material/toggle-switch`, `material/toggle-switch-off`). Do not replace them with sun/moon or context-aware icons.
