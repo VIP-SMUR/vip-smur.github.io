@@ -1,6 +1,6 @@
 # Outreach & Conferences
 
-### Fall 2025
+## Fall 2025
 
 <figure markdown="span">
   ![Fall 2025 Sustainability Network Meeting](25-SustainabilityNetworkMeeting.jpeg)
@@ -9,7 +9,7 @@
   </figcaption>
 </figure>
 
-### Summer 2025
+## Summer 2025
 
 <figure markdown="span">
   ![VIP-SMUR ISyE Summer Scholars Program](25-SURS-Justin.jpg)
@@ -18,7 +18,7 @@
   </figcaption>
 </figure>
 
-### Fall 2024
+## Fall 2024
 
 <figure markdown="span">
   ![VIP-SMUR Georgia Undergraduate Research Conference 2024 in Oxford, GA](24-GURC.jpg)
@@ -34,7 +34,7 @@
   Ze Yu Jiang, Sofia Mujica, Silvia Vangelova, and Patrick Kastner</figcaption>
 </figure>
 
-### Spring 2024
+## Spring 2024
 
 <figure markdown="span">
   ![Anubha Mahajan representing VIP-SMUR at the BBISS Sustainability Showcase](24-BBISS-Mahajan.jpg)
