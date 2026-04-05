@@ -1,3 +1,5 @@
+# Team Overview
+
 ## Co-Instructors
 
 Co-instructors are domain experts who mentor specific subteams each semester, provide technical and research guidance, and help scope project direction with the class lead.
