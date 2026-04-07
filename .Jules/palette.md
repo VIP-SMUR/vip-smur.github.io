@@ -27,3 +27,7 @@
 ## 2026-04-01 - [Theme Toggle Icons]
 **Learning:** The user explicitly requested that the semantics of the symbols (icons) for the color palette theme toggle should not be changed.
 **Action:** When updating the MkDocs Material palette settings in `mkdocs.yml`, always keep the default icons (`material/theme-light-dark`, `material/toggle-switch`, `material/toggle-switch-off`). Do not replace them with sun/moon or context-aware icons.
+
+## 2026-04-07 - Redundant Alt Text with Captions
+**Learning:** When images are wrapped in `<figure>` with a descriptive `<figcaption>`, providing identical or highly similar text in the image's `alt` attribute causes screen readers to read the description twice, creating a verbose and frustrating experience.
+**Action:** When an image has a `<figcaption>` that fully describes its purpose or content, leave the markdown alt text empty (e.g., `![]()`) to generate `alt=""` and avoid redundancy for screen reader users.
