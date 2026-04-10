@@ -29,7 +29,7 @@ This course is led by Dr. Patrick Kastner, head of the [Sustainable Urban System
 ## 📝 The Problem
 
 Many performance-related decisions in architectural and urban design happen too late in the decision-making process to ensure they suit the clients' purposes.
-We believe this hinders true [urban regeneration][urban regeneration]{ target="_blank" rel="noopener noreferrer" aria-label="Urban regeneration (opens in a new tab)" }.
+We believe this hinders true [urban regeneration][urban regeneration]{ target="_blank" rel="noopener noreferrer" aria-label="urban regeneration (opens in a new tab)" }.
 This research course challenges this status quo by developing software tools that empower communities and urban decision-makers.
 
 {% include 'macleamy.md' %}
