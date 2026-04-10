@@ -31,3 +31,7 @@
 ## 2026-04-07 - Redundant Alt Text with Captions
 **Learning:** When images are wrapped in `<figure>` with a descriptive `<figcaption>`, providing identical or highly similar text in the image's `alt` attribute causes screen readers to read the description twice, creating a verbose and frustrating experience.
 **Action:** When an image has a `<figcaption>` that fully describes its purpose or content, leave the markdown alt text empty (e.g., `![]()`) to generate `alt=""` and avoid redundancy for screen reader users.
+
+## 2024-04-10 - ARIA Labels and Image Alt Text
+**Learning:** When a link contains only an image, the image's `alt` text serves as the visible text for speech-input users. If an `aria-label` is applied to the link, it completely overrides this name, potentially breaking speech navigation if it doesn't include the exact `alt` text.
+**Action:** When adding or updating an `aria-label` on a link whose sole content is an image with `alt` text, ensure the `aria-label` incorporates the exact `alt` text to comply with WCAG 2.5.3 (Label in Name).

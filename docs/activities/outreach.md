@@ -29,7 +29,7 @@
 
 <figure markdown="span">
   ![](24-GNI.jpeg)
-  <figcaption><a href="https://sustainableurbansystems.com/news/announcement_24/" target="_blank" rel="noopener noreferrer" aria-label="GNI Symposium on AI for the Built World in Munich, Germany (opens in a new tab)">GNI Symposium on AI for the Built World in Munich, Germany.</a><br>
+  <figcaption><a href="https://sustainableurbansystems.com/news/announcement_24/" target="_blank" rel="noopener noreferrer" aria-label="GNI Symposium on AI for the Built World in Munich, Germany (opens in a new tab)">GNI Symposium on AI for the Built World in Munich, Germany</a>.<br>
 
   Ze Yu Jiang, Sofia Mujica, Silvia Vangelova, and Patrick Kastner</figcaption>
 </figure>
