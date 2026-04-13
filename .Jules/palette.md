@@ -35,3 +35,7 @@
 ## 2024-04-10 - ARIA Labels and Image Alt Text
 **Learning:** When a link contains only an image, the image's `alt` text serves as the visible text for speech-input users. If an `aria-label` is applied to the link, it completely overrides this name, potentially breaking speech navigation if it doesn't include the exact `alt` text.
 **Action:** When adding or updating an `aria-label` on a link whose sole content is an image with `alt` text, ensure the `aria-label` incorporates the exact `alt` text to comply with WCAG 2.5.3 (Label in Name).
+
+## 2026-04-10 - Modern Visually Hidden Pattern vs Inline Styles
+**Learning:** Using inline `<style>` blocks in Markdown files to visually hide specific elements (like an `h1`) makes styles hard to maintain, isn't reusable across the site, and pollutes the document.
+**Action:** Always prefer defining accessibility classes like `.visually-hidden` using modern CSS patterns in the site's main stylesheet (`extra.css`) and apply them using markdown attribute lists (e.g., `{.visually-hidden}`) to keep styling separate from content.
