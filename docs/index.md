@@ -3,22 +3,7 @@ hide:
   - navigation
 ---
 
-<style>
-/* Visually hide h1 but keep accessible for screen readers */
-.md-typeset h1 {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
-}
-</style>
-
-# Surrogate Modeling for Urban Regeneration (SMUR)
+# Surrogate Modeling for Urban Regeneration (SMUR){.visually-hidden}
 
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only){ align=left, width="500", .off-glb}
 ![SustainLab Logo](images/sustainlab-smur-logo-wordmark-color-black.svg#light-only){ align=left, width="500", .off-glb}
