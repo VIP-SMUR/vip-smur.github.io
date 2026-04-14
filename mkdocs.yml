@@ -122,6 +122,7 @@ markdown_extensions:
       anchor_linenums: true
       pygments_lang_class: true
       auto_title: true
+      line_spans: __span
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -135,15 +136,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.snippets
   - footnotes
   - tables
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - markdown_include.include:

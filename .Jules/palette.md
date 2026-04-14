@@ -39,3 +39,11 @@
 ## 2026-04-10 - Modern Visually Hidden Pattern vs Inline Styles
 **Learning:** Using inline `<style>` blocks in Markdown files to visually hide specific elements (like an `h1`) makes styles hard to maintain, isn't reusable across the site, and pollutes the document.
 **Action:** Always prefer defining accessibility classes like `.visually-hidden` using modern CSS patterns in the site's main stylesheet (`extra.css`) and apply them using markdown attribute lists (e.g., `{.visually-hidden}`) to keep styling separate from content.
+
+## 2026-04-14 - Raw HTML in Markdown Tooltips
+**Learning:** Using raw HTML tags (like `<br>` or `&emsp;`) within Markdown link titles (which become HTML `title` attributes) results in a poor user experience, as browsers render these HTML tags literally within the tooltip instead of formatting the text.
+**Action:** Always use clean, text-only formatting (such as comma-separated lists) for Markdown link titles and avoid embedding raw HTML within them.
+
+## 2026-04-14 - MkDocs Markdown Extension Configuration Deduplication
+**Learning:** Duplicating Markdown extension configurations (such as `pymdownx.highlight` or `pymdownx.tasklist`) in `mkdocs.yml` can cause later declarations to silently override earlier ones, unexpectedly disabling UX features like `auto_title: true`.
+**Action:** When configuring Markdown extensions in MkDocs, consolidate all properties for a given extension into a single dictionary entry to prevent configuration collisions and missing features.
