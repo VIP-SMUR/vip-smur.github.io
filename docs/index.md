@@ -74,7 +74,7 @@ Include Markdowm from https://github.com/VIP-SMUR/.github/blob/main/profile/READ
 
 [VIP]: https://vip.gatech.edu/vip-vertically-integrated-projects-program "The Vertically Integrated Projects (VIP) Program is a transformative approach to enhancing higher education by engaging undergraduate and graduate students in ambitious, long-term, large-scale, multidisciplinary project teams led by faculty. The program has been rigorously evaluated and refined over two decades."
 
-[stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "- Affected populations<br>- Community leaders<br>- Civil society:<br>&emsp;- local non-governmental organisations<br>&emsp;- community-based organisations<br>&emsp;- non-state armed actor<br>- International actors and donors<br>- National government, sub-national and local government<br>- Urban planning institutions<br>- Architects / Urban Designers<br>- Private sector<br>- Academia"
+[stakeholders]: https://www.rescue.org/sites/default/files/document/1501/weburbanstakeholderengagementandcoordinationweb.pdf "Affected populations, Community leaders, Civil society, International actors and donors, National government, sub-national and local government, Urban planning institutions, Architects / Urban Designers, Private sector, Academia"
 
 [urban regeneration]: https://unhabitat.org/topic/urban-regeneration "Urban regeneration brings back underutilized assets and redistributes opportunities, increasing urban prosperity and quality of life."
 
