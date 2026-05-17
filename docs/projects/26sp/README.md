@@ -9,7 +9,9 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-view-grid-plus:{ .lg .middle } __MPONC__
+- ![MPONC simulation preview](../../26sp-mponc/Figures/updated_sim_gif.gif){ .project-card-image }
+
+    :material-view-grid-plus:{ .lg .middle } __MPONC__
 
     ---
 
@@ -21,7 +23,9 @@ hide:
 
     [:octicons-arrow-right-24: Learn more](../../26sp-mponc/README.md){ aria-label="Learn more about MPONC" }
 
-- :material-memory:{ .lg .middle } __Hardware + IoT__
+- ![Hardware and IoT occupancy pipeline](../../26sp-hardware-iot/figures/hardware-iot-header.svg){ .project-card-image }
+
+    :material-memory:{ .lg .middle } __Hardware + IoT__
 
     ---
 
@@ -33,7 +37,9 @@ hide:
 
     [:octicons-arrow-right-24: Learn more](../../26sp-hardware-iot/README.md){ aria-label="Learn more about Hardware + IoT" }
 
-- :fontawesome-solid-person-walking:{ .lg .middle } __Mobility__
+- ![Mobility index workflow](../../26sp-mobility/figures/mobility-header.svg){ .project-card-image }
+
+    :fontawesome-solid-person-walking:{ .lg .middle } __Mobility__
 
     ---
 
@@ -45,7 +51,9 @@ hide:
 
     [:octicons-arrow-right-24: Learn more](../../26sp-mobility/README.md){ aria-label="Learn more about Mobility" }
 
-- :material-weather-windy:{ .lg .middle } __Wind Comfort (ML)__
+- ![Wind comfort ML surrogate model preview](../../26sp-windcomfort-ml/figures/windcomfort-header.png){ .project-card-image }
+
+    :material-weather-windy:{ .lg .middle } __Wind Comfort (ML)__
 
     ---
 
@@ -57,7 +65,9 @@ hide:
 
     [:octicons-arrow-right-24: Learn more](../../26sp-windcomfort-ml/README.md){ aria-label="Learn more about Wind Comfort (ML)" }
 
-- :material-call-split:{ .lg .middle } __Medial Axis__
+- ![Medial axis transformation preview](../../26sp-medialaxis/figures/medial-axis-header.png){ .project-card-image }
+
+    :material-call-split:{ .lg .middle } __Medial Axis__
 
     ---
 
@@ -69,7 +79,9 @@ hide:
 
     [:octicons-arrow-right-24: Learn more](../../26sp-medialaxis/README.md){ aria-label="Learn more about Medial Axis" }
 
-- :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
+- ![UMCF Outdoor+ workflow preview](../../26sp-microclimate-outdoorplus/figures/umcf-header.gif){ .project-card-image }
+
+    :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
 
     ---
 
