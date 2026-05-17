@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
+  <title id="title">Mobility and neighborhood index workflow</title>
+  <desc id="desc">A map-inspired workflow diagram showing census tracts, transport networks, index components, and validation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.6" stop-color="#eef6f0"/>
+      <stop offset="1" stop-color="#f4f1e8"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#365163"/>
+    </marker>
+    <style>
+      .title { font: 700 32px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #183244; }
+      .body { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #365163; }
+      .label { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #183244; }
+      .small { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #365163; }
+      .panel { fill: #ffffff; stroke: #cbd8df; stroke-width: 2; rx: 24; }
+      .route { stroke: #2b6f8a; stroke-width: 8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .trail { stroke: #4c9a6a; stroke-width: 7; fill: none; stroke-linecap: round; stroke-dasharray: 14 13; }
+      .arrow { stroke: #365163; stroke-width: 5; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1400" height="620" fill="url(#bg)"/>
+  <text x="70" y="78" class="title">Mobility Index Construction and Validation</text>
+  <text x="70" y="112" class="body">OpenStreetMap, census, greenspace, safety, and transit data are summarized at the tract scale.</text>
+
+  <rect x="70" y="165" width="405" height="340" class="panel"/>
+  <text x="105" y="212" class="label">Census Tract Network</text>
+  <g transform="translate(105 248)">
+    <path d="M15,80 L92,18 L187,36 L244,98 L202,208 L97,225 L32,165 Z" fill="#e8f4f8" stroke="#284c5a" stroke-width="4"/>
+    <path d="M92,18 L97,225 M187,36 L97,225 M244,98 L32,165 M15,80 L202,208" stroke="#ffffff" stroke-width="10"/>
+    <path d="M92,18 L97,225 M187,36 L97,225 M244,98 L32,165 M15,80 L202,208" stroke="#284c5a" stroke-width="2"/>
+    <path d="M20,78 C88,91 126,101 176,143 C201,164 221,180 255,193" class="route"/>
+    <path d="M42,187 C72,133 128,94 228,77" class="trail"/>
+    <circle cx="20" cy="78" r="9" fill="#e15a45"/>
+    <circle cx="176" cy="143" r="9" fill="#e15a45"/>
+    <circle cx="255" cy="193" r="9" fill="#e15a45"/>
+    <circle cx="228" cy="77" r="9" fill="#4c9a6a"/>
+  </g>
+
+  <path d="M500 335 H625" class="arrow"/>
+
+  <rect x="650" y="165" width="300" height="340" class="panel"/>
+  <text x="686" y="212" class="label">Index Components</text>
+  <g transform="translate(694 255)">
+    <rect x="0" y="0" width="220" height="36" rx="18" fill="#dcefeb"/>
+    <rect x="0" y="52" width="180" height="36" rx="18" fill="#f6d7c6"/>
+    <rect x="0" y="104" width="205" height="36" rx="18" fill="#dce5f4"/>
+    <rect x="0" y="156" width="150" height="36" rx="18" fill="#e6e0f0"/>
+    <text x="18" y="24" class="small">Walkability</text>
+    <text x="18" y="76" class="small">Bikability</text>
+    <text x="18" y="128" class="small">Road safety</text>
+    <text x="18" y="180" class="small">Transit access</text>
+  </g>
+
+  <path d="M975 335 H1100" class="arrow"/>
+
+  <rect x="1125" y="165" width="205" height="340" class="panel"/>
+  <text x="1160" y="212" class="label">Validation</text>
+  <g transform="translate(1166 258)">
+    <rect x="0" y="0" width="124" height="155" rx="16" fill="#f6f8fb" stroke="#284c5a" stroke-width="3"/>
+    <path d="M18 112 L44 80 L67 93 L106 40" stroke="#e15a45" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 130 H108 M18 20 V132" stroke="#284c5a" stroke-width="3"/>
+    <circle cx="44" cy="80" r="7" fill="#e15a45"/>
+    <circle cx="67" cy="93" r="7" fill="#e15a45"/>
+    <circle cx="106" cy="40" r="7" fill="#e15a45"/>
+  </g>
+  <text x="1160" y="452" class="small">Compare across</text>
+  <text x="1160" y="476" class="small">places and years</text>
+</svg>

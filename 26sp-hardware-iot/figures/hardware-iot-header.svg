@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
+  <title id="title">Decision-relevant occupancy sensing pipeline</title>
+  <desc id="desc">A pipeline diagram connecting thermal array sensing, occupancy state estimation, room zoning, and HVAC simulation inputs.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#edf5f2"/>
+    </linearGradient>
+    <linearGradient id="thermal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#143d59"/>
+      <stop offset="0.45" stop-color="#2f8f9d"/>
+      <stop offset="0.72" stop-color="#f3b34d"/>
+      <stop offset="1" stop-color="#d94c3d"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2d5160"/>
+    </marker>
+    <style>
+      .label { font: 700 30px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #17333f; }
+      .small { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #365966; }
+      .tiny { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #365966; }
+      .card { fill: white; stroke: #cbdbe0; stroke-width: 2; rx: 24; }
+      .line { stroke: #2d5160; stroke-width: 5; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1400" height="620" fill="url(#panel)"/>
+  <text x="70" y="78" class="label">Decision-Relevant Occupancy Sensing for Simulation</text>
+  <text x="70" y="112" class="small">Thermal array data is converted into occupancy states, spatial zones, and HVAC-ready schedules.</text>
+
+  <rect x="70" y="175" width="250" height="300" class="card"/>
+  <text x="105" y="220" class="small">Thermal Array</text>
+  <g transform="translate(105 255)">
+    <rect x="0" y="0" width="180" height="150" rx="16" fill="#122b3a"/>
+    <g transform="translate(18 18)">
+      <rect x="0" y="0" width="144" height="114" rx="8" fill="url(#thermal)"/>
+      <g opacity="0.55" stroke="#ffffff" stroke-width="1">
+        <path d="M18 0 V114 M36 0 V114 M54 0 V114 M72 0 V114 M90 0 V114 M108 0 V114 M126 0 V114"/>
+        <path d="M0 19 H144 M0 38 H144 M0 57 H144 M0 76 H144 M0 95 H144"/>
+      </g>
+    </g>
+    <circle cx="152" cy="126" r="11" fill="#d94c3d"/>
+  </g>
+  <text x="105" y="442" class="tiny">MLX90640 + ESP32</text>
+
+  <path d="M335 325 H472" class="line"/>
+
+  <rect x="495" y="175" width="250" height="300" class="card"/>
+  <text x="532" y="220" class="small">Occupancy States</text>
+  <g transform="translate(540 263)" fill="none" stroke="#2f6f73" stroke-width="8" stroke-linecap="round">
+    <circle cx="35" cy="30" r="24" fill="#e8f2ef" stroke="#2f6f73"/>
+    <path d="M35 58 V132"/>
+    <path d="M0 86 H70"/>
+    <path d="M35 132 L8 185"/>
+    <path d="M35 132 L68 185"/>
+    <circle cx="125" cy="22" r="18" fill="#e8f2ef"/>
+    <path d="M125 45 V105"/>
+    <path d="M103 68 H147"/>
+    <path d="M125 105 L106 148"/>
+    <path d="M125 105 L150 148"/>
+  </g>
+  <text x="532" y="442" class="tiny">Presence, count, and location</text>
+
+  <path d="M760 325 H897" class="line"/>
+
+  <rect x="920" y="175" width="250" height="300" class="card"/>
+  <text x="958" y="220" class="small">Room Zoning</text>
+  <g transform="translate(960 260)">
+    <path d="M0,0 H135 V72 H205 V185 H0 Z" fill="#e9f6fb" stroke="#2d5160" stroke-width="5"/>
+    <rect x="12" y="12" width="55" height="78" fill="#ffd37a" stroke="#2d5160" stroke-width="2"/>
+    <rect x="82" y="12" width="42" height="78" fill="#95d5b2" stroke="#2d5160" stroke-width="2"/>
+    <rect x="140" y="90" width="52" height="82" fill="#9dc3e6" stroke="#2d5160" stroke-width="2"/>
+    <rect x="14" y="108" width="104" height="62" fill="#f2b6aa" stroke="#2d5160" stroke-width="2"/>
+    <circle cx="42" cy="48" r="11" fill="#d94c3d"/>
+    <circle cx="98" cy="51" r="11" fill="#d94c3d"/>
+    <circle cx="66" cy="139" r="11" fill="#d94c3d"/>
+  </g>
+  <text x="958" y="442" class="tiny">L3 zones and internal gains</text>
+
+  <path d="M1185 325 H1305" class="line"/>
+
+  <g transform="translate(1210 175)">
+    <rect x="0" y="0" width="145" height="300" class="card"/>
+    <text x="32" y="45" class="small">CSV</text>
+    <g transform="translate(28 78)" stroke="#2d5160" stroke-width="3">
+      <path d="M0 0 H88 V175 H0 Z" fill="#ffffff"/>
+      <path d="M0 35 H88 M0 70 H88 M0 105 H88 M0 140 H88"/>
+      <path d="M30 0 V175 M60 0 V175"/>
+    </g>
+    <text x="24" y="277" class="tiny">Simulation inputs</text>
+  </g>
+</svg>
