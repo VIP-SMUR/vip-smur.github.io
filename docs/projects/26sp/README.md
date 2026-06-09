@@ -19,7 +19,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-mponc/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-mponc/README.md){ aria-label="Learn more about MPONC" }
 
 - :material-memory:{ .lg .middle } __Hardware + IoT__
 
@@ -31,7 +31,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-hardware-iot/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-hardware-iot/README.md){ aria-label="Learn more about Hardware + IoT" }
 
 - :fontawesome-solid-person-walking:{ .lg .middle } __Mobility__
 
@@ -43,7 +43,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-mobility/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-mobility/README.md){ aria-label="Learn more about Mobility" }
 
 - :material-weather-windy:{ .lg .middle } __Wind Comfort (ML)__
 
@@ -55,7 +55,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-windcomfort-ml/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-windcomfort-ml/README.md){ aria-label="Learn more about Wind Comfort (ML)" }
 
 - :material-call-split:{ .lg .middle } __Medial Axis__
 
@@ -67,7 +67,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-medialaxis/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-medialaxis/README.md){ aria-label="Learn more about Medial Axis" }
 
 - :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
 
@@ -79,6 +79,6 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../26sp-microclimate-outdoorplus/README.md)
+    [:octicons-arrow-right-24: Learn more](../../26sp-microclimate-outdoorplus/README.md){ aria-label="Learn more about Microclimate-Outdoor+" }
 
 </div>

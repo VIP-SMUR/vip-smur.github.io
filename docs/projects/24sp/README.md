@@ -19,7 +19,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-pei/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-pei/README.md){ aria-label="Learn more about Pedestrian Environment Index (PEI)" }
 
 - :material-clock-time-five-outline:{ .lg .middle } __Segregation in the 15-Minute City__
 
@@ -31,7 +31,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-seg/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-mobility-seg/README.md){ aria-label="Learn more about Segregation in the 15-Minute City" }
 
 - :material-weather-sunny:{ .lg .middle } __Urban Weather Generator (UWG)__
 
@@ -43,7 +43,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-microclimate/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-microclimate/README.md){ aria-label="Learn more about Urban Weather Generator (UWG)" }
 
 - :material-chart-bell-curve:{ .lg .middle } __Multivariate Regression of Energy Consumption__
 
@@ -55,6 +55,6 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24sp-energyinbuildings/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24sp-energyinbuildings/README.md){ aria-label="Learn more about Multivariate Regression of Energy Consumption" }
 
 </div>

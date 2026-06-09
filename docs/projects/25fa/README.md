@@ -21,7 +21,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-medialaxis/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-medialaxis/README.md){ aria-label="Learn more about Medial Axis Transformation" }
 
 - :material-view-grid-plus:{ .lg .middle } __MPONC__
   
@@ -35,7 +35,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-mponc/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-mponc/README.md){ aria-label="Learn more about MPONC" }
 
 - :material-office-building:{ .lg .middle } __Energy in Buildings__
   
@@ -49,7 +49,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-energyinbuildings/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-energyinbuildings/README.md){ aria-label="Learn more about Energy in Buildings" }
 
 - :material-weather-sunny:{ .lg .middle } __Microclimate-ML__
   
@@ -63,7 +63,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-ml/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-ml/README.md){ aria-label="Learn more about Microclimate-ML" }
 
 - :material-city-variant:{ .lg .middle } __Microclimate-Outdoor+__
   
@@ -77,7 +77,7 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-outdoorplus/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-microclimate-outdoorplus/README.md){ aria-label="Learn more about Microclimate-Outdoor+" }
 
 - :fontawesome-solid-person-walking:{ .lg .middle } __Mobility (PEI)__
   
@@ -91,6 +91,6 @@ hide:
   
     ---
   
-    [:octicons-arrow-right-24: Learn more](../../25fa-mobility/README.md)
+    [:octicons-arrow-right-24: Learn more](../../25fa-mobility/README.md){ aria-label="Learn more about Mobility (PEI)" }
 
 </div>

@@ -6,18 +6,18 @@
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](rush.md)
+    [:octicons-arrow-right-24: Learn more](rush.md){ aria-label="Learn more about VIP Rush" }
 
 - :material-food-fork-drink:{ .lg .middle } __Class Dinners__
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](dinners.md)
+    [:octicons-arrow-right-24: Learn more](dinners.md){ aria-label="Learn more about Class Dinners" }
 
 - :material-presentation-play:{ .lg .middle } __Outreach & Conferences__
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](outreach.md)
+    [:octicons-arrow-right-24: Learn more](outreach.md){ aria-label="Learn more about Outreach & Conferences" }
 
 </div>

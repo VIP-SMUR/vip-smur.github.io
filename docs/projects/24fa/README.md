@@ -19,7 +19,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-neuroarchitecture/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-neuroarchitecture/README.md){ aria-label="Learn more about Neuroarchitecture" }
 
 - :material-view-grid-plus:{ .lg .middle } __MPONC__
 
@@ -31,7 +31,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-mponc/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-mponc/README.md){ aria-label="Learn more about MPONC" }
 
 - :material-office-building:{ .lg .middle } __Energy in Commercial Buildings__
 
@@ -43,7 +43,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-com/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-com/README.md){ aria-label="Learn more about Energy in Commercial Buildings" }
 
 - :material-home:{ .lg .middle } __Energy in Residential Buildings__
 
@@ -55,7 +55,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-res/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-energyinbuildings-res/README.md){ aria-label="Learn more about Energy in Residential Buildings" }
 
 - :material-weather-sunny:{ .lg .middle } __Geo-LSTM-Kriging__
 
@@ -67,7 +67,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-lstm-kriging/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-lstm-kriging/README.md){ aria-label="Learn more about Geo-LSTM-Kriging" }
 
 - :material-city-variant:{ .lg .middle } __Urban Microclimate Modeling (UMCF)__
 
@@ -79,7 +79,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-umcf/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-microclimate-umcf/README.md){ aria-label="Learn more about Urban Microclimate Modeling (UMCF)" }
 
 - :fontawesome-solid-person-walking:{ .lg .middle } __Pedestrian Environment Index (PEI)__
 
@@ -91,6 +91,6 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Learn more](../../24fa-mobility-pei/README.md)
+    [:octicons-arrow-right-24: Learn more](../../24fa-mobility-pei/README.md){ aria-label="Learn more about Pedestrian Environment Index (PEI)" }
 
 </div>
