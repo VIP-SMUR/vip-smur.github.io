@@ -4,6 +4,12 @@
 
 <div class="grid cards" markdown>
 
+- :material-folder:{ .lg .middle } __Fall 2026__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](26fa/README.md){ aria-label="Learn more about Fall 2026" }
+
 - :material-folder:{ .lg .middle } __Spring 2026__
 
     ---

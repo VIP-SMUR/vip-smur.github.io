@@ -14,6 +14,12 @@ Semester-specific co-instructor assignments are listed on each term's team page.
 
 <div class="grid cards" markdown>
 
+- :material-account-multiple:{ .lg .middle } __Fall 2026__
+
+    ---
+
+    [:octicons-arrow-right-24: Learn more](26-Fa.md){ aria-label="Learn more about the Fall 2026 Team" }
+
 - :material-account-multiple:{ .lg .middle } __Spring 2026__
 
     ---

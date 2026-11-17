@@ -245,6 +245,20 @@ plugins:
       keep_docs_dir: true
       nav_repos:
 
+        # Fall 2026
+        - name: 26Fa-WorldModels
+          import_url: https://github.com/VIP-SMUR/26Fa-WorldModels?branch=main&edit_uri=blob/main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Fa-Mobility
+          import_url: https://github.com/VIP-SMUR/26Fa-Mobility?branch=main&edit_uri=blob/main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Fa-PluginSolar
+          import_url: https://github.com/VIP-SMUR/26Fa-PluginSolar?branch=main&edit_uri=blob/main
+          imports: [/README.md, /Figures/*, /figures/*, /images/*]
+        - name: 26Fa-MedialAxis
+          import_url: https://github.com/VIP-SMUR/26Fa-MedialAxis?branch=main&edit_uri=blob/main
+          imports: [/README.md, /Figures/*, /figures/*]
+
         # Spring 2026
         - name: 26Sp-MPONC
           import_url: https://github.com/VIP-SMUR/26Sp-MPONC?branch=main&edit_uri=blob/main
@@ -358,6 +372,13 @@ nav:
   - Projects:
       - Overview: projects/index.md
 
+      - Fall 2026:
+          - Projects: projects/26fa/README.md
+          - 26-Fa-WorldModels: 26fa-worldmodels/README.md
+          - 26-Fa-Mobility: 26fa-mobility/README.md
+          - 26-Fa-PluginSolar: 26fa-pluginsolar/README.md
+          - 26-Fa-MedialAxis: 26fa-medialaxis/README.md
+
       - Spring 2026:
           - Projects: projects/26sp/README.md
           - 26-Sp-MPONC: 26sp-mponc/README.md
@@ -406,6 +427,7 @@ nav:
 
   - Team:
       - Team overview: team/index.md
+      - 26-Fall: team/26-Fa.md
       - 26-Spring: team/26-Sp.md
       - 25-Fall: team/25-Fa.md
       - 25-Spring: team/25-Sp.md
